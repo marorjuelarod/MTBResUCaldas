@@ -1,0 +1,17 @@
+# ENTORNOS VIRTUAL
+genomaVENV
+
+# CACHÉ
+__pycache__
+
+
+# RESULTADOS
+results/*
+
+# DEFAULT FILES AND FOLDERS
+default_mapfile.txt
+Mutaciones_resistencia_programa.xlsx
+variants/*
+
+# Archivos .vcf
+*.vcf
