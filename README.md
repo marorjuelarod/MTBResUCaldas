@@ -45,7 +45,7 @@ La ejecución del script genera un reporte de ejecución indicando las novedades
 
 ---
 
-### Set de datos de prueba
+### Datos de prueba
 
 Se incluye un dataset de prueba con 15 genomas pertenecientes a 3 países diferentes y se proporcionan los resultados del análisis de susceptibilidad con MTB_Res_UCaldas. 
 
