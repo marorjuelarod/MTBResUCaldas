@@ -16,9 +16,7 @@ MTB_Res_UCaldas está dividido en varias secciones:
 
 ### Entrada del programa
 1. Directorio (ruta de acceso) donde se encuentran todas las muestras a analizar en formato VCF, clasificadas por país de origen o condición de interés.
-2. *Archivo en formato .xlsx (ruta de acceso) donde se encuentra información (estructurada de una manera establecida) que relaciona el gen, la mutación y la caracterización de resistencia según la OMS frente a un antibiótico dado. 
-
-El archivo Mutaciones_resistencia_programa.xlsx proporcionado en este repositorio contiene las asignación y clasificación de las mutaciones reportadas por la OMS en el catálogo de mutaciones de resistencia publicado en junio de 2021 disponible en https://www.who.int/publications/i/item/9789240028173
+2. *Archivo en formato .xlsx (ruta de acceso) donde se encuentra información (estructurada de una manera establecida) que relaciona el gen, la mutación y la caracterización de resistencia según la OMS frente a un antibiótico dado. El archivo Mutaciones_resistencia_programa.xlsx proporcionado en este repositorio contiene las asignación y clasificación de las mutaciones reportadas por la OMS en el catálogo de mutaciones de resistencia publicado en junio de 2021 disponible en https://www.who.int/publications/i/item/9789240028173
 ---
 
 ### Salida del programa
