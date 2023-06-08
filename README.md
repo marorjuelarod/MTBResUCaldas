@@ -3,14 +3,14 @@ EFICACIA DIAGNÓSTICA in silico DE TÉCNICAS MOLECULARES DE USO CLÍNICO EN Myco
 
 El presente programa realiza un análisis de resistencia antibiótica de aislamientos de Micobacterium tuberculosias a partir de resultados de análisis de llamados de variantes y emplea el programa MTBGT propuesto por Kamela y colaboradores disponible en https://github.com/KamelaNg/MTBGT para realizar una aproximación computacional a pruebas moleculares de uso clínico usadas para el diagnóstico de la tuberculosis. 
 
-MTB_Res_UCaldas es generado como parte del proceso de formación en el programa de Maestría en Bioinformática y Biología computacional de la Universidad de Caldas, Colombia y el convenio SUMA Manizales. 
+MTB_Res_UCaldas es generado como parte del proceso de formación en el programa de Maestría en Bioinformática y Biología Computacional de la Universidad de Caldas, Colombia y el convenio SUMA Manizales. 
 
 MTB_Res_UCaldas está dividido en varias secciones:
 
 1. Preprocesamiento de datos.
 2. Análisis de resistencia antibiótica.
 3. Análisis MTBGT (Aproximación computacional a pruebas moleculares de uso clínico usadas para el diagnóstico de la tuberculosis).
-4. Reporte de mutaciones de resistencia y sensibilidad antibíotica.
+4. Reporte de mutaciones de resistencia y sensibilidad antibiotica.
 
 ---
 
