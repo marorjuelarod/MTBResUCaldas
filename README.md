@@ -20,27 +20,28 @@ MTB_Res_UCaldas está dividido en varias secciones:
 
 ### Salida del programa
 
-1. Resultados generales: 
-  1.1 medicalSignificanceReport.txt : Reporte de mutaciones de resistencia y su clasifición según el catálogo de mutaciones de la OMS
-  1.2 Registro_mutaciones : Listado de mutaciones encontradas para cada uno de los genes evaluados.
-  1.3 Registro_sensibilidad : Asignación de fenotipos de resistencia a cada muestra según las mutaciones encontradas.
-  1.4 solo_mutaciones : Genotipos de resistencia por muestra
+Resultados generales: 
+1. medicalSignificanceReport.txt : Reporte de mutaciones de resistencia y su clasifición según el catálogo de mutaciones de la OMS
+2. Registro_mutaciones : Listado de mutaciones encontradas para cada uno de los genes evaluados.
+3. Registro_sensibilidad : Asignación de fenotipos de resistencia a cada muestra según las mutaciones encontradas.
+4. solo_mutaciones : Genotipos de resistencia por muestra
+
   
-2. Directorio de resultados por país o condición de interés: 
-  Se regenerará un directorio por interés en el cual se encontrarán los reportes anteriores por condición y los reportes de mutaciones individuales para cada muestra.
-  2.1. tabfiles folder: Se generará un directorio con la trasnformación de los archivos VCF a formato .tab, condición necesaria para la ejecución del MTBGT.
-  2.2. GenomeInfo_HainLPA : Reporte de resistencia según la prueba molecular GenoType MDRTB plus II empleando el  MTBGT.
-  2.3. GenomeInfo_NiproLPA : Reporte de resistencia según la prueba molecular Genoscholar NTM+MDRTB II empleando el MTBGT.
-  2.4. GenomeInfo_XpertClassic : Reporte de resistencia según la prueba molecular Xpert MTB/RIF Classic empleando el MTBGT.
-  2.5. GenomeInfo_XpertUltra : Reporte de resistencia según la prueba molecular Xpert MTB/RIF Ultra empleando el MTBGT.
-  2.6. GenomeInfo_summaryTables : Resumen de resultados de pruebas moleculares empleando el MTBGT empleando el MTBGT.
-  2.7  Clasificación del aislamiento según las condiciones de resistencia presentadas.
-  
+Directorio de resultados por país o condición de interés: 
 
-3. Directorio de reportes de ejecución del programa
+Se regenerará un directorio por interés en el cual se encontrarán los reportes anteriores por condición y los reportes de mutaciones individuales para cada muestra.
 
+1. tabfiles folder: Se generará un directorio con la trasnformación de los archivos VCF a formato .tab, condición necesaria para la ejecución del MTBGT.
+2. GenomeInfo_HainLPA : Reporte de resistencia según la prueba molecular GenoType MDRTB plus II empleando el  MTBGT.
+3. GenomeInfo_NiproLPA : Reporte de resistencia según la prueba molecular Genoscholar NTM+MDRTB II empleando el MTBGT.
+4. GenomeInfo_XpertClassic : Reporte de resistencia según la prueba molecular Xpert MTB/RIF Classic empleando el MTBGT.
+5. GenomeInfo_XpertUltra : Reporte de resistencia según la prueba molecular Xpert MTB/RIF Ultra empleando el MTBGT.
+6. GenomeInfo_summaryTables : Resumen de resultados de pruebas moleculares empleando el MTBGT empleando el MTBGT.
+7. Clasificación del aislamiento según las condiciones de resistencia presentadas.
 
+Directorio de reportes de ejecución del programa: 
 
+La ejecución del script genera un reporte de ejecución indicando las novedades e incosistencias encontradas durante el procesamiento de cada muestra. 
 
 Autores: 
 
