@@ -18,6 +18,8 @@ MTB_Res_UCaldas está dividido en varias secciones:
 *Directorio (ruta de acceso) donde se encuentran todas las muestras a analizar en formato VCF, clasificadas por país de origen o condición de interés.
 *Archivo en formato .xlsx (ruta de acceso) donde se encuentra información (estructurada de una manera establecida) que relaciona el gen, la mutación y la caracterización de resistencia según la OMS frente a un antibiótico dado.
 
+---
+
 ### Salida del programa
 
 Resultados generales: 
@@ -42,6 +44,8 @@ Se regenerará un directorio por interés en el cual se encontrarán los reporte
 Directorio de reportes de ejecución del programa: 
 
 La ejecución del script genera un reporte de ejecución indicando las novedades e incosistencias encontradas durante el procesamiento de cada muestra. 
+
+---
 
 Autores: 
 
