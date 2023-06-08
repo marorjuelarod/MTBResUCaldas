@@ -1,0 +1,27 @@
+REPORTE DE EJECUCIÓN: Reporte de resistencia antibiótica
+
+INICIÓ EL ANÁLISIS DE RESISTENCIA ANTIBIÓTICA
+
+Procesando -> país: Argentina
+	Documento: ERR757160.xlsx
+	Documento: ERR757165.xlsx
+	Documento: ERR757173.xlsx
+	Documento: ERR757189.xlsx
+	Documento: ERR760600.xlsx
+Procesando -> país: Brasil
+	Documento: ERR2432984.xlsx
+	Documento: ERR2432998.xlsx
+	Documento: ERR2433001.xlsx
+	Documento: ERR2433004.xlsx
+	Documento: ERR2433005.xlsx
+Procesando -> país: Colombia
+	Documento: SRR1180929.xlsx
+	Documento: SRR1180947.xlsx
+	Documento: SRR1180972.xlsx
+	Documento: SRR1180999.xlsx
+	Documento: SRR1181037.xlsx
+FINALIZÓ EL ANÁLISIS DE RESISTENCIA ANTIBIÓTICA
+------------------------------------------
+
+
+FINAL DEL REPORTE

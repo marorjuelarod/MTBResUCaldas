@@ -1,0 +1,30 @@
+Xpert classic counts
+ProbeE	5
+
+Xpert classic proportions
+ProbeE	1.0
+
+Xpert Ultra counts
+rpoB3,rpoB4A	5
+
+Xpert Ultra proportions
+rpoB3,rpoB4A	1.0
+
+Hain LPA counts
+WT8,MUT3	5
+
+Hain LPA proportions
+WT8,MUT3	1.0
+
+Nipro LPA counts
+S5,R5	5
+
+Nipro LPA proportions
+S5,R5	1.0
+
+Sanger counts
+Ser450Leu	5
+
+Sanger proportions
+Ser450Leu	1.0
+

@@ -1,0 +1,6 @@
+Sample name	RIF Resistance	Codon number	Codon	Capturing Probe	ProbeA	ProbeB	ProbeBdelayed	ProbeC	ProbeD	ProbeDdelayed	ProbeE	ProbeEdelayed
+tabFiles\ERR2432984.tab	NOT DETECTED
+tabFiles\ERR2432998.tab	NOT DETECTED
+tabFiles\ERR2433001.tab	DETECTED	450	TTG	ProbeE	1	1	1	1	1	1	0	1
+tabFiles\ERR2433004.tab	NOT DETECTED
+tabFiles\ERR2433005.tab	DETECTED	445	TAC	ProbeD	1	1	1	1	0	1	1	1

@@ -1,0 +1,40 @@
+Xpert classic counts
+ProbeE	1
+Rifampicin-Sensitive	4
+
+Xpert classic proportions
+ProbeE	0.2
+Rifampicin-Sensitive	0.8
+
+Xpert Ultra counts
+Rifampicin-Sensitive	4
+rpoB3,rpoB4A	1
+
+Xpert Ultra proportions
+Rifampicin-Sensitive	0.8
+rpoB3,rpoB4A	0.2
+
+Hain LPA counts
+Rifampicin-Sensitive	4
+WT8,MUT3	1
+
+Hain LPA proportions
+Rifampicin-Sensitive	0.8
+WT8,MUT3	0.2
+
+Nipro LPA counts
+Rifampicin-Sensitive	4
+S5,R5	1
+
+Nipro LPA proportions
+Rifampicin-Sensitive	0.8
+S5,R5	0.2
+
+Sanger counts
+Rifampicin-Sensitive	4
+Ser450Leu	1
+
+Sanger proportions
+Rifampicin-Sensitive	0.8
+Ser450Leu	0.2
+

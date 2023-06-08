@@ -1,0 +1,39 @@
+REPORTE DE EJECUCIÓN: Reporte del análisis MTBGT
+
+INICIÓ EL ANÁLISIS MTBGT
+
+Procesando -> Argentina
+
+	Procesando Tests:
+		Creating classic Xpert outputs
+		Creating Xpert Ultra outputs
+		Creating Hain LPA outputs
+		Creating Nipro LPA outputs
+		Creating rpoB Sanger sequencing outputs
+		RDT test conversion complete
+		Creating summary tables
+Procesando -> Brasil
+
+	Procesando Tests:
+		Creating classic Xpert outputs
+		Creating Xpert Ultra outputs
+		Creating Hain LPA outputs
+		Creating Nipro LPA outputs
+		Creating rpoB Sanger sequencing outputs
+		RDT test conversion complete
+		Creating summary tables
+Procesando -> Colombia
+
+	Procesando Tests:
+		Creating classic Xpert outputs
+		Creating Xpert Ultra outputs
+		Creating Hain LPA outputs
+		Creating Nipro LPA outputs
+		Creating rpoB Sanger sequencing outputs
+		RDT test conversion complete
+		Creating summary tables
+FINALIZÓ EL ANÁLISIS MTBGT
+------------------------------------------
+
+
+FINAL DEL REPORTE

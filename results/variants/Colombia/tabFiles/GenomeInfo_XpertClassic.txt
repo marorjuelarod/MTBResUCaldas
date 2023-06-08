@@ -1,0 +1,6 @@
+Sample name	RIF Resistance	Codon number	Codon	Capturing Probe	ProbeA	ProbeB	ProbeBdelayed	ProbeC	ProbeD	ProbeDdelayed	ProbeE	ProbeEdelayed
+tabFiles\SRR1180929.tab	NOT DETECTED
+tabFiles\SRR1180947.tab	NOT DETECTED
+tabFiles\SRR1180972.tab	DETECTED	450	TTG	ProbeE	1	1	1	1	1	1	0	1
+tabFiles\SRR1180999.tab	NOT DETECTED
+tabFiles\SRR1181037.tab	NOT DETECTED

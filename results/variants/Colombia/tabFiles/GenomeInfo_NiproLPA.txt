@@ -1,0 +1,6 @@
+Sample name	RIF Resistance	Codon number	Codon	Absent Probe	Developing Probe	S1	S2	S3	S4	S5	R2	R4a	R4b	R5
+tabFiles\SRR1180929.tab	NOT DETECTED
+tabFiles\SRR1180947.tab	NOT DETECTED
+tabFiles\SRR1180972.tab	DETECTED	450	TTG	S5	R5	1	1	1	1	0	0	0	0	1
+tabFiles\SRR1180999.tab	NOT DETECTED
+tabFiles\SRR1181037.tab	NOT DETECTED

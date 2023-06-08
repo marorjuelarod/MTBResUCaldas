@@ -1,0 +1,6 @@
+Sample name	RIF Resistance	Codon number	Codon	Absent Probe	Developing Probe	S1	S2	S3	S4	S5	R2	R4a	R4b	R5
+tabFiles\ERR757160.tab	DETECTED	450	TTG	S5	R5	1	1	1	1	0	0	0	0	1
+tabFiles\ERR757165.tab	DETECTED	450	TTG	S5	R5	1	1	1	1	0	0	0	0	1
+tabFiles\ERR757173.tab	DETECTED	450	TTG	S5	R5	1	1	1	1	0	0	0	0	1
+tabFiles\ERR757189.tab	DETECTED	450	TTG	S5	R5	1	1	1	1	0	0	0	0	1
+tabFiles\ERR760600.tab	DETECTED	450	TTG	S5	R5	1	1	1	1	0	0	0	0	1

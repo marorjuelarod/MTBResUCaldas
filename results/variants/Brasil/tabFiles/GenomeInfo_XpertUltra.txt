@@ -1,0 +1,6 @@
+Sample name	RIF Resistance	Codon number	Codon	Capturing Probe	rpoB1	rpoB2	rpoB3	rpoB4A	rpoB4B	deltaTm
+tabFiles\ERR2432984.tab	NOT DETECTED
+tabFiles\ERR2432998.tab	NOT DETECTED
+tabFiles\ERR2433001.tab	DETECTED	450	TTG	rpoB3,rpoB4A	1	1	0	0	1	2.5-2.9,6.0-6.5
+tabFiles\ERR2433004.tab	NOT DETECTED
+tabFiles\ERR2433005.tab	DETECTED	445	TAC	rpoB3	1	1	0	1	1	3.2-3.3

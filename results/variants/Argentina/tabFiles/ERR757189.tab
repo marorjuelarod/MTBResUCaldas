@@ -1,0 +1,1941 @@
+#Pos	Insindex	Ref	Type	Allel	CovFor	CovRev	Qual20	Freq	Cov	Subst	Gene	GeneName	Product	ResistanceSNP	PhyloSNP	InterestingRegion
+1977	0	A	SNP	G	118	118	4332	99	118				upstream_transcript_variant
+4013	0	T	SNP	C	137	137	5154	99	137	Ile245Thr	recF	recF	missense_variant
+7362	0	G	SNP	C	150	150	5594	99	150	Glu21Gln	gyrA	gyrA	missense_variant
+7585	0	G	SNP	C	130	130	4888	99	130	Ser95Thr	gyrA	gyrA	missense_variant
+9304	0	G	SNP	A	119	119	4347	99	119	Gly668Asp	gyrA	gyrA	missense_variant
+11370	0	C	SNP	T	113	113	4200	99	113				intergenic_variant
+11879	0	A	SNP	G	146	146	5229	99	146	Ser145Phe	Rv0008c	Rv0008c	missense_variant
+14785	0	T	SNP	C	132	132	5317	99	132	Cys233Arg	Rv0012	Rv0012	missense_variant
+21795	0	G	SNP	A	96	96	3459	99	96	Phe463Ser	pstP	pstP	missense_variant
+26959	0	C	SNP	G	96	96	3375	99	96		Rv0021c	Rv0021c	upstream_transcript_variant
+29482	0	C	Del	GAP	125	125	4198	99	125		Rv0025	Rv0025	frameshift_variant
+30943	0	C	SNP	T	119	119	4266	99	119	Phe408Ser	Rv0026	Rv0026	missense_variant
+31077	0	C	SNP	T	144	144	5286	99	144		Rv0027	Rv0027	upstream_transcript_variant
+34044	0	T	SNP	C	139	139	5224	99	139		bioF2	bioF2	upstream_transcript_variant
+37031	0	C	SNP	G	117	117	4232	99	117	Ala55Ala	Rv0034	Rv0034	synonymous_variant
+42967	0	G	SNP	C	108	108	4249	99	108	Phe133Phe	mtc28	mtc28	synonymous_variant
+50557	0	T	SNP	C	134	134	4947	99	134	Arg190Gly	ino1	ino1	missense_variant
+51949	0	A	SNP	G	146	146	6277	99	146	Val250Ala	Rv0048c	Rv0048c	missense_variant
+51954	0	T	SNP	A	146	146	6328	99	146	Glu248Asp	Rv0048c	Rv0048c	missense_variant
+54394	0	A	SNP	G	137	137	5261	99	137	Ala244Ala	ponA1	ponA1	synonymous_variant
+55553	0	C	SNP	T	107	107	3815	99	107	Phe631Ser	ponA1	ponA1	missense_variant
+57393	0	A	SNP	T	105	105	4055	99	105		Rv0052	Rv0052	upstream_transcript_variant
+62049	0	A	SNP	G	96	96	3428	99	96	Arg552Gly	dnaB	dnaB	missense_variant
+62657	0	G	SNP	A	156	156	6152	99	156	Phe754Phe	dnaB	dnaB	synonymous_variant
+67406	0	C	SNP	G	141	141	5365	99	141	Phe162Ala	Rv0063	Rv0063	missense_variant
+69834	0	C	SNP	T	157	157	5895	99	157	Asp405Asp	Rv0064	Rv0064	synonymous_variant
+69871	0	C	SNP	T	155	155	5540	99	155	Leu418Phe	Rv0064	Rv0064	missense_variant
+69989	0	G	SNP	A	149	149	5558	99	149	Gly457Asp	Rv0064	Rv0064	missense_variant
+70095	0	G	SNP	A	130	130	4864	99	130	Arg492Arg	Rv0064	Rv0064	synonymous_variant
+70816	0	A	SNP	G	115	115	4217	99	115	Asn733Asp	Rv0064	Rv0064	missense_variant
+70924	0	C	SNP	T	130	130	4941	99	130	Leu769Phe	Rv0064	Rv0064	missense_variant
+71336	0	G	SNP	C	84	84	3311	99	84	Arg906Phe	Rv0064	Rv0064	missense_variant
+71584	1	C	Ins	C	175	175	6296	99	175		vapB1	vapB1	upstream_transcript_variant
+71584	2	C	Ins	C	175	175	6296	99	175		vapB1	vapB1	upstream_transcript_variant
+71584	3	C	Ins	G	175	175	6296	99	175		vapB1	vapB1	upstream_transcript_variant
+71584	4	C	Ins	A	175	175	6296	99	175		vapB1	vapB1	upstream_transcript_variant
+71584	5	C	Ins	G	175	175	6296	99	175		vapB1	vapB1	upstream_transcript_variant
+71584	6	C	Ins	C	175	175	6296	99	175		vapB1	vapB1	upstream_transcript_variant
+71584	7	C	Ins	G	175	175	6296	99	175		vapB1	vapB1	upstream_transcript_variant
+71584	8	C	Ins	C	175	175	6296	99	175		vapB1	vapB1	upstream_transcript_variant
+71584	9	C	Ins	T	175	175	6296	99	175		vapB1	vapB1	upstream_transcript_variant
+71584	10	C	Ins	G	175	175	6296	99	175		vapB1	vapB1	upstream_transcript_variant
+71584	11	C	Ins	T	175	175	6296	99	175		vapB1	vapB1	upstream_transcript_variant
+71584	12	C	Ins	T	175	175	6296	99	175		vapB1	vapB1	upstream_transcript_variant
+71584	13	C	Ins	C	175	175	6296	99	175		vapB1	vapB1	upstream_transcript_variant
+71584	14	C	Ins	T	175	175	6296	99	175		vapB1	vapB1	upstream_transcript_variant
+71584	15	C	Ins	G	175	175	6296	99	175		vapB1	vapB1	upstream_transcript_variant
+71584	16	C	Ins	G	175	175	6296	99	175		vapB1	vapB1	upstream_transcript_variant
+71584	17	C	Ins	C	175	175	6296	99	175		vapB1	vapB1	upstream_transcript_variant
+71584	18	C	Ins	G	175	175	6296	99	175		vapB1	vapB1	upstream_transcript_variant
+71584	19	C	Ins	C	175	175	6296	99	175		vapB1	vapB1	upstream_transcript_variant
+71584	20	C	Ins	T	175	175	6296	99	175		vapB1	vapB1	upstream_transcript_variant
+71584	21	C	Ins	A	175	175	6296	99	175		vapB1	vapB1	upstream_transcript_variant
+71584	22	C	Ins	A	175	175	6296	99	175		vapB1	vapB1	upstream_transcript_variant
+71584	23	C	Ins	T	175	175	6296	99	175		vapB1	vapB1	upstream_transcript_variant
+71584	24	C	Ins	C	175	175	6296	99	175		vapB1	vapB1	upstream_transcript_variant
+71584	25	C	Ins	T	175	175	6296	99	175		vapB1	vapB1	upstream_transcript_variant
+71584	26	C	Ins	G	175	175	6296	99	175		vapB1	vapB1	upstream_transcript_variant
+71584	27	C	Ins	A	175	175	6296	99	175		vapB1	vapB1	upstream_transcript_variant
+71584	28	C	Ins	C	175	175	6296	99	175		vapB1	vapB1	upstream_transcript_variant
+71584	29	C	Ins	G	175	175	6296	99	175		vapB1	vapB1	upstream_transcript_variant
+71584	30	C	Ins	C	175	175	6296	99	175		vapB1	vapB1	upstream_transcript_variant
+71584	31	C	Ins	T	175	175	6296	99	175		vapB1	vapB1	upstream_transcript_variant
+71584	32	C	Ins	A	175	175	6296	99	175		vapB1	vapB1	upstream_transcript_variant
+71584	33	C	Ins	G	175	175	6296	99	175		vapB1	vapB1	upstream_transcript_variant
+71584	34	C	Ins	A	175	175	6296	99	175		vapB1	vapB1	upstream_transcript_variant
+71584	35	C	Ins	A	175	175	6296	99	175		vapB1	vapB1	upstream_transcript_variant
+71584	36	C	Ins	T	175	175	6296	99	175		vapB1	vapB1	upstream_transcript_variant
+71584	37	C	Ins	A	175	175	6296	99	175		vapB1	vapB1	upstream_transcript_variant
+71584	38	C	Ins	G	175	175	6296	99	175		vapB1	vapB1	upstream_transcript_variant
+75940	0	G	SNP	C	117	117	4261	99	117	Val214Leu	Rv0068	Rv0068	missense_variant
+79504	1	T	Ins	T	129	129	2223	99	129	Ser7Ser	Rv0071	Rv0071	inframe_insertion
+79504	2	T	Ins	C	129	129	2223	99	129	Ser7Ser	Rv0071	Rv0071	inframe_insertion
+79504	3	T	Ins	G	129	129	2223	99	129	Ser7Ser	Rv0071	Rv0071	inframe_insertion
+79504	4	T	Ins	G	129	129	2223	99	129	Ser7Ser	Rv0071	Rv0071	inframe_insertion
+79504	5	T	Ins	T	129	129	2223	99	129	Ser7Ser	Rv0071	Rv0071	inframe_insertion
+79504	6	T	Ins	G	129	129	2223	99	129	Ser7Ser	Rv0071	Rv0071	inframe_insertion
+79504	7	T	Ins	G	129	129	2223	99	129	Ser7Ser	Rv0071	Rv0071	inframe_insertion
+79504	8	T	Ins	A	129	129	2223	99	129	Ser7Ser	Rv0071	Rv0071	inframe_insertion
+79504	9	T	Ins	C	129	129	2223	99	129	Ser7Ser	Rv0071	Rv0071	inframe_insertion
+79504	10	T	Ins	C	129	129	2223	99	129	Ser7Ser	Rv0071	Rv0071	inframe_insertion
+79504	11	T	Ins	C	129	129	2223	99	129	Ser7Ser	Rv0071	Rv0071	inframe_insertion
+79504	12	T	Ins	G	129	129	2223	99	129	Ser7Ser	Rv0071	Rv0071	inframe_insertion
+79504	13	T	Ins	G	129	129	2223	99	129	Ser7Ser	Rv0071	Rv0071	inframe_insertion
+79504	14	T	Ins	T	129	129	2223	99	129	Ser7Ser	Rv0071	Rv0071	inframe_insertion
+79504	15	T	Ins	G	129	129	2223	99	129	Ser7Ser	Rv0071	Rv0071	inframe_insertion
+79504	16	T	Ins	G	129	129	2223	99	129	Ser7Ser	Rv0071	Rv0071	inframe_insertion
+79504	17	T	Ins	A	129	129	2223	99	129	Ser7Ser	Rv0071	Rv0071	inframe_insertion
+79504	18	T	Ins	C	129	129	2223	99	129	Ser7Ser	Rv0071	Rv0071	inframe_insertion
+79504	19	T	Ins	C	129	129	2223	99	129	Ser7Ser	Rv0071	Rv0071	inframe_insertion
+80616	0	C	SNP	G	129	129	4921	99	129		Rv0072	Rv0072	upstream_transcript_variant
+81963	0	G	SNP	A	142	142	5430	99	142	Leu96Leu	Rv0073	Rv0073	synonymous_variant
+83842	0	G	SNP	A	139	139	5435	99	139	Phe365Phe	Rv0074	Rv0074	synonymous_variant
+83982	0	A	SNP	G	117	117	4385	99	117	*412*	Rv0074	Rv0074	synonymous_variant
+92199	0	T	SNP	G	101	101	3567	99	101	Thr600Thr	Rv0083	Rv0083	synonymous_variant
+94344	0	G	SNP	A	147	147	5492	99	147	Val132Ile	hycQ	hycQ	missense_variant
+103776	0	G	SNP	C	57	57	2366	99	57	Arg296Arg	Rv0094c	Rv0094c	synonymous_variant
+103778	0	G	SNP	A	54	54	2366	99	54	Arg296Cys	Rv0094c	Rv0094c	missense_variant
+103779	0	G	SNP	C	53	53	2330	99	53	Phe295Phe	Rv0094c	Rv0094c	synonymous_variant
+104712	0	C	SNP	T	79	79	2858	99	79		Rv0094c	Rv0094c	upstream_transcript_variant
+105799	0	C	SNP	T	122	122	4185	99	122	Thr159Met	PPE1	PPE1	missense_variant
+107485	0	T	SNP	C	164	164	6448	99	164	Ile251Thr	Rv0097	Rv0097	missense_variant
+107794	0	C	SNP	T	154	154	5891	99	154	Ala65Ala	fcoT	fcoT	synonymous_variant
+112958	0	G	SNP	A	109	109	4199	99	109	Leu986Leu	nrp	nrp	synonymous_variant
+116000	0	T	SNP	G	112	112	4125	99	112	Val2000Val	nrp	nrp	synonymous_variant
+122109	0	A	SNP	G	141	141	5011	99	141	Leu22Ser	ctpB	ctpB	missense_variant
+125830	1	G	Ins	G	149	149	4618	99	149	Ser1571Phe	ctpI	ctpI	frameshift_variant
+125830	2	G	Ins	A	149	149	4618	99	149	Ser1571Phe	ctpI	ctpI	frameshift_variant
+130997	0	C	SNP	T	152	152	5599	99	152	Val36Val	Rv0108c	Rv0108c	synonymous_variant
+131174	1	T	Ins	T	112	112	3769	99	112		ctpI	ctpI	upstream_transcript_variant
+131174	2	T	Ins	G	112	112	3769	99	112		ctpI	ctpI	upstream_transcript_variant
+132417	0	C	SNP	G	47	47	1857	99	47	Arg346Gly	PE_PGRS1	PE_PGRS1	missense_variant
+133839	0	C	SNP	T	145	145	5517	99	145		Rv0111	Rv0111	upstream_transcript_variant
+143881	0	T	SNP	C	136	136	5161	99	136		oxcA	oxcA	upstream_transcript_variant
+146087	0	T	SNP	C	140	140	5157	99	140	Asn562Ser	fusA2	fusA2	missense_variant
+154283	0	T	SNP	C	144	144	5309	99	144	Ser18Phe	mak	mak	missense_variant
+164676	0	G	SNP	A	128	128	4677	99	128	Val437Val	cyp138	cyp138	synonymous_variant
+177857	0	G	SNP	A	101	101	3966	99	101	Leu485Leu	PE1	PE1	synonymous_variant
+178946	0	C	SNP	T	98	98	3571	99	98	Ala122Thr	PE1	PE1	missense_variant
+183452	0	C	SNP	T	132	132	5091	99	132		fadE2	fadE2	upstream_transcript_variant
+187420	0	G	SNP	C	147	147	5644	99	147	Lys212Asn	Rv0158	Rv0158	missense_variant
+188800	0	T	SNP	C	88	88	3335	99	88	Thr14Ala	PE3	PE3	missense_variant
+194681	0	G	SNP	C	109	109	4197	99	109	Leu45Leu	mce1R	mce1R	synonymous_variant
+196642	0	C	SNP	T	165	165	6402	99	165	Asn550Asn	fadD5	fadD5	synonymous_variant
+202197	0	G	SNP	A	71	71	2728	99	71	Thr422Thr	mce1C	mce1C	synonymous_variant
+206339	0	T	SNP	C	108	108	3799	99	108	Leu370Phe	mce1F	mce1F	missense_variant
+220050	0	C	SNP	T	129	129	4998	99	129	Leu558Leu	ilvD	ilvD	synonymous_variant
+222486	0	C	SNP	T	153	153	5744	99	153	Ala66Ala	Rv0191	Rv0191	synonymous_variant
+223942	0	T	SNP	C	81	81	2885	99	81	Ser127Phe	Rv0192	Rv0192	missense_variant
+225323	0	T	SNP	C	99	99	3734	99	99	Lys417Glu	Rv0193c	Rv0193c	missense_variant
+227098	0	T	SNP	C	149	149	5387	99	149	Met74Thr	Rv0194	Rv0194	missense_variant
+231114	0	C	SNP	G	148	148	5517	99	148	Ala72Ala	Rv0195	Rv0195	synonymous_variant
+234477	0	T	SNP	G	16	16	595	99	16		Rv0197	Rv0197	stop_gained
+234496	1	C	Ins	C	19	19	784	99	19	Phe756Arg	Rv0197	Rv0197	frameshift_variant
+234496	2	C	Ins	G	19	19	784	99	19	Phe756Arg	Rv0197	Rv0197	frameshift_variant
+234496	3	C	Ins	T	19	19	784	99	19	Phe756Arg	Rv0197	Rv0197	frameshift_variant
+255225	0	G	SNP	A	135	135	5169	99	135	Asn242Asn	Rv0213c	Rv0213c	synonymous_variant
+261869	0	T	SNP	C	130	130	4726	99	130	Cys316Arg	Rv0218	Rv0218	missense_variant
+264925	0	G	SNP	T	158	158	5687	99	158	Ala287Ser	Rv0221	Rv0221	missense_variant
+265554	0	A	SNP	C	107	107	4129	99	107	Val16Val	echA1	echA1	synonymous_variant
+278681	0	C	SNP	G	128	128	4660	99	128	His33Asp	nrdB	nrdB	missense_variant
+283251	0	T	SNP	G	137	137	5193	99	137	Thr1201Phe	aftD	aftD	missense_variant
+283614	0	T	SNP	C	89	89	3391	99	89	Ser1080Gly	aftD	aftD	missense_variant
+284623	0	G	SNP	A	122	122	4315	99	122	Thr743Thr	aftD	aftD	synonymous_variant
+285772	0	A	SNP	C	99	99	3683	99	99	Phe360Phe	aftD	aftD	synonymous_variant
+285871	0	A	SNP	G	108	108	4066	99	108	Val327Val	aftD	aftD	synonymous_variant
+293628	1	A	Ins	A	100	100	2787	99	100		fadA2	fadA2	downstream_transcript_variant
+293628	2	A	Ins	C	100	100	2787	99	100		fadA2	fadA2	downstream_transcript_variant
+304923	0	A	SNP	G	140	140	5148	99	140	Lys686Lys	nirB	nirB	synonymous_variant
+310973	0	G	SNP	A	110	110	4142	99	110	Ala182Val	Rv0259c	Rv0259c	missense_variant
+311613	0	G	SNP	T	156	156	5710	99	156	Val349Val	Rv0260c	Rv0260c	synonymous_variant
+336191	0	C	SNP	T	129	129	4633	99	129	Met40Ile	Rv0278c	Rv0278c	missense_variant
+336680	0	G	Del	GAP	19	19	603	99	19		PE_PGRS4	PE_PGRS4	frameshift_variant
+336686	0	C	Del	GAP	14	14	603	99	14		PE_PGRS4	PE_PGRS4	frameshift_variant
+336690	0	C	Del	GAP	13	13	575	99	13		PE_PGRS4	PE_PGRS4	frameshift_variant
+336698	0	C	SNP	G	12	12	530	99	12	Gly792Gly	PE_PGRS4	PE_PGRS4	synonymous_variant
+336701	0	A	SNP	G	11	11	485	99	11	Gly791Gly	PE_PGRS4	PE_PGRS4	synonymous_variant
+336707	0	G	SNP	A	13	13	575	99	13	Asp789Asp	PE_PGRS4	PE_PGRS4	synonymous_variant
+336708	0	T	SNP	C	13	13	575	99	13	Asp789Gly	PE_PGRS4	PE_PGRS4	missense_variant
+336710	0	A	SNP	G	13	13	575	99	13	Ala788Ala	PE_PGRS4	PE_PGRS4	synonymous_variant
+337820	0	G	SNP	A	24	24	657	99	24	Gly418Gly	PE_PGRS4	PE_PGRS4	synonymous_variant
+337959	0	A	SNP	C	21	21	827	99	21	Ile372Ser	PE_PGRS4	PE_PGRS4	missense_variant
+338020	0	A	SNP	C	22	22	838	99	22	Cys352Gly	PE_PGRS4	PE_PGRS4	missense_variant
+338100	0	T	SNP	C	19	19	616	99	19	Asn325Ser	PE_PGRS4	PE_PGRS4	missense_variant
+338329	0	T	Del	GAP	7	7	126	99	7		PE_PGRS4	PE_PGRS4	inframe_deletion
+338453	0	A	SNP	G	10	10	342	99	10	Ala207Ala	PE_PGRS4	PE_PGRS4	synonymous_variant
+338788	0	A	Del	GAP	46	46	1700	99	46		PE_PGRS4	PE_PGRS4	frameshift_variant
+338792	1	G	Ins	G	38	38	1520	99	38	Ala94Ala	PE_PGRS4	PE_PGRS4	frameshift_variant
+338792	2	G	Ins	C	38	38	1520	99	38	Ala94Ala	PE_PGRS4	PE_PGRS4	frameshift_variant
+338792	3	G	Ins	A	38	38	1520	99	38	Ala94Ala	PE_PGRS4	PE_PGRS4	frameshift_variant
+338792	4	G	Ins	C	38	38	1520	99	38	Ala94Ala	PE_PGRS4	PE_PGRS4	frameshift_variant
+338792	5	G	Ins	C	38	38	1520	99	38	Ala94Ala	PE_PGRS4	PE_PGRS4	frameshift_variant
+340372	0	T	SNP	C	86	86	3208	99	86	Ser337Phe	PPE3	PPE3	missense_variant
+342340	0	C	SNP	T	99	99	3752	99	99	Leu71Leu	eccA3	eccA3	synonymous_variant
+346275	0	C	SNP	G	135	135	4939	99	135	Phe214Arg	eccC3	eccC3	missense_variant
+356528	0	A	SNP	G	121	121	4600	99	121	Asn217Asp	eccE3	eccE3	missense_variant
+372913	0	A	SNP	C	147	147	5615	99	147	Gly933Gly	PPE6	PPE6	synonymous_variant
+373282	0	T	Del	GAP	128	128	4474	99	128		PPE6	PPE6	frameshift_variant
+376774	0	T	SNP	C	121	121	4455	99	121	Ala94Ala	Rv0307c	Rv0307c	synonymous_variant
+379707	0	C	SNP	G	153	153	5804	99	153	Phe179Arg	Rv0311	Rv0311	missense_variant
+384380	0	A	SNP	C	101	101	3868	99	101	Lys260Thr	Rv0315	Rv0315	missense_variant
+386432	0	C	SNP	G	140	140	5366	99	140	Gly223Ala	Rv0318c	Rv0318c	missense_variant
+386935	0	C	SNP	T	123	123	4445	99	123	Ala55Ala	Rv0318c	Rv0318c	synonymous_variant
+390828	0	T	SNP	C	143	143	5100	99	143	Ser142Gly	Rv0323c	Rv0323c	missense_variant
+391853	0	A	SNP	G	115	115	4281	99	115	Thr168Ala	Rv0324	Rv0324	missense_variant
+397275	0	G	SNP	C	116	116	4346	99	116	Ala359Phe	Rv0331	Rv0331	missense_variant
+403980	0	G	SNP	A	135	135	4703	99	135	Ala621Val	Rv0338c	Rv0338c	missense_variant
+404326	0	T	SNP	C	172	172	6483	99	172	Arg506Gly	Rv0338c	Rv0338c	missense_variant
+414486	0	C	SNP	T	114	114	4541	99	114	Glu152Glu	lpqJ	lpqJ	synonymous_variant
+420008	0	A	SNP	G	146	146	5470	99	146	Ala58Ala	dnaK	dnaK	synonymous_variant
+424320	1	T	Ins	T	130	130	4296	99	130	Gly125Gly	PPE7	PPE7	frameshift_variant
+424320	2	T	Ins	C	130	130	4296	99	130	Gly125Gly	PPE7	PPE7	frameshift_variant
+427310	0	T	Del	GAP	94	94	2185	99	94		PPE8	PPE8	inframe_deletion
+428840	0	C	SNP	T	122	122	4627	99	122	Gly1947Asp	PPE8	PPE8	missense_variant
+430756	0	G	SNP	A	135	135	5382	99	135	Ile1308Ile	PPE8	PPE8	synonymous_variant
+435190	0	C	SNP	T	103	103	3771	99	103	Leu95Leu	Rv0356c	Rv0356c	synonymous_variant
+438158	0	T	SNP	G	143	143	5446	99	143	Leu214Arg	Rv0359	Rv0359	missense_variant
+443277	0	A	SNP	C	100	100	3690	99	100	Asp307Glu	Rv0365c	Rv0365c	missense_variant
+446165	0	G	SNP	C	118	118	4466	99	118	Gln121Glu	Rv0368c	Rv0368c	missense_variant
+454167	0	T	SNP	C	121	121	4789	99	121	Tyr69Cys	Rv0376c	Rv0376c	missense_variant
+454295	0	T	SNP	C	66	66	2191	99	66	Phe26Phe	Rv0376c	Rv0376c	synonymous_variant
+456281	0	C	SNP	T	51	51	1858	99	51	Gly180Asp	Rv0380c	Rv0380c	missense_variant
+457452	0	T	SNP	G	154	154	5872	99	154	Thr124Thr	Rv0381c	Rv0381c	synonymous_variant
+459399	0	A	SNP	C	50	50	1748	99	50		Rv0383c	Rv0383c	upstream_transcript_variant
+467497	1	C	Ins	C	116	116	4952	99	116		purT	purT	upstream_transcript_variant
+467497	2	C	Ins	G	116	116	4952	99	116		purT	purT	upstream_transcript_variant
+467508	1	C	Ins	C	113	113	5041	99	113		purT	purT	upstream_transcript_variant
+467508	2	C	Ins	G	113	113	5041	99	113		purT	purT	upstream_transcript_variant
+467516	0	G	SNP	C	119	119	5345	99	119		purT	purT	upstream_transcript_variant
+467526	0	C	SNP	G	110	110	4940	99	110		purT	purT	upstream_transcript_variant
+467546	0	G	SNP	C	110	110	4940	99	110		purT	purT	upstream_transcript_variant
+467557	0	A	SNP	C	114	114	5120	99	114		purT	purT	upstream_transcript_variant
+467564	0	A	SNP	C	113	113	5075	99	113		purT	purT	upstream_transcript_variant
+467585	0	G	SNP	C	126	126	5648	99	126		purT	purT	upstream_transcript_variant
+467590	0	T	SNP	C	122	122	5355	99	122		purT	purT	upstream_transcript_variant
+467621	0	T	SNP	G	124	124	5358	99	124		purT	purT	upstream_transcript_variant
+467638	0	G	SNP	T	130	130	5639	99	130		purT	purT	upstream_transcript_variant
+472711	1	T	Ins	T	165	165	4841	99	165		ndhA	ndhA	upstream_transcript_variant
+472711	2	T	Ins	T	165	165	4841	99	165		ndhA	ndhA	upstream_transcript_variant
+472711	3	T	Ins	T	165	165	4841	99	165		ndhA	ndhA	upstream_transcript_variant
+472711	4	T	Ins	G	165	165	4841	99	165		ndhA	ndhA	upstream_transcript_variant
+472711	5	T	Ins	T	165	165	4841	99	165		ndhA	ndhA	upstream_transcript_variant
+472711	6	T	Ins	G	165	165	4841	99	165		ndhA	ndhA	upstream_transcript_variant
+472711	7	T	Ins	G	165	165	4841	99	165		ndhA	ndhA	upstream_transcript_variant
+472711	8	T	Ins	G	165	165	4841	99	165		ndhA	ndhA	upstream_transcript_variant
+472711	9	T	Ins	C	165	165	4841	99	165		ndhA	ndhA	upstream_transcript_variant
+472711	10	T	Ins	C	165	165	4841	99	165		ndhA	ndhA	upstream_transcript_variant
+475178	0	T	SNP	C	102	102	3556	99	102	Val80Ala	Rv0395	Rv0395	missense_variant
+483935	0	T	SNP	G	124	124	4773	99	124		mmpL1	mmpL1	upstream_transcript_variant
+489073	0	C	SNP	G	168	168	6242	99	168	Leu1115Val	pks6	pks6	missense_variant
+489935	0	G	SNP	C	169	169	6259	99	169	Arg1402Phe	pks6	pks6	missense_variant
+490332	0	A	Del	GAP	126	126	4454	99	126		Rv0406c	Rv0406c	frameshift_variant
+498557	0	C	SNP	A	143	143	5524	99	143	Asp355Tyr	Rv0412c	Rv0412c	missense_variant
+500339	0	G	SNP	A	105	105	3929	99	105	Leu209Leu	mutT3	mutT3	synonymous_variant
+502589	0	C	SNP	G	126	126	4480	99	126	Ser75Cys	thiG	thiG	missense_variant
+503354	0	G	SNP	C	173	173	6656	99	173		lpqL	lpqL	upstream_transcript_variant
+513257	0	T	SNP	C	137	137	5297	99	137	Met689Val	ctpH	ctpH	missense_variant
+525833	0	C	SNP	T	107	107	3855	99	107	Val84Met	psd	psd	missense_variant
+531580	1	C	Ins	C	114	114	2767	99	114	Ser212Asn	PPE10	PPE10	inframe_insertion
+531580	2	C	Ins	T	114	114	2767	99	114	Ser212Asn	PPE10	PPE10	inframe_insertion
+531580	3	C	Ins	G	114	114	2767	99	114	Ser212Asn	PPE10	PPE10	inframe_insertion
+531580	4	C	Ins	C	114	114	2767	99	114	Ser212Asn	PPE10	PPE10	inframe_insertion
+531580	5	C	Ins	C	114	114	2767	99	114	Ser212Asn	PPE10	PPE10	inframe_insertion
+531580	6	C	Ins	G	114	114	2767	99	114	Ser212Asn	PPE10	PPE10	inframe_insertion
+531580	7	C	Ins	A	114	114	2767	99	114	Ser212Asn	PPE10	PPE10	inframe_insertion
+531580	8	C	Ins	T	114	114	2767	99	114	Ser212Asn	PPE10	PPE10	inframe_insertion
+531580	9	C	Ins	G	114	114	2767	99	114	Ser212Asn	PPE10	PPE10	inframe_insertion
+531580	10	C	Ins	T	114	114	2767	99	114	Ser212Asn	PPE10	PPE10	inframe_insertion
+531580	11	C	Ins	T	114	114	2767	99	114	Ser212Asn	PPE10	PPE10	inframe_insertion
+531580	12	C	Ins	G	114	114	2767	99	114	Ser212Asn	PPE10	PPE10	inframe_insertion
+531580	13	C	Ins	T	114	114	2767	99	114	Ser212Asn	PPE10	PPE10	inframe_insertion
+531580	14	C	Ins	T	114	114	2767	99	114	Ser212Asn	PPE10	PPE10	inframe_insertion
+531580	15	C	Ins	G	114	114	2767	99	114	Ser212Asn	PPE10	PPE10	inframe_insertion
+531580	16	C	Ins	T	114	114	2767	99	114	Ser212Asn	PPE10	PPE10	inframe_insertion
+541201	0	A	SNP	G	173	173	6506	99	173	Leu97Leu	mmpL4	mmpL4	synonymous_variant
+544461	0	C	SNP	T	146	146	5422	99	146	Arg430Cys	PPE11	PPE11	missense_variant
+546914	0	G	SNP	A	136	136	5085	99	136		echA2	echA2	upstream_transcript_variant
+551525	0	A	SNP	C	103	103	3875	99	103	Arg110Arg	Rv0459	Rv0459	synonymous_variant
+552495	1	G	Ins	G	134	134	4855	99	134	Gly157Gly	Rv0461	Rv0461	inframe_insertion
+552495	2	G	Ins	C	134	134	4855	99	134	Gly157Gly	Rv0461	Rv0461	inframe_insertion
+552495	3	G	Ins	T	134	134	4855	99	134	Gly157Gly	Rv0461	Rv0461	inframe_insertion
+552495	4	G	Ins	A	134	134	4855	99	134	Gly157Gly	Rv0461	Rv0461	inframe_insertion
+565655	0	A	SNP	G	141	141	5554	99	141		hbhA	hbhA	upstream_transcript_variant
+568914	0	C	SNP	A	129	129	4705	99	129	Gly18Gly	Rv0479c	Rv0479c	synonymous_variant
+573262	0	A	SNP	G	135	135	5075	99	135	Gly180Gly	Rv0484c	Rv0484c	synonymous_variant
+575679	0	A	SNP	G	115	115	4399	99	115	Asn111Ser	mshA	mshA	missense_variant
+590436	0	T	SNP	C	150	150	5610	99	150	Ala118Ala	proC	proC	synonymous_variant
+597816	0	A	SNP	G	159	159	6117	99	159	Ala206Ala	mmpL2	mmpL2	synonymous_variant
+598475	0	G	SNP	A	160	160	5821	99	160	Arg426His	mmpL2	mmpL2	missense_variant
+601925	0	C	SNP	T	153	153	5904	99	153	Leu23Leu	hemC	hemC	synonymous_variant
+608775	0	T	SNP	C	146	146	5618	99	146	Gly10Gly	Rv0517	Rv0517	synonymous_variant
+610120	0	T	SNP	G	113	113	4416	99	113		Rv0518	Rv0518	upstream_transcript_variant
+623472	0	A	SNP	G	41	41	1526	99	41	Asp227Gly	PE_PGRS6	PE_PGRS6	missense_variant
+623508	0	C	SNP	G	45	45	1509	99	45	Ala239Gly	PE_PGRS6	PE_PGRS6	missense_variant
+627396	0	G	SNP	C	85	85	3018	99	85	Arg50Phe	galE3	galE3	missense_variant
+628895	0	G	SNP	A	109	109	4170	99	109	Phe279Phe	Rv0537c	Rv0537c	synonymous_variant
+629925	0	C	SNP	A	137	137	5203	99	137		Rv0537c	Rv0537c	upstream_transcript_variant
+630722	0	G	SNP	C	91	91	3464	99	91	Arg228Phe	Rv0538	Rv0538	missense_variant
+637319	0	G	SNP	A	155	155	5892	99	155	Phe49Ser	pitA	pitA	missense_variant
+637730	0	C	SNP	T	123	123	4580	99	123	Leu80Leu	Rv0546c	Rv0546c	synonymous_variant
+648002	0	T	SNP	G	134	134	5132	99	134	Leu15Arg	Rv0556	Rv0556	missense_variant
+648990	0	G	SNP	C	132	132	4910	99	132	Arg152Phe	mgtA	mgtA	missense_variant
+657269	0	A	SNP	G	130	130	4859	99	130	Ser68Phe	Rv0565c	Rv0565c	missense_variant
+665293	0	A	SNP	G	154	154	5618	99	154	Phe31Leu	Rv0572c	Rv0572c	missense_variant
+669398	0	T	SNP	C	99	99	3714	99	99	Gln116Gln	Rv0575c	Rv0575c	synonymous_variant
+672491	0	C	SNP	G	26	26	796	99	26	Gly1142Gly	PE_PGRS7	PE_PGRS7	synonymous_variant
+673238	0	A	SNP	G	13	13	496	99	13	His893His	PE_PGRS7	PE_PGRS7	synonymous_variant
+675949	0	C	SNP	T	135	135	5334	99	135		PE_PGRS7	PE_PGRS7	upstream_transcript_variant
+677685	1	G	Ins	G	113	113	4466	99	113		Rv0580c	Rv0580c	upstream_transcript_variant
+677685	2	G	Ins	C	113	113	4466	99	113		Rv0580c	Rv0580c	upstream_transcript_variant
+677685	3	G	Ins	G	113	113	4466	99	113		Rv0580c	Rv0580c	upstream_transcript_variant
+677685	4	G	Ins	C	113	113	4466	99	113		Rv0580c	Rv0580c	upstream_transcript_variant
+677685	5	G	Ins	C	113	113	4466	99	113		Rv0580c	Rv0580c	upstream_transcript_variant
+677685	6	G	Ins	A	113	113	4466	99	113		Rv0580c	Rv0580c	upstream_transcript_variant
+684391	0	C	Del	GAP	143	143	5005	99	143		Rv0585c	Rv0585c	upstream_transcript_variant
+685461	0	C	SNP	G	119	119	4686	99	119	Ala111Ala	yrbE2A	yrbE2A	synonymous_variant
+685608	0	T	SNP	C	125	125	4626	99	125	Leu160Leu	yrbE2A	yrbE2A	synonymous_variant
+686655	0	C	SNP	T	138	138	5037	99	138	Thr243Ile	Rv0588	Rv0588	missense_variant
+686972	0	T	SNP	C	140	140	5315	99	140	Phe51Ser	mce2A	mce2A	missense_variant
+690465	0	T	SNP	G	132	132	5003	99	132	Leu469Leu	mce2C	mce2C	synonymous_variant
+698968	0	G	SNP	A	110	110	3832	99	110	Gly9Gly	Rv0601c	Rv0601c	synonymous_variant
+712693	0	A	SNP	G	81	81	3133	99	81		galK	galK	upstream_transcript_variant
+740855	0	G	SNP	C	123	123	4799	99	123	Ala95Ala	lipG	lipG	synonymous_variant
+742634	1	C	Ins	C	31	31	61	71	31		Rv0647c	Rv0647c	upstream_transcript_variant
+742634	2	C	Ins	T	31	31	61	71	31		Rv0647c	Rv0647c	upstream_transcript_variant
+742634	3	C	Ins	C	31	31	61	71	31		Rv0647c	Rv0647c	upstream_transcript_variant
+742634	4	C	Ins	G	31	31	61	71	31		Rv0647c	Rv0647c	upstream_transcript_variant
+742634	5	C	Ins	G	31	31	61	71	31		Rv0647c	Rv0647c	upstream_transcript_variant
+742634	6	C	Ins	T	31	31	61	71	31		Rv0647c	Rv0647c	upstream_transcript_variant
+742634	7	C	Ins	T	31	31	61	71	31		Rv0647c	Rv0647c	upstream_transcript_variant
+742634	8	C	Ins	G	31	31	61	71	31		Rv0647c	Rv0647c	upstream_transcript_variant
+742634	9	C	Ins	G	31	31	61	71	31		Rv0647c	Rv0647c	upstream_transcript_variant
+742634	10	C	Ins	C	31	31	61	71	31		Rv0647c	Rv0647c	upstream_transcript_variant
+742634	11	C	Ins	C	31	31	61	71	31		Rv0647c	Rv0647c	upstream_transcript_variant
+742634	12	C	Ins	C	31	31	61	71	31		Rv0647c	Rv0647c	upstream_transcript_variant
+742634	13	C	Ins	G	31	31	61	71	31		Rv0647c	Rv0647c	upstream_transcript_variant
+742634	14	C	Ins	C	31	31	61	71	31		Rv0647c	Rv0647c	upstream_transcript_variant
+742634	15	C	Ins	T	31	31	61	71	31		Rv0647c	Rv0647c	upstream_transcript_variant
+742634	16	C	Ins	G	31	31	61	71	31		Rv0647c	Rv0647c	upstream_transcript_variant
+742634	17	C	Ins	C	31	31	61	71	31		Rv0647c	Rv0647c	upstream_transcript_variant
+742634	18	C	Ins	T	31	31	61	71	31		Rv0647c	Rv0647c	upstream_transcript_variant
+742634	19	C	Ins	G	31	31	61	71	31		Rv0647c	Rv0647c	upstream_transcript_variant
+742634	20	C	Ins	G	31	31	61	71	31		Rv0647c	Rv0647c	upstream_transcript_variant
+742634	21	C	Ins	G	31	31	61	71	31		Rv0647c	Rv0647c	upstream_transcript_variant
+742634	22	C	Ins	C	31	31	61	71	31		Rv0647c	Rv0647c	upstream_transcript_variant
+742634	23	C	Ins	C	31	31	61	71	31		Rv0647c	Rv0647c	upstream_transcript_variant
+742634	24	C	Ins	G	31	31	61	71	31		Rv0647c	Rv0647c	upstream_transcript_variant
+742634	25	C	Ins	G	31	31	61	71	31		Rv0647c	Rv0647c	upstream_transcript_variant
+742634	26	C	Ins	A	31	31	61	71	31		Rv0647c	Rv0647c	upstream_transcript_variant
+746790	0	A	SNP	G	58	58	2052	99	58	Tyr143Cys	fabD2	fabD2	missense_variant
+747352	0	C	SNP	T	110	110	3676	99	110	Leu106Leu	Rv0650	Rv0650	synonymous_variant
+754186	0	A	SNP	G	109	109	4270	99	109	Leu75Phe	Rv0658c	Rv0658c	missense_variant
+760115	0	C	SNP	T	161	161	6161	99	161	Asp103Asp	rpoB	rpoB	synonymous_variant
+761155	0	C	SNP	T	111	111	4115	99	111	Ser450Leu	rpoB	rpoB	missense_variant
+765150	0	G	SNP	A	145	145	5581	99	145	Gly594Glu	rpoC	rpoC	missense_variant
+767414	0	G	SNP	A	97	97	3731	99	97		rpoC	rpoC	downstream_transcript_variant
+775639	0	T	SNP	C	141	141	5386	99	141	Ile948Val	mmpL5	mmpL5	missense_variant
+777793	0	C	SNP	T	140	140	5322	99	140	Ala230Thr	mmpL5	mmpL5	missense_variant
+788259	0	G	SNP	T	144	144	5241	99	144	Gly107Val	Rv0688	Rv0688	missense_variant
+805663	0	G	SNP	T	144	144	5345	99	144	Arg46Arg	rpmC	rpmC	synonymous_variant
+807856	1	A	Ins	A	91	91	2766	99	91	Thr508Thr	atsA	atsA	frameshift_variant
+807856	2	A	Ins	C	91	91	2766	99	91	Thr508Thr	atsA	atsA	frameshift_variant
+816522	0	C	SNP	T	113	113	4205	99	113	Phe287Leu	sppA	sppA	missense_variant
+820483	0	G	SNP	T	136	136	4998	99	136	Ala6Asp	fucA	fucA	missense_variant
+832708	0	A	SNP	C	147	147	5697	99	147		Rv0742	Rv0742	upstream_transcript_variant
+836272	0	A	SNP	G	65	65	2821	99	65	Glu191Gly	PE_PGRS9	PE_PGRS9	missense_variant
+836291	0	A	SNP	G	52	52	2305	99	52	Gly197Gly	PE_PGRS9	PE_PGRS9	synonymous_variant
+836426	0	A	SNP	C	26	26	918	99	26	Leu242Leu	PE_PGRS9	PE_PGRS9	synonymous_variant
+836454	0	A	SNP	G	30	30	1142	99	30	Thr252Ala	PE_PGRS9	PE_PGRS9	missense_variant
+836538	0	A	SNP	G	37	37	1338	99	37	Asn280Asp	PE_PGRS9	PE_PGRS9	missense_variant
+836658	0	A	SNP	G	58	58	1893	99	58	Thr320Ala	PE_PGRS9	PE_PGRS9	missense_variant
+836777	0	G	SNP	T	31	31	1098	99	31	Gly359Gly	PE_PGRS9	PE_PGRS9	synonymous_variant
+837033	0	A	SNP	G	45	45	1597	99	45	Thr445Ala	PE_PGRS9	PE_PGRS9	missense_variant
+839334	0	A	SNP	G	30	30	1315	99	30	Lys295Arg	PE_PGRS10	PE_PGRS10	missense_variant
+839348	0	A	SNP	G	30	30	1314	99	30	Ser300Gly	PE_PGRS10	PE_PGRS10	missense_variant
+841764	0	G	SNP	C	150	150	5695	99	150	Thr37Thr	Rv0749A	Rv0749A	synonymous_variant
+850591	0	C	SNP	T	171	171	6299	99	171		PPE12	PPE12	upstream_transcript_variant
+852910	0	C	SNP	T	151	151	5371	99	151	Phe172Leu	phoR	phoR	missense_variant
+857696	0	A	SNP	G	124	124	4710	99	124	Ala114Ala	cyp51	cyp51	synonymous_variant
+868148	0	C	SNP	A	102	102	3584	99	102	Ala68Ala	Rv0774c	Rv0774c	synonymous_variant
+874835	1	C	Ins	C	150	150	5986	99	150				intergenic_variant
+874835	2	C	Ins	C	150	150	5986	99	150				intergenic_variant
+874835	3	C	Ins	G	150	150	5986	99	150				intergenic_variant
+877363	0	G	SNP	C	166	166	6444	99	166	Arg360Gly	emrB	emrB	missense_variant
+880562	0	G	SNP	T	133	133	4769	99	133	Cys408Phe	Rv0785	Rv0785	missense_variant
+882257	0	T	SNP	C	110	110	4135	99	110	Tyr267His	Rv0787	Rv0787	missense_variant
+891756	0	A	SNP	G	118	118	4557	99	118	Leu172Leu	cfp29	cfp29	synonymous_variant
+893733	0	T	SNP	G	137	137	4835	99	137	Leu139Arg	pepC	pepC	missense_variant
+897209	0	G	SNP	C	137	137	4980	99	137	Glu464Gln	purL	purL	missense_variant
+899175	0	G	SNP	A	155	155	5799	99	155	Met115Ile	Rv0805	Rv0805	missense_variant
+900221	0	T	SNP	C	150	150	5540	99	150	Val370Val	cpsY	cpsY	synonymous_variant
+902413	0	C	SNP	T	149	149	5892	99	149	Val101Val	purF	purF	synonymous_variant
+903550	0	T	SNP	C	142	142	5123	99	142	Ala480Ala	purF	purF	synonymous_variant
+903633	0	C	SNP	T	123	123	4493	99	123	Ala508Val	purF	purF	missense_variant
+903913	0	T	SNP	C	121	121	4511	99	121	Gly63Gly	purM	purM	synonymous_variant
+906857	0	A	SNP	G	127	127	4870	99	127	Ile145Met	pabC	pabC	missense_variant
+909724	0	G	SNP	C	136	136	4834	99	136	Leu104Val	thiX	thiX	missense_variant
+917905	0	C	SNP	A	138	138	4810	99	138	Gly282Gly	desA1	desA1	synonymous_variant
+921813	0	C	SNP	G	78	78	2890	99	78		kmtR	kmtR	upstream_transcript_variant
+923065	0	T	SNP	A	142	142	5111	99	142	Gly215Gly	Rv0831c	Rv0831c	synonymous_variant
+927110	0	A	SNP	G	10	10	384	99	10	Ser584Gly	PE_PGRS13	PE_PGRS13	missense_variant
+927385	0	A	SNP	G	26	26	949	99	26	Gly675Gly	PE_PGRS13	PE_PGRS13	synonymous_variant
+935201	0	C	SNP	T	131	131	4901	99	131	Ala161Val	lpqR	lpqR	missense_variant
+945214	0	G	SNP	A	121	121	4404	99	121	Gly93Ser	cysK2	cysK2	missense_variant
+949535	0	T	SNP	C	82	82	3161	99	82	Ala528Ala	pdc	pdc	synonymous_variant
+953233	0	T	SNP	G	133	133	5011	99	133		Rv0857	Rv0857	upstream_transcript_variant
+955524	0	A	SNP	G	117	117	4438	99	117	Ser150Gly	Rv0859	Rv0859	missense_variant
+957117	0	T	SNP	C	111	111	3836	99	111	Asp275Asp	fadB	fadB	synonymous_variant
+968426	1	A	Ins	A	125	125	4634	99	125		PE_PGRS15	PE_PGRS15	inframe_insertion
+968426	2	A	Ins	G	125	125	4634	99	125		PE_PGRS15	PE_PGRS15	inframe_insertion
+968426	3	A	Ins	C	125	125	4634	99	125		PE_PGRS15	PE_PGRS15	inframe_insertion
+968426	4	A	Ins	C	125	125	4634	99	125		PE_PGRS15	PE_PGRS15	inframe_insertion
+968426	5	A	Ins	G	125	125	4634	99	125		PE_PGRS15	PE_PGRS15	inframe_insertion
+968426	6	A	Ins	G	125	125	4634	99	125		PE_PGRS15	PE_PGRS15	inframe_insertion
+968426	7	A	Ins	G	125	125	4634	99	125		PE_PGRS15	PE_PGRS15	inframe_insertion
+968426	8	A	Ins	T	125	125	4634	99	125		PE_PGRS15	PE_PGRS15	inframe_insertion
+968426	9	A	Ins	T	125	125	4634	99	125		PE_PGRS15	PE_PGRS15	inframe_insertion
+968426	10	A	Ins	G	125	125	4634	99	125		PE_PGRS15	PE_PGRS15	inframe_insertion
+979704	0	G	SNP	C	110	110	4176	99	110	Gly115Arg	Rv0881	Rv0881	missense_variant
+981670	0	C	SNP	T	122	122	4540	99	122	Arg295Arg	serC	serC	synonymous_variant
+983485	0	T	SNP	G	139	139	4998	99	139	Ser242Ala	Rv0885	Rv0885	missense_variant
+985621	0	G	SNP	A	116	116	4231	99	116	Tyr117Tyr	Rv0887c	Rv0887c	synonymous_variant
+986463	0	G	SNP	C	143	143	5372	99	143		Rv0887c	Rv0887c	upstream_transcript_variant
+990001	0	G	SNP	C	154	154	5574	99	154	Phe866Ala	Rv0890c	Rv0890c	missense_variant
+993346	0	A	SNP	C	130	130	5131	99	130	Val37Gly	Rv0891c	Rv0891c	missense_variant
+1010204	1	C	Ins	C	132	132	4366	99	132	Asn23Asn	Rv0907	Rv0907	frameshift_variant
+1010204	2	C	Ins	G	132	132	4366	99	132	Asn23Asn	Rv0907	Rv0907	frameshift_variant
+1019632	0	A	SNP	G	127	127	4954	99	127	Tyr112His	Rv0914c	Rv0914c	missense_variant
+1019935	0	A	SNP	C	138	138	5420	99	138	Tyr11Asp	Rv0914c	Rv0914c	missense_variant
+1025106	0	T	SNP	C	154	154	5966	99	154	Phe141Phe	Rv0919	Rv0919	synonymous_variant
+1025614	0	G	SNP	T	101	101	4052	99	101	Thr401Thr	Rv0920c	Rv0920c	synonymous_variant
+1027354	0	G	SNP	C	114	114	3976	99	114	Gly84Ala	Rv0921	Rv0921	missense_variant
+1037012	0	T	SNP	C	121	121	4349	99	121	Met5Thr	pstA1	pstA1	missense_variant
+1037911	0	C	SNP	T	123	123	4614	99	123		pstA1	pstA1	stop_gained
+1047165	0	T	SNP	C	133	133	4935	99	133	Cys344Arg	ligD	ligD	missense_variant
+1052866	0	C	SNP	T	138	138	5206	99	138	Asp291Asn	Rv0943c	Rv0943c	missense_variant
+1068151	0	T	SNP	C	132	132	4746	99	132	His197His	purN	purN	synonymous_variant
+1068432	0	A	SNP	G	122	122	4760	99	122	Phe76Phe	purH	purH	synonymous_variant
+1070702	0	T	SNP	C	126	126	4556	99	126	Ser274Phe	Rv0958	Rv0958	missense_variant
+1074558	0	G	SNP	A	129	129	4710	99	129	Phe186Leu	lprP	lprP	missense_variant
+1075279	0	T	SNP	C	159	159	6251	99	159		lprP	lprP	upstream_transcript_variant
+1076309	0	G	SNP	T	163	163	5813	99	163	Phe124Thr	Rv0964c	Rv0964c	missense_variant
+1077312	0	A	SNP	G	144	144	5374	99	144	Val175Ala	Rv0966c	Rv0966c	missense_variant
+1079927	0	C	SNP	A	152	152	5592	99	152	Thr395Thr	ctpV	ctpV	synonymous_variant
+1081681	0	T	SNP	C	161	161	6004	99	161	Val210Val	Rv0970	Rv0970	synonymous_variant
+1082983	0	G	SNP	A	132	132	4790	99	132	Gly256Gly	fadE12	fadE12	synonymous_variant
+1083562	0	G	SNP	A	122	122	4663	99	122	Gly63Gly	fadE12	fadE12	synonymous_variant
+1087193	0	G	SNP	C	122	122	4508	99	122	Asn51Lys	accD2	accD2	missense_variant
+1091253	0	A	SNP	G	45	45	1711	99	45	Asn294Ser	PE_PGRS16	PE_PGRS16	missense_variant
+1093406	0	A	SNP	G	141	141	5012	99	141	Val317Val	PE_PGRS17	PE_PGRS17	synonymous_variant
+1095942	0	A	SNP	G	28	28	1115	99	28	Ala170Ala	PE_PGRS18	PE_PGRS18	synonymous_variant
+1096567	0	A	SNP	G	62	62	2464	99	62		PE_PGRS18	PE_PGRS18	upstream_transcript_variant
+1096633	0	T	SNP	G	76	76	2944	99	76		PE_PGRS18	PE_PGRS18	upstream_transcript_variant
+1100234	0	T	SNP	C	119	119	4755	99	119	Leu390Phe	pepD	pepD	missense_variant
+1106422	0	T	SNP	C	136	136	5182	99	136	Ile321Val	grcC2	grcC2	missense_variant
+1109975	0	A	SNP	G	117	117	4404	99	117	Gln235Arg	galU	galU	missense_variant
+1111826	0	G	SNP	T	130	130	4840	99	130	Arg72Leu	rimJ	rimJ	missense_variant
+1111925	0	A	SNP	G	140	140	5323	99	140	Tyr105Cys	rimJ	rimJ	missense_variant
+1126889	0	G	SNP	C	147	147	5474	99	147	Arg39Gly	metS	metS	missense_variant
+1127648	0	C	SNP	A	147	147	5415	99	147	Thr187Asn	tatD	tatD	missense_variant
+1135251	0	T	SNP	G	144	144	5387	99	144	Glu72Ala	lpqT	lpqT	missense_variant
+1148255	0	G	SNP	A	128	128	4674	99	128		Rv1026	Rv1026	downstream_transcript_variant
+1149551	0	C	SNP	T	132	132	5154	99	132	Glu712Glu	kdpD	kdpD	synonymous_variant
+1150585	0	G	SNP	A	102	102	3747	99	102	Phe368Ser	kdpD	kdpD	missense_variant
+1153676	0	C	SNP	G	121	121	4518	99	121	Phe555Leu	kdpA	kdpA	missense_variant
+1163134	0	T	SNP	C	138	138	5330	99	138	Gly81Gly	PE8	PE8	synonymous_variant
+1164336	0	G	SNP	A	159	159	5787	99	159		PE8	PE8	upstream_transcript_variant
+1165521	1	T	Ins	T	108	108	3655	99	108		Rv1041c	Rv1041c	upstream_transcript_variant
+1165521	2	T	Ins	A	108	108	3655	99	108		Rv1041c	Rv1041c	upstream_transcript_variant
+1168715	1	C	Ins	C	152	152	5155	99	152		Rv1047	Rv1047	upstream_transcript_variant
+1168715	2	C	Ins	T	152	152	5155	99	152		Rv1047	Rv1047	upstream_transcript_variant
+1178116	0	T	SNP	C	140	140	5501	99	140	Thr163Thr	Rv1056	Rv1056	synonymous_variant
+1190093	0	A	SNP	C	91	91	3260	99	91	Leu111Trp	PE_PGRS19	PE_PGRS19	missense_variant
+1191359	1	T	Ins	T	12	12	440	99	12	Asn264Gly	PE_PGRS20	PE_PGRS20	inframe_insertion
+1191359	2	T	Ins	G	12	12	440	99	12	Asn264Gly	PE_PGRS20	PE_PGRS20	inframe_insertion
+1191359	3	T	Ins	C	12	12	440	99	12	Asn264Gly	PE_PGRS20	PE_PGRS20	inframe_insertion
+1191359	4	T	Ins	C	12	12	440	99	12	Asn264Gly	PE_PGRS20	PE_PGRS20	inframe_insertion
+1191359	5	T	Ins	G	12	12	440	99	12	Asn264Gly	PE_PGRS20	PE_PGRS20	inframe_insertion
+1191359	6	T	Ins	C	12	12	440	99	12	Asn264Gly	PE_PGRS20	PE_PGRS20	inframe_insertion
+1191359	7	T	Ins	C	12	12	440	99	12	Asn264Gly	PE_PGRS20	PE_PGRS20	inframe_insertion
+1200418	0	A	SNP	G	144	144	5427	99	144		Rv1075c	Rv1075c	upstream_transcript_variant
+1212642	0	G	Del	GAP	60	60	1839	99	60		PE_PGRS21	PE_PGRS21	inframe_deletion
+1213007	0	C	Del	GAP	36	36	1153	99	36		PE_PGRS21	PE_PGRS21	inframe_deletion
+1220680	0	T	SNP	C	143	143	5352	99	143	Val36Ala	glyA1	glyA1	missense_variant
+1224367	0	T	SNP	C	37	37	1252	99	37		Rv1096	Rv1096	upstream_transcript_variant
+1225409	0	G	SNP	A	109	109	4272	99	109	Arg246Cys	Rv1097c	Rv1097c	missense_variant
+1232037	0	C	SNP	A	126	126	4746	99	126		mazE3	mazE3	upstream_transcript_variant
+1234262	0	G	SNP	C	139	139	5233	99	139	Ala400Gly	xseA	xseA	missense_variant
+1248978	0	T	SNP	C	128	128	4827	99	128	Ala299Ala	Rv1125	Rv1125	synonymous_variant
+1251199	0	C	SNP	T	153	153	5794	99	153	Gly69Glu	ppdK	ppdK	missense_variant
+1252164	0	T	SNP	C	134	134	5085	99	134	Glu270Gly	Rv1128c	Rv1128c	missense_variant
+1275957	0	T	SNP	C	135	135	5361	99	135				intergenic_variant
+1276321	0	T	SNP	G	70	70	2773	99	70	Gln476His	Rv1148c	Rv1148c	missense_variant
+1276322	0	T	SNP	G	67	67	2773	99	67	Gln476Phe	Rv1148c	Rv1148c	missense_variant
+1276340	0	G	SNP	T	44	44	1970	99	44	Ala470Glu	Rv1148c	Rv1148c	missense_variant
+1276360	0	T	SNP	G	14	14	620	99	14	Ile463Ile	Rv1148c	Rv1148c	synonymous_variant
+1276366	0	C	SNP	T	6	6	260	99	6	Phe461Phe	Rv1148c	Rv1148c	synonymous_variant
+1277869	1	G	Ins	G	119	119	4178	99	119		Rv1148c	Rv1148c	upstream_transcript_variant
+1277869	2	G	Ins	T	119	119	4178	99	119		Rv1148c	Rv1148c	upstream_transcript_variant
+1281118	0	T	SNP	C	130	130	5014	99	130	Thr123Ala	Rv1154c	Rv1154c	missense_variant
+1292102	0	A	SNP	G	110	110	4283	99	110	Phe346Phe	narH	narH	synonymous_variant
+1292464	0	C	SNP	T	138	138	5133	99	138	Ala467Val	narH	narH	missense_variant
+1306259	0	A	SNP	G	133	133	5226	99	133	Ala656Ala	fadH	fadH	synonymous_variant
+1307598	0	C	SNP	G	126	126	4620	99	126	Cys210Ser	fadH	fadH	missense_variant
+1313337	1	A	Ins	A	49	49	1730	99	49		Rv1179c	Rv1179c	upstream_transcript_variant
+1313337	2	A	Ins	G	49	49	1730	99	49		Rv1179c	Rv1179c	upstream_transcript_variant
+1313338	0	A	SNP	C	48	48	1730	99	48		Rv1179c	Rv1179c	upstream_transcript_variant
+1315191	0	A	SNP	C	130	130	4895	99	130		pks3	pks3	stop_lost
+1315884	0	G	SNP	A	89	89	3533	99	89	Ala217Ala	pks4	pks4	synonymous_variant
+1327890	0	G	SNP	A	116	116	4509	99	116	Asp472Asp	Rv1186c	Rv1186c	synonymous_variant
+1328687	0	G	SNP	C	103	103	3777	99	103	Phe207Ala	Rv1186c	Rv1186c	missense_variant
+1338172	0	G	SNP	C	123	123	4727	99	123	Phe114Leu	Rv1194c	Rv1194c	missense_variant
+1339741	0	C	SNP	G	81	81	3103	99	81	Thr131Thr	PPE18	PPE18	synonymous_variant
+1339774	0	C	SNP	G	102	102	4091	99	102	Gly142Gly	PPE18	PPE18	synonymous_variant
+1341023	0	A	SNP	G	88	88	3792	99	88	Gln6Gln	esxL	esxL	synonymous_variant
+1341029	0	G	SNP	T	85	85	3753	99	85	Gly8Gly	esxL	esxL	synonymous_variant
+1341750	0	C	SNP	T	2	2	78	88	2	Asp286Asn	Rv1199c	Rv1199c	missense_variant
+1342715	1	A	Ins	A	108	108	4623	99	108		Rv1199c	Rv1199c	upstream_transcript_variant
+1342715	2	A	Ins	C	108	108	4623	99	108		Rv1199c	Rv1199c	upstream_transcript_variant
+1342720	0	T	SNP	G	111	111	4711	99	111		Rv1199c	Rv1199c	upstream_transcript_variant
+1345335	0	G	SNP	A	149	149	5259	99	149	Ala26Thr	dapE	dapE	missense_variant
+1356135	0	C	SNP	T	142	142	5356	99	142	Thr100Thr	glgC	glgC	synonymous_variant
+1360209	0	T	SNP	C	128	128	4768	99	128	Ala531Ala	Rv1217c	Rv1217c	synonymous_variant
+1362006	0	T	SNP	C	140	140	5388	99	140	Gln243Arg	Rv1218c	Rv1218c	missense_variant
+1365837	1	C	Ins	C	145	145	4494	99	145		htrA	htrA	upstream_transcript_variant
+1365837	2	C	Ins	G	145	145	4494	99	145		htrA	htrA	upstream_transcript_variant
+1374065	0	T	SNP	C	111	111	3623	99	111	Ser45Gly	Rv1230c	Rv1230c	missense_variant
+1375114	0	G	SNP	A	112	112	4149	99	112	Phe352Leu	Rv1232c	Rv1232c	missense_variant
+1375724	0	A	SNP	C	124	124	4580	99	124	Cys149Gly	Rv1232c	Rv1232c	missense_variant
+1382628	0	T	SNP	C	147	147	5523	99	147	Lys139Glu	corA	corA	missense_variant
+1393626	0	A	SNP	G	122	122	4703	99	122	Leu119Leu	Rv1249c	Rv1249c	synonymous_variant
+1393694	0	C	SNP	A	128	128	4749	99	128	Ala97Ser	Rv1249c	Rv1249c	missense_variant
+1393994	0	C	SNP	T	155	155	5795	99	155		Rv1248c	Rv1248c	upstream_transcript_variant
+1396035	0	G	SNP	A	131	131	4989	99	131	Phe1069Leu	Rv1251c	Rv1251c	missense_variant
+1396922	0	T	SNP	C	150	150	5694	99	150	Thr773Thr	Rv1251c	Rv1251c	synonymous_variant
+1411210	0	T	SNP	G	158	158	5780	99	158	Val260Val	amiB2	amiB2	synonymous_variant
+1413148	0	C	SNP	T	111	111	3820	99	111		Rv1265	Rv1265	upstream_transcript_variant
+1414021	0	C	SNP	T	102	102	3919	99	102	Arg607Gln	pknH	pknH	missense_variant
+1414528	0	G	SNP	A	123	123	4834	99	123	Ala438Val	pknH	pknH	missense_variant
+1440469	0	C	SNP	G	119	119	4560	99	119	Phe521Phe	Rv1286	Rv1286	synonymous_variant
+1442492	0	C	SNP	T	127	127	4956	99	127	Thr382Ile	Rv1288	Rv1288	missense_variant
+1444202	0	C	SNP	G	140	140	5076	99	140	Leu282Phe	Rv1290c	Rv1290c	missense_variant
+1445781	0	A	SNP	G	138	138	5178	99	138	Ala18Ala	Rv1291c	Rv1291c	synonymous_variant
+1457144	0	C	SNP	T	106	106	3790	99	106	Arg194Cys	hemK	hemK	missense_variant
+1462270	0	A	SNP	G	138	138	5223	99	138	Gln143Arg	atpH	atpH	missense_variant
+1466056	0	G	SNP	A	137	137	5294	99	137	Leu72Leu	atpD	atpD	synonymous_variant
+1468208	0	A	SNP	C	110	110	3652	99	110	Leu433Arg	Rv1313c	Rv1313c	missense_variant
+1471659	0	C	SNP	T	131	131	4861	99	131		murA	murA	downstream_transcript_variant
+1473246	0	A	SNP	G	155	155	5781	99	155				intergenic_variant
+1477588	0	G	SNP	C	134	134	4953	99	134	Thr15Ser	ogt	ogt	missense_variant
+1481185	0	A	SNP	C	223	223	8286	99	223	Asp439Glu	Rv1319c	Rv1319c	missense_variant
+1482627	0	T	SNP	C	108	108	3990	99	108	Thr531Ala	Rv1320c	Rv1320c	missense_variant
+1484708	0	A	SNP	C	131	131	4850	99	131	Ser144Arg	Rv1321	Rv1321	missense_variant
+1488793	0	G	SNP	C	44	44	1702	99	44	Gly391Gly	PE_PGRS24	PE_PGRS24	synonymous_variant
+1495326	0	A	SNP	G	105	105	4029	99	105	Lys255Glu	glgP	glgP	missense_variant
+1499274	0	C	SNP	G	120	120	4534	99	120	Gly429Ala	pncB1	pncB1	missense_variant
+1518165	0	C	SNP	G	181	181	6794	99	181	Phe225Leu	fabG2	fabG2	missense_variant
+1519822	1	C	Ins	C	95	95	2962	99	95	Trp55Ser	Rv1353c	Rv1353c	frameshift_variant
+1519822	2	C	Ins	G	95	95	2962	99	95	Trp55Ser	Rv1353c	Rv1353c	frameshift_variant
+1519822	3	C	Ins	T	95	95	2962	99	95	Trp55Ser	Rv1353c	Rv1353c	frameshift_variant
+1519822	4	C	Ins	C	95	95	2962	99	95	Trp55Ser	Rv1353c	Rv1353c	frameshift_variant
+1519822	5	C	Ins	A	95	95	2962	99	95	Trp55Ser	Rv1353c	Rv1353c	frameshift_variant
+1519822	6	C	Ins	C	95	95	2962	99	95	Trp55Ser	Rv1353c	Rv1353c	frameshift_variant
+1519822	7	C	Ins	T	95	95	2962	99	95	Trp55Ser	Rv1353c	Rv1353c	frameshift_variant
+1519822	8	C	Ins	G	95	95	2962	99	95	Trp55Ser	Rv1353c	Rv1353c	frameshift_variant
+1519822	9	C	Ins	A	95	95	2962	99	95	Trp55Ser	Rv1353c	Rv1353c	frameshift_variant
+1519822	10	C	Ins	T	95	95	2962	99	95	Trp55Ser	Rv1353c	Rv1353c	frameshift_variant
+1519822	11	C	Ins	G	95	95	2962	99	95	Trp55Ser	Rv1353c	Rv1353c	frameshift_variant
+1519822	12	C	Ins	G	95	95	2962	99	95	Trp55Ser	Rv1353c	Rv1353c	frameshift_variant
+1519822	13	C	Ins	C	95	95	2962	99	95	Trp55Ser	Rv1353c	Rv1353c	frameshift_variant
+1519822	14	C	Ins	G	95	95	2962	99	95	Trp55Ser	Rv1353c	Rv1353c	frameshift_variant
+1519822	15	C	Ins	T	95	95	2962	99	95	Trp55Ser	Rv1353c	Rv1353c	frameshift_variant
+1519822	16	C	Ins	C	95	95	2962	99	95	Trp55Ser	Rv1353c	Rv1353c	frameshift_variant
+1519822	17	C	Ins	G	95	95	2962	99	95	Trp55Ser	Rv1353c	Rv1353c	frameshift_variant
+1519824	1	G	Ins	G	94	94	2963	99	94		Rv1353c	Rv1353c	frameshift_variant
+1519824	2	G	Ins	A	94	94	2963	99	94		Rv1353c	Rv1353c	frameshift_variant
+1519824	3	G	Ins	T	94	94	2963	99	94		Rv1353c	Rv1353c	frameshift_variant
+1519824	4	G	Ins	C	94	94	2963	99	94		Rv1353c	Rv1353c	frameshift_variant
+1519824	5	G	Ins	T	94	94	2963	99	94		Rv1353c	Rv1353c	frameshift_variant
+1519824	6	G	Ins	A	94	94	2963	99	94		Rv1353c	Rv1353c	frameshift_variant
+1519824	7	G	Ins	A	94	94	2963	99	94		Rv1353c	Rv1353c	frameshift_variant
+1519824	8	G	Ins	G	94	94	2963	99	94		Rv1353c	Rv1353c	frameshift_variant
+1519824	9	G	Ins	G	94	94	2963	99	94		Rv1353c	Rv1353c	frameshift_variant
+1519824	10	G	Ins	T	94	94	2963	99	94		Rv1353c	Rv1353c	frameshift_variant
+1519824	11	G	Ins	A	94	94	2963	99	94		Rv1353c	Rv1353c	frameshift_variant
+1519824	12	G	Ins	C	94	94	2963	99	94		Rv1353c	Rv1353c	frameshift_variant
+1519824	13	G	Ins	A	94	94	2963	99	94		Rv1353c	Rv1353c	frameshift_variant
+1519824	14	G	Ins	C	94	94	2963	99	94		Rv1353c	Rv1353c	frameshift_variant
+1519824	15	G	Ins	T	94	94	2963	99	94		Rv1353c	Rv1353c	frameshift_variant
+1519824	16	G	Ins	C	94	94	2963	99	94		Rv1353c	Rv1353c	frameshift_variant
+1519824	17	G	Ins	G	94	94	2963	99	94		Rv1353c	Rv1353c	frameshift_variant
+1519824	18	G	Ins	A	94	94	2963	99	94		Rv1353c	Rv1353c	frameshift_variant
+1519824	19	G	Ins	C	94	94	2963	99	94		Rv1353c	Rv1353c	frameshift_variant
+1519824	20	G	Ins	T	94	94	2963	99	94		Rv1353c	Rv1353c	frameshift_variant
+1519824	21	G	Ins	C	94	94	2963	99	94		Rv1353c	Rv1353c	frameshift_variant
+1519824	22	G	Ins	C	94	94	2963	99	94		Rv1353c	Rv1353c	frameshift_variant
+1519824	23	G	Ins	G	94	94	2963	99	94		Rv1353c	Rv1353c	frameshift_variant
+1519824	24	G	Ins	T	94	94	2963	99	94		Rv1353c	Rv1353c	frameshift_variant
+1519824	25	G	Ins	G	94	94	2963	99	94		Rv1353c	Rv1353c	frameshift_variant
+1519824	26	G	Ins	C	94	94	2963	99	94		Rv1353c	Rv1353c	frameshift_variant
+1519824	27	G	Ins	T	94	94	2963	99	94		Rv1353c	Rv1353c	frameshift_variant
+1519824	28	G	Ins	T	94	94	2963	99	94		Rv1353c	Rv1353c	frameshift_variant
+1519824	29	G	Ins	A	94	94	2963	99	94		Rv1353c	Rv1353c	frameshift_variant
+1519824	30	G	Ins	C	94	94	2963	99	94		Rv1353c	Rv1353c	frameshift_variant
+1526819	0	C	SNP	A	144	144	5557	99	144	Arg70Arg	Rv1358	Rv1358	synonymous_variant
+1529952	0	G	SNP	A	156	156	5885	99	156	Gly1114Glu	Rv1358	Rv1358	missense_variant
+1532827	0	A	SNP	T	105	105	3893	99	105	Phe269Leu	PPE19	PPE19	missense_variant
+1533241	0	G	SNP	C	107	107	3938	99	107	Thr131Thr	PPE19	PPE19	synonymous_variant
+1536251	0	G	SNP	T	118	118	4488	99	118	Ala465Glu	Rv1364c	Rv1364c	missense_variant
+1538862	0	G	SNP	T	134	134	5273	99	134	Arg158Leu	Rv1366	Rv1366	missense_variant
+1547125	0	T	SNP	C	169	169	6268	99	169	Thr136Ala	Rv1374c	Rv1374c	missense_variant
+1552547	0	G	SNP	A	99	99	3451	99	99	Arg37Trp	Rv1378c	Rv1378c	missense_variant
+1561614	0	G	SNP	A	97	97	3631	99	97	Ala51Thr	PE15	PE15	missense_variant
+1563717	0	C	SNP	T	144	144	5282	99	144	Val8Val	mihF	mihF	synonymous_variant
+1570566	0	C	SNP	A	127	127	4927	99	127	Arg135Leu	cyp132	cyp132	missense_variant
+1570997	0	G	SNP	A	148	148	5738	99	148		cyp132	cyp132	upstream_transcript_variant
+1572322	0	G	SNP	A	17	17	634	99	17	Asn512Asn	PE_PGRS25	PE_PGRS25	synonymous_variant
+1573660	0	T	SNP	G	123	123	4480	99	123	Arg66Ser	PE_PGRS25	PE_PGRS25	missense_variant
+1588899	0	G	SNP	T	129	129	4996	99	129	Ala111Ala	ribC	ribC	synonymous_variant
+1589383	0	A	SNP	G	130	130	4995	99	130		lprG	lprG	upstream_transcript_variant
+1609840	0	A	SNP	G	109	109	4189	99	109	Phe586Phe	Rv1431	Rv1431	synonymous_variant
+1612278	1	G	Ins	G	162	162	6182	99	162	Arg8Arg	Rv1434	Rv1434	inframe_insertion
+1612278	2	G	Ins	C	162	162	6182	99	162	Arg8Arg	Rv1434	Rv1434	inframe_insertion
+1612278	3	G	Ins	G	162	162	6182	99	162	Arg8Arg	Rv1434	Rv1434	inframe_insertion
+1612278	4	G	Ins	T	162	162	6182	99	162	Arg8Arg	Rv1434	Rv1434	inframe_insertion
+1612278	5	G	Ins	C	162	162	6182	99	162	Arg8Arg	Rv1434	Rv1434	inframe_insertion
+1612278	6	G	Ins	G	162	162	6182	99	162	Arg8Arg	Rv1434	Rv1434	inframe_insertion
+1612278	7	G	Ins	A	162	162	6182	99	162	Arg8Arg	Rv1434	Rv1434	inframe_insertion
+1612624	1	T	Ins	T	113	113	3630	99	113	Ile109Ile	Rv1435c	Rv1435c	inframe_insertion
+1612624	2	T	Ins	A	113	113	3630	99	113	Ile109Ile	Rv1435c	Rv1435c	inframe_insertion
+1612624	3	T	Ins	T	113	113	3630	99	113	Ile109Ile	Rv1435c	Rv1435c	inframe_insertion
+1612624	4	T	Ins	C	113	113	3630	99	113	Ile109Ile	Rv1435c	Rv1435c	inframe_insertion
+1612624	5	T	Ins	G	113	113	3630	99	113	Ile109Ile	Rv1435c	Rv1435c	inframe_insertion
+1612624	6	T	Ins	G	113	113	3630	99	113	Ile109Ile	Rv1435c	Rv1435c	inframe_insertion
+1612624	7	T	Ins	T	113	113	3630	99	113	Ile109Ile	Rv1435c	Rv1435c	inframe_insertion
+1612624	8	T	Ins	A	113	113	3630	99	113	Ile109Ile	Rv1435c	Rv1435c	inframe_insertion
+1612624	9	T	Ins	C	113	113	3630	99	113	Ile109Ile	Rv1435c	Rv1435c	inframe_insertion
+1612624	10	T	Ins	C	113	113	3630	99	113	Ile109Ile	Rv1435c	Rv1435c	inframe_insertion
+1612624	11	T	Ins	G	113	113	3630	99	113	Ile109Ile	Rv1435c	Rv1435c	inframe_insertion
+1612624	12	T	Ins	G	113	113	3630	99	113	Ile109Ile	Rv1435c	Rv1435c	inframe_insertion
+1612624	13	T	Ins	T	113	113	3630	99	113	Ile109Ile	Rv1435c	Rv1435c	inframe_insertion
+1612624	14	T	Ins	G	113	113	3630	99	113	Ile109Ile	Rv1435c	Rv1435c	inframe_insertion
+1612624	15	T	Ins	C	113	113	3630	99	113	Ile109Ile	Rv1435c	Rv1435c	inframe_insertion
+1612624	16	T	Ins	G	113	113	3630	99	113	Ile109Ile	Rv1435c	Rv1435c	inframe_insertion
+1612624	17	T	Ins	C	113	113	3630	99	113	Ile109Ile	Rv1435c	Rv1435c	inframe_insertion
+1612624	18	T	Ins	C	113	113	3630	99	113	Ile109Ile	Rv1435c	Rv1435c	inframe_insertion
+1612624	19	T	Ins	A	113	113	3630	99	113	Ile109Ile	Rv1435c	Rv1435c	inframe_insertion
+1612624	20	T	Ins	G	113	113	3630	99	113	Ile109Ile	Rv1435c	Rv1435c	inframe_insertion
+1612624	21	T	Ins	G	113	113	3630	99	113	Ile109Ile	Rv1435c	Rv1435c	inframe_insertion
+1612624	22	T	Ins	G	113	113	3630	99	113	Ile109Ile	Rv1435c	Rv1435c	inframe_insertion
+1613035	0	T	SNP	C	136	136	5223	99	136		Rv1435c	Rv1435c	upstream_transcript_variant
+1618610	0	A	Del	GAP	65	65	1387	99	65		PE_PGRS26	PE_PGRS26	inframe_deletion
+1619978	0	A	SNP	G	121	121	4603	99	121	His63Arg	bisC	bisC	missense_variant
+1622172	1	T	Ins	T	139	139	5117	99	139		bisC	bisC	downstream_transcript_variant
+1622172	2	T	Ins	G	139	139	5117	99	139		bisC	bisC	downstream_transcript_variant
+1622964	0	C	SNP	A	128	128	4633	99	128		Rv1443c	Rv1443c	upstream_transcript_variant
+1624791	0	C	SNP	G	81	81	3077	99	81	Arg192Phe	opcA	opcA	missense_variant
+1632518	1	T	Ins	T	62	62	1666	99	62	Asn704Asp	PE_PGRS27	PE_PGRS27	inframe_insertion
+1632518	2	T	Ins	G	62	62	1666	99	62	Asn704Asp	PE_PGRS27	PE_PGRS27	inframe_insertion
+1632518	3	T	Ins	G	62	62	1666	99	62	Asn704Asp	PE_PGRS27	PE_PGRS27	inframe_insertion
+1632518	4	T	Ins	C	62	62	1666	99	62	Asn704Asp	PE_PGRS27	PE_PGRS27	inframe_insertion
+1632518	5	T	Ins	G	62	62	1666	99	62	Asn704Asp	PE_PGRS27	PE_PGRS27	inframe_insertion
+1632518	6	T	Ins	C	62	62	1666	99	62	Asn704Asp	PE_PGRS27	PE_PGRS27	inframe_insertion
+1632518	7	T	Ins	C	62	62	1666	99	62	Asn704Asp	PE_PGRS27	PE_PGRS27	inframe_insertion
+1632518	8	T	Ins	G	62	62	1666	99	62	Asn704Asp	PE_PGRS27	PE_PGRS27	inframe_insertion
+1632518	9	T	Ins	T	62	62	1666	99	62	Asn704Asp	PE_PGRS27	PE_PGRS27	inframe_insertion
+1632518	10	T	Ins	T	62	62	1666	99	62	Asn704Asp	PE_PGRS27	PE_PGRS27	inframe_insertion
+1632518	11	T	Ins	G	62	62	1666	99	62	Asn704Asp	PE_PGRS27	PE_PGRS27	inframe_insertion
+1632518	12	T	Ins	C	62	62	1666	99	62	Asn704Asp	PE_PGRS27	PE_PGRS27	inframe_insertion
+1632518	13	T	Ins	C	62	62	1666	99	62	Asn704Asp	PE_PGRS27	PE_PGRS27	inframe_insertion
+1632518	14	T	Ins	G	62	62	1666	99	62	Asn704Asp	PE_PGRS27	PE_PGRS27	inframe_insertion
+1632518	15	T	Ins	C	62	62	1666	99	62	Asn704Asp	PE_PGRS27	PE_PGRS27	inframe_insertion
+1632518	16	T	Ins	C	62	62	1666	99	62	Asn704Asp	PE_PGRS27	PE_PGRS27	inframe_insertion
+1632518	17	T	Ins	G	62	62	1666	99	62	Asn704Asp	PE_PGRS27	PE_PGRS27	inframe_insertion
+1632518	18	T	Ins	G	62	62	1666	99	62	Asn704Asp	PE_PGRS27	PE_PGRS27	inframe_insertion
+1632518	19	T	Ins	C	62	62	1666	99	62	Asn704Asp	PE_PGRS27	PE_PGRS27	inframe_insertion
+1632518	20	T	Ins	C	62	62	1666	99	62	Asn704Asp	PE_PGRS27	PE_PGRS27	inframe_insertion
+1632518	21	T	Ins	C	62	62	1666	99	62	Asn704Asp	PE_PGRS27	PE_PGRS27	inframe_insertion
+1632518	22	T	Ins	C	62	62	1666	99	62	Asn704Asp	PE_PGRS27	PE_PGRS27	inframe_insertion
+1632518	23	T	Ins	A	62	62	1666	99	62	Asn704Asp	PE_PGRS27	PE_PGRS27	inframe_insertion
+1632518	24	T	Ins	C	62	62	1666	99	62	Asn704Asp	PE_PGRS27	PE_PGRS27	inframe_insertion
+1632518	25	T	Ins	C	62	62	1666	99	62	Asn704Asp	PE_PGRS27	PE_PGRS27	inframe_insertion
+1632518	26	T	Ins	G	62	62	1666	99	62	Asn704Asp	PE_PGRS27	PE_PGRS27	inframe_insertion
+1632518	27	T	Ins	T	62	62	1666	99	62	Asn704Asp	PE_PGRS27	PE_PGRS27	inframe_insertion
+1632518	28	T	Ins	C	62	62	1666	99	62	Asn704Asp	PE_PGRS27	PE_PGRS27	inframe_insertion
+1639594	0	C	SNP	A	107	107	4072	99	107	Phe405Gln	Rv1453	Rv1453	missense_variant
+1645802	0	T	SNP	C	152	152	5909	99	152	Lys113Glu	Rv1459c	Rv1459c	missense_variant
+1648620	0	G	SNP	A	130	130	4966	99	130	Met544Ile	Rv1461	Rv1461	missense_variant
+1650072	0	A	SNP	G	137	137	5185	99	137	Asn183Asp	Rv1462	Rv1462	missense_variant
+1654031	0	T	SNP	C	122	122	4552	99	122	Gln491Arg	fadE15	fadE15	missense_variant
+1661699	0	G	SNP	A	150	150	5691	99	150	Leu348Leu	Rv1473	Rv1473	synonymous_variant
+1667889	0	C	SNP	A	142	142	5333	99	142	Val300Val	ripA	ripA	synonymous_variant
+1669358	0	C	SNP	A	84	84	3327	99	84	His26Asn	moxR1	moxR1	missense_variant
+1676290	0	C	SNP	A	126	126	4529	99	126	Lys198Asn	Rv1486c	Rv1486c	missense_variant
+1688649	0	G	SNP	C	90	90	3222	99	90	Ala237Phe	lipL	lipL	missense_variant
+1689349	0	C	SNP	T	126	126	4636	99	126	Arg191His	Rv1498c	Rv1498c	missense_variant
+1693561	0	A	SNP	G	164	164	5899	99	164	Tyr213Cys	Rv1502	Rv1502	missense_variant
+1695364	0	C	SNP	G	155	155	5785	99	155	Gly195Arg	Rv1505c	Rv1505c	missense_variant
+1698911	0	G	SNP	A	130	130	4500	99	130	Gly328Gly	Rv1508c	Rv1508c	synonymous_variant
+1701477	0	C	SNP	G	122	122	4670	99	122	Phe61Phe	Rv1510	Rv1510	synonymous_variant
+1706119	0	T	SNP	C	103	103	3984	99	103	Ser159Ser	Rv1514c	Rv1514c	synonymous_variant
+1706602	0	C	SNP	T	115	115	4421	99	115		Rv1514c	Rv1514c	upstream_transcript_variant
+1708846	0	C	SNP	T	137	137	5107	99	137		Rv1516c	Rv1516c	upstream_transcript_variant
+1709432	0	C	SNP	T	132	132	4994	99	132	Leu188Phe	Rv1517	Rv1517	missense_variant
+1712824	0	A	SNP	G	144	144	5651	99	144	Thr175Ala	fadD25	fadD25	missense_variant
+1715942	0	G	SNP	A	124	124	4635	99	124	Gly557Gly	mmpL12	mmpL12	synonymous_variant
+1722702	0	A	SNP	C	121	121	4434	99	121	Leu1903Arg	pks5	pks5	missense_variant
+1728622	0	C	SNP	G	170	170	6616	99	170		pks5	pks5	upstream_transcript_variant
+1728837	0	A	SNP	G	174	174	6679	99	174		pks5	pks5	upstream_transcript_variant
+1741624	0	C	SNP	G	111	111	4203	99	111	Arg190Phe	ansA	ansA	missense_variant
+1753519	1	G	Ins	G	124	124	3694	99	124		PPE21	PPE21	upstream_transcript_variant
+1753519	2	G	Ins	C	124	124	3694	99	124		PPE21	PPE21	upstream_transcript_variant
+1759252	0	G	SNP	T	152	152	5895	99	152	Ser524Ser	frdA	frdA	synonymous_variant
+1759904	0	C	SNP	T	167	167	6318	99	167	Ser157Leu	frdB	frdB	missense_variant
+1778430	0	T	SNP	C	103	103	3762	99	103	Met191Thr	bioD	bioD	missense_variant
+1778789	0	G	SNP	T	107	107	3936	99	107	Arg84Leu	Rv1571	Rv1571	missense_variant
+1779370	0	G	SNP	C	133	133	5006	99	133	Thr19Thr	Rv1573	Rv1573	synonymous_variant
+1780586	1	C	Ins	C	33	33	1141	99	33	Arg130Arg	Rv1575	Rv1575	frameshift_variant
+1780586	2	C	Ins	G	33	33	1141	99	33	Arg130Arg	Rv1575	Rv1575	frameshift_variant
+1782431	0	A	SNP	C	138	138	5941	99	138	Leu52Val	Rv1577c	Rv1577c	missense_variant
+1782432	0	T	SNP	C	137	137	5941	99	137	Lys51Lys	Rv1577c	Rv1577c	synonymous_variant
+1786544	0	G	SNP	A	148	148	5535	99	148		Rv1582c	Rv1582c	upstream_transcript_variant
+1792777	0	T	SNP	C	132	132	5501	99	132	Ile322Val	Rv1592c	Rv1592c	missense_variant
+1792778	0	T	SNP	C	135	135	5501	99	135	Glu321Glu	Rv1592c	Rv1592c	synonymous_variant
+1798355	0	G	SNP	A	125	125	4648	99	125	Gly21Asp	Rv1597	Rv1597	missense_variant
+1803265	0	G	SNP	A	137	137	5021	99	137	Ser201Asn	hisH	hisH	missense_variant
+1804409	0	C	SNP	A	114	114	4191	99	114	Phe124Gln	impA	impA	missense_variant
+1810237	0	G	SNP	A	123	123	4818	99	123		trpC	trpC	upstream_transcript_variant
+1817976	0	A	SNP	T	135	135	4961	99	135	His121Leu	tesB1	tesB1	missense_variant
+1836286	0	G	SNP	C	135	135	5349	99	135		uvrB	uvrB	upstream_transcript_variant
+1843570	1	T	Ins	T	219	219	3572	99	219	Thr41Thr	Rv1637c	Rv1637c	inframe_insertion
+1843570	2	T	Ins	G	219	219	3572	99	219	Thr41Thr	Rv1637c	Rv1637c	inframe_insertion
+1843570	3	T	Ins	T	219	219	3572	99	219	Thr41Thr	Rv1637c	Rv1637c	inframe_insertion
+1843570	4	T	Ins	C	219	219	3572	99	219	Thr41Thr	Rv1637c	Rv1637c	inframe_insertion
+1843570	5	T	Ins	A	219	219	3572	99	219	Thr41Thr	Rv1637c	Rv1637c	inframe_insertion
+1843570	6	T	Ins	T	219	219	3572	99	219	Thr41Thr	Rv1637c	Rv1637c	inframe_insertion
+1843570	7	T	Ins	A	219	219	3572	99	219	Thr41Thr	Rv1637c	Rv1637c	inframe_insertion
+1843570	8	T	Ins	T	219	219	3572	99	219	Thr41Thr	Rv1637c	Rv1637c	inframe_insertion
+1843570	9	T	Ins	G	219	219	3572	99	219	Thr41Thr	Rv1637c	Rv1637c	inframe_insertion
+1843570	10	T	Ins	C	219	219	3572	99	219	Thr41Thr	Rv1637c	Rv1637c	inframe_insertion
+1843570	11	T	Ins	G	219	219	3572	99	219	Thr41Thr	Rv1637c	Rv1637c	inframe_insertion
+1843570	12	T	Ins	C	219	219	3572	99	219	Thr41Thr	Rv1637c	Rv1637c	inframe_insertion
+1843570	13	T	Ins	C	219	219	3572	99	219	Thr41Thr	Rv1637c	Rv1637c	inframe_insertion
+1843570	14	T	Ins	A	219	219	3572	99	219	Thr41Thr	Rv1637c	Rv1637c	inframe_insertion
+1843570	15	T	Ins	C	219	219	3572	99	219	Thr41Thr	Rv1637c	Rv1637c	inframe_insertion
+1843570	16	T	Ins	T	219	219	3572	99	219	Thr41Thr	Rv1637c	Rv1637c	inframe_insertion
+1843570	17	T	Ins	G	219	219	3572	99	219	Thr41Thr	Rv1637c	Rv1637c	inframe_insertion
+1843570	18	T	Ins	C	219	219	3572	99	219	Thr41Thr	Rv1637c	Rv1637c	inframe_insertion
+1843570	19	T	Ins	T	219	219	3572	99	219	Thr41Thr	Rv1637c	Rv1637c	inframe_insertion
+1843570	20	T	Ins	C	219	219	3572	99	219	Thr41Thr	Rv1637c	Rv1637c	inframe_insertion
+1843570	21	T	Ins	C	219	219	3572	99	219	Thr41Thr	Rv1637c	Rv1637c	inframe_insertion
+1843570	22	T	Ins	T	219	219	3572	99	219	Thr41Thr	Rv1637c	Rv1637c	inframe_insertion
+1843570	23	T	Ins	A	219	219	3572	99	219	Thr41Thr	Rv1637c	Rv1637c	inframe_insertion
+1843570	24	T	Ins	T	219	219	3572	99	219	Thr41Thr	Rv1637c	Rv1637c	inframe_insertion
+1843570	25	T	Ins	G	219	219	3572	99	219	Thr41Thr	Rv1637c	Rv1637c	inframe_insertion
+1843570	26	T	Ins	C	219	219	3572	99	219	Thr41Thr	Rv1637c	Rv1637c	inframe_insertion
+1843570	27	T	Ins	C	219	219	3572	99	219	Thr41Thr	Rv1637c	Rv1637c	inframe_insertion
+1843570	28	T	Ins	G	219	219	3572	99	219	Thr41Thr	Rv1637c	Rv1637c	inframe_insertion
+1843570	29	T	Ins	G	219	219	3572	99	219	Thr41Thr	Rv1637c	Rv1637c	inframe_insertion
+1843570	30	T	Ins	C	219	219	3572	99	219	Thr41Thr	Rv1637c	Rv1637c	inframe_insertion
+1843570	31	T	Ins	T	219	219	3572	99	219	Thr41Thr	Rv1637c	Rv1637c	inframe_insertion
+1843570	32	T	Ins	G	219	219	3572	99	219	Thr41Thr	Rv1637c	Rv1637c	inframe_insertion
+1843570	33	T	Ins	C	219	219	3572	99	219	Thr41Thr	Rv1637c	Rv1637c	inframe_insertion
+1843570	34	T	Ins	G	219	219	3572	99	219	Thr41Thr	Rv1637c	Rv1637c	inframe_insertion
+1843570	35	T	Ins	C	219	219	3572	99	219	Thr41Thr	Rv1637c	Rv1637c	inframe_insertion
+1843570	36	T	Ins	C	219	219	3572	99	219	Thr41Thr	Rv1637c	Rv1637c	inframe_insertion
+1843570	37	T	Ins	G	219	219	3572	99	219	Thr41Thr	Rv1637c	Rv1637c	inframe_insertion
+1843570	38	T	Ins	G	219	219	3572	99	219	Thr41Thr	Rv1637c	Rv1637c	inframe_insertion
+1843570	39	T	Ins	C	219	219	3572	99	219	Thr41Thr	Rv1637c	Rv1637c	inframe_insertion
+1843570	40	T	Ins	A	219	219	3572	99	219	Thr41Thr	Rv1637c	Rv1637c	inframe_insertion
+1843570	41	T	Ins	T	219	219	3572	99	219	Thr41Thr	Rv1637c	Rv1637c	inframe_insertion
+1843570	42	T	Ins	C	219	219	3572	99	219	Thr41Thr	Rv1637c	Rv1637c	inframe_insertion
+1843570	43	T	Ins	A	219	219	3572	99	219	Thr41Thr	Rv1637c	Rv1637c	inframe_insertion
+1843570	44	T	Ins	T	219	219	3572	99	219	Thr41Thr	Rv1637c	Rv1637c	inframe_insertion
+1843570	45	T	Ins	C	219	219	3572	99	219	Thr41Thr	Rv1637c	Rv1637c	inframe_insertion
+1843570	46	T	Ins	G	219	219	3572	99	219	Thr41Thr	Rv1637c	Rv1637c	inframe_insertion
+1843570	47	T	Ins	T	219	219	3572	99	219	Thr41Thr	Rv1637c	Rv1637c	inframe_insertion
+1843570	48	T	Ins	C	219	219	3572	99	219	Thr41Thr	Rv1637c	Rv1637c	inframe_insertion
+1843570	49	T	Ins	G	219	219	3572	99	219	Thr41Thr	Rv1637c	Rv1637c	inframe_insertion
+1843570	50	T	Ins	T	219	219	3572	99	219	Thr41Thr	Rv1637c	Rv1637c	inframe_insertion
+1843570	51	T	Ins	T	219	219	3572	99	219	Thr41Thr	Rv1637c	Rv1637c	inframe_insertion
+1843570	52	T	Ins	G	219	219	3572	99	219	Thr41Thr	Rv1637c	Rv1637c	inframe_insertion
+1843570	53	T	Ins	G	219	219	3572	99	219	Thr41Thr	Rv1637c	Rv1637c	inframe_insertion
+1843570	54	T	Ins	C	219	219	3572	99	219	Thr41Thr	Rv1637c	Rv1637c	inframe_insertion
+1843570	55	T	Ins	G	219	219	3572	99	219	Thr41Thr	Rv1637c	Rv1637c	inframe_insertion
+1843570	56	T	Ins	C	219	219	3572	99	219	Thr41Thr	Rv1637c	Rv1637c	inframe_insertion
+1843570	57	T	Ins	G	219	219	3572	99	219	Thr41Thr	Rv1637c	Rv1637c	inframe_insertion
+1843570	58	T	Ins	G	219	219	3572	99	219	Thr41Thr	Rv1637c	Rv1637c	inframe_insertion
+1847919	0	C	SNP	G	119	119	4566	99	119	Thr180Thr	Rv1639c	Rv1639c	synonymous_variant
+1854300	0	T	SNP	C	125	125	4545	99	125	Leu232Phe	tsnR	tsnR	missense_variant
+1856777	0	G	SNP	C	118	118	4530	99	118	Ala2Phe	Rv1647	Rv1647	missense_variant
+1861804	0	G	SNP	T	120	120	4619	99	120	Gly683Cys	pheT	pheT	missense_variant
+1864811	0	T	SNP	C	38	38	1491	99	38	Asn191Ser	PE_PGRS30	PE_PGRS30	missense_variant
+1865976	0	C	SNP	T	73	73	2870	99	73	Phe134Leu	argC	argC	missense_variant
+1875207	0	C	SNP	T	126	126	4863	99	126	Leu350Leu	pks10	pks10	synonymous_variant
+1877862	0	G	SNP	T	136	136	5123	99	136	Thr853Thr	pks7	pks7	synonymous_variant
+1885772	0	G	SNP	A	123	123	4379	99	123	Ala1357Thr	pks8	pks8	missense_variant
+1894300	1	G	Ins	G	142	142	5925	99	142		cyp139	cyp139	upstream_transcript_variant
+1894300	2	G	Ins	G	142	142	5925	99	142		cyp139	cyp139	upstream_transcript_variant
+1894300	3	G	Ins	T	142	142	5925	99	142		cyp139	cyp139	upstream_transcript_variant
+1894300	4	G	Ins	C	142	142	5925	99	142		cyp139	cyp139	upstream_transcript_variant
+1894300	5	G	Ins	T	142	142	5925	99	142		cyp139	cyp139	upstream_transcript_variant
+1894300	6	G	Ins	T	142	142	5925	99	142		cyp139	cyp139	upstream_transcript_variant
+1894300	7	G	Ins	G	142	142	5925	99	142		cyp139	cyp139	upstream_transcript_variant
+1894300	8	G	Ins	C	142	142	5925	99	142		cyp139	cyp139	upstream_transcript_variant
+1894300	9	G	Ins	C	142	142	5925	99	142		cyp139	cyp139	upstream_transcript_variant
+1894300	10	G	Ins	G	142	142	5925	99	142		cyp139	cyp139	upstream_transcript_variant
+1894300	11	G	Ins	C	142	142	5925	99	142		cyp139	cyp139	upstream_transcript_variant
+1894422	0	A	SNP	G	112	112	4126	99	112		cyp139	cyp139	upstream_transcript_variant
+1901493	0	T	SNP	C	141	141	5185	99	141	Ser149Ser	Rv1676	Rv1676	synonymous_variant
+1907296	0	G	SNP	C	133	133	4852	99	133	Ala298Ala	Rv1682	Rv1682	synonymous_variant
+1913811	0	G	SNP	C	130	130	5073	99	130	Leu70Leu	tyrS	tyrS	synonymous_variant
+1916137	0	A	SNP	G	138	138	5148	99	138	Leu63Leu	Rv1691	Rv1691	synonymous_variant
+1917972	0	A	SNP	G	121	121	4853	99	121	Leu11Leu	tlyA	tlyA	synonymous_variant
+1924484	0	C	SNP	T	137	137	5009	99	137	Ala219Val	pyrG	pyrG	missense_variant
+1930028	0	G	SNP	C	130	130	4740	99	130	Arg477Gly	cycA	cycA	missense_variant
+1931179	0	C	SNP	A	96	96	3636	99	96	Arg93Leu	cycA	cycA	missense_variant
+1931219	0	G	SNP	A	116	116	4450	99	116	Leu80Leu	cycA	cycA	synonymous_variant
+1933988	0	G	SNP	A	169	169	6575	99	169		PPE23	PPE23	upstream_transcript_variant
+1944402	0	T	SNP	C	120	120	4355	99	120	Val276Ala	Rv1716	Rv1716	missense_variant
+1950767	0	T	SNP	C	114	114	4310	99	114	Lys95Lys	Rv1724c	Rv1724c	synonymous_variant
+1960284	0	C	SNP	A	116	116	4484	99	116	Gln68His	Rv1733c	Rv1733c	missense_variant
+1967237	0	C	SNP	A	117	117	4339	99	117	Arg134Leu	Rv1739c	Rv1739c	missense_variant
+1983313	0	T	SNP	G	114	114	4237	99	114	Asn488Thr	PPE24	PPE24	missense_variant
+1989057	0	A	SNP	G	24	24	104	99	24	Arg6Gly	cut1	cut1	missense_variant
+1993808	0	A	SNP	T	141	141	5244	99	141	Glu219Val	Rv1760	Rv1760	missense_variant
+1994342	0	T	SNP	C	152	152	5653	99	152	Met397Thr	Rv1760	Rv1760	missense_variant
+2007502	0	G	SNP	A	128	128	4725	99	128	His89Tyr	Rv1773c	Rv1773c	missense_variant
+2010396	0	G	SNP	C	121	121	4528	99	121	Arg54Gly	Rv1776c	Rv1776c	missense_variant
+2010991	0	A	SNP	C	154	154	5925	99	154	Phe112Phe	cyp144	cyp144	synonymous_variant
+2020144	0	G	SNP	A	123	123	4454	99	123	Glu296Glu	eccC5	eccC5	synonymous_variant
+2022868	0	T	SNP	C	121	121	4456	99	121	Ser1204Ser	eccC5	eccC5	synonymous_variant
+2026480	0	T	SNP	C	79	79	2921	99	79	Ser2Phe	PE18	PE18	missense_variant
+2039901	0	C	SNP	T	127	127	4780	99	127	Ala150Val	PPE28	PPE28	missense_variant
+2044790	0	G	SNP	A	145	145	5431	99	145		PPE30	PPE30	downstream_transcript_variant
+2045310	0	A	SNP	G	86	86	3351	99	86	Ile511Ile	PE_PGRS32	PE_PGRS32	synonymous_variant
+2049065	0	T	SNP	C	151	151	5621	99	151		PPE32	PPE32	upstream_transcript_variant
+2049097	0	G	SNP	C	159	159	6302	99	159		PPE32	PPE32	upstream_transcript_variant
+2051746	0	T	SNP	C	132	132	5128	99	132	Ala155Ala	PPE33	PPE33	synonymous_variant
+2052035	0	G	SNP	T	144	144	5387	99	144	Val252Leu	PPE33	PPE33	missense_variant
+2053987	0	G	SNP	A	128	128	4900	99	128	Arg182His	mgtC	mgtC	missense_variant
+2055271	0	A	SNP	G	147	147	5476	99	147	Leu30Phe	Rv1812c	Rv1812c	missense_variant
+2057774	0	A	SNP	T	109	109	4154	99	109	Ile83Phe	Rv1815	Rv1815	missense_variant
+2060983	0	G	SNP	A	152	152	5833	99	152	Gly463Gly	Rv1817	Rv1817	synonymous_variant
+2061433	1	T	Ins	T	30	30	646	99	30	Gly414Gly	PE_PGRS33	PE_PGRS33	inframe_insertion
+2061433	2	T	Ins	C	30	30	646	99	30	Gly414Gly	PE_PGRS33	PE_PGRS33	inframe_insertion
+2061433	3	T	Ins	C	30	30	646	99	30	Gly414Gly	PE_PGRS33	PE_PGRS33	inframe_insertion
+2061433	4	T	Ins	G	30	30	646	99	30	Gly414Gly	PE_PGRS33	PE_PGRS33	inframe_insertion
+2061433	5	T	Ins	C	30	30	646	99	30	Gly414Gly	PE_PGRS33	PE_PGRS33	inframe_insertion
+2061433	6	T	Ins	C	30	30	646	99	30	Gly414Gly	PE_PGRS33	PE_PGRS33	inframe_insertion
+2061433	7	T	Ins	G	30	30	646	99	30	Gly414Gly	PE_PGRS33	PE_PGRS33	inframe_insertion
+2061433	8	T	Ins	G	30	30	646	99	30	Gly414Gly	PE_PGRS33	PE_PGRS33	inframe_insertion
+2061433	9	T	Ins	C	30	30	646	99	30	Gly414Gly	PE_PGRS33	PE_PGRS33	inframe_insertion
+2061433	10	T	Ins	G	30	30	646	99	30	Gly414Gly	PE_PGRS33	PE_PGRS33	inframe_insertion
+2062805	0	C	SNP	G	100	100	3916	99	100		PE_PGRS33	PE_PGRS33	upstream_transcript_variant
+2066633	0	C	SNP	G	120	120	4527	99	120	Ser59Arg	secA2	secA2	missense_variant
+2074695	0	C	SNP	T	139	139	5249	99	139		Rv1830	Rv1830	upstream_transcript_variant
+2074754	0	C	SNP	T	152	152	5940	99	152		Rv1830	Rv1830	upstream_transcript_variant
+2094911	0	A	Del	GAP	133	133	4842	99	133		gnd1	gnd1	inframe_deletion
+2096186	0	A	SNP	G	125	125	4709	99	125	Thr138Thr	blaI	blaI	synonymous_variant
+2107168	0	C	SNP	T	141	141	5360	99	141	Leu199Leu	modC	modC	synonymous_variant
+2108141	0	T	SNP	C	110	110	4287	99	110	Phe136Leu	apa	apa	missense_variant
+2109523	1	C	Ins	C	126	126	4188	99	126		adhA	adhA	upstream_transcript_variant
+2109523	2	C	Ins	G	126	126	4188	99	126		adhA	adhA	upstream_transcript_variant
+2116903	0	C	SNP	T	137	137	4746	99	137	Gly380Gly	Rv1867	Rv1867	synonymous_variant
+2123169	0	T	SNP	G	136	136	5248	99	136		lldD2	lldD2	upstream_transcript_variant
+2126338	0	A	SNP	C	143	143	5052	99	143	Phe145Phe	Rv1877	Rv1877	synonymous_variant
+2128870	0	A	SNP	G	138	138	5179	99	138	Leu283Leu	glnA3	glnA3	synonymous_variant
+2133468	1	T	Ins	T	123	123	4681	99	123	Glu75Glu	Rv1883c	Rv1883c	inframe_insertion
+2133468	2	T	Ins	T	123	123	4681	99	123	Glu75Glu	Rv1883c	Rv1883c	inframe_insertion
+2133468	3	T	Ins	C	123	123	4681	99	123	Glu75Glu	Rv1883c	Rv1883c	inframe_insertion
+2133468	4	T	Ins	G	123	123	4681	99	123	Glu75Glu	Rv1883c	Rv1883c	inframe_insertion
+2133468	5	T	Ins	C	123	123	4681	99	123	Glu75Glu	Rv1883c	Rv1883c	inframe_insertion
+2133468	6	T	Ins	A	123	123	4681	99	123	Glu75Glu	Rv1883c	Rv1883c	inframe_insertion
+2133468	7	T	Ins	T	123	123	4681	99	123	Glu75Glu	Rv1883c	Rv1883c	inframe_insertion
+2133468	8	T	Ins	G	123	123	4681	99	123	Glu75Glu	Rv1883c	Rv1883c	inframe_insertion
+2133468	9	T	Ins	C	123	123	4681	99	123	Glu75Glu	Rv1883c	Rv1883c	inframe_insertion
+2133468	10	T	Ins	C	123	123	4681	99	123	Glu75Glu	Rv1883c	Rv1883c	inframe_insertion
+2133468	11	T	Ins	G	123	123	4681	99	123	Glu75Glu	Rv1883c	Rv1883c	inframe_insertion
+2133468	12	T	Ins	T	123	123	4681	99	123	Glu75Glu	Rv1883c	Rv1883c	inframe_insertion
+2133468	13	T	Ins	C	123	123	4681	99	123	Glu75Glu	Rv1883c	Rv1883c	inframe_insertion
+2133468	14	T	Ins	A	123	123	4681	99	123	Glu75Glu	Rv1883c	Rv1883c	inframe_insertion
+2133468	15	T	Ins	C	123	123	4681	99	123	Glu75Glu	Rv1883c	Rv1883c	inframe_insertion
+2133468	16	T	Ins	C	123	123	4681	99	123	Glu75Glu	Rv1883c	Rv1883c	inframe_insertion
+2135870	0	T	SNP	C	119	119	4568	99	119		*MtCM	*MtCM	upstream_transcript_variant
+2137521	1	A	Ins	A	142	142	5569	99	142		Rv1887	Rv1887	downstream_transcript_variant
+2137521	2	A	Ins	C	142	142	5569	99	142		Rv1887	Rv1887	downstream_transcript_variant
+2137521	3	A	Ins	T	142	142	5569	99	142		Rv1887	Rv1887	downstream_transcript_variant
+2137521	4	A	Ins	C	142	142	5569	99	142		Rv1887	Rv1887	downstream_transcript_variant
+2137521	5	A	Ins	C	142	142	5569	99	142		Rv1887	Rv1887	downstream_transcript_variant
+2137521	6	A	Ins	G	142	142	5569	99	142		Rv1887	Rv1887	downstream_transcript_variant
+2137521	7	A	Ins	A	142	142	5569	99	142		Rv1887	Rv1887	downstream_transcript_variant
+2137521	8	A	Ins	T	142	142	5569	99	142		Rv1887	Rv1887	downstream_transcript_variant
+2137521	9	A	Ins	C	142	142	5569	99	142		Rv1887	Rv1887	downstream_transcript_variant
+2137521	10	A	Ins	A	142	142	5569	99	142		Rv1887	Rv1887	downstream_transcript_variant
+2137521	11	A	Ins	C	142	142	5569	99	142		Rv1887	Rv1887	downstream_transcript_variant
+2141320	0	C	SNP	T	114	114	4227	99	114	Ala184Thr	Rv1894c	Rv1894c	missense_variant
+2141551	0	C	Del	GAP	123	123	5185	99	123		Rv1894c	Rv1894c	frameshift_variant
+2143328	0	G	SNP	C	125	125	4905	99	125	Val270Leu	Rv1895	Rv1895	missense_variant
+2146065	1	C	Ins	C	102	102	2347	99	102	Gly61Leu	lppD	lppD	inframe_insertion
+2146065	2	C	Ins	G	102	102	2347	99	102	Gly61Leu	lppD	lppD	inframe_insertion
+2146065	3	C	Ins	G	102	102	2347	99	102	Gly61Leu	lppD	lppD	inframe_insertion
+2146065	4	C	Ins	C	102	102	2347	99	102	Gly61Leu	lppD	lppD	inframe_insertion
+2146065	5	C	Ins	G	102	102	2347	99	102	Gly61Leu	lppD	lppD	inframe_insertion
+2146065	6	C	Ins	G	102	102	2347	99	102	Gly61Leu	lppD	lppD	inframe_insertion
+2146065	7	C	Ins	T	102	102	2347	99	102	Gly61Leu	lppD	lppD	inframe_insertion
+2146065	8	C	Ins	C	102	102	2347	99	102	Gly61Leu	lppD	lppD	inframe_insertion
+2146065	9	C	Ins	G	102	102	2347	99	102	Gly61Leu	lppD	lppD	inframe_insertion
+2146065	10	C	Ins	C	102	102	2347	99	102	Gly61Leu	lppD	lppD	inframe_insertion
+2146065	11	C	Ins	G	102	102	2347	99	102	Gly61Leu	lppD	lppD	inframe_insertion
+2146065	12	C	Ins	G	102	102	2347	99	102	Gly61Leu	lppD	lppD	inframe_insertion
+2146065	13	C	Ins	C	102	102	2347	99	102	Gly61Leu	lppD	lppD	inframe_insertion
+2146065	14	C	Ins	G	102	102	2347	99	102	Gly61Leu	lppD	lppD	inframe_insertion
+2146065	15	C	Ins	G	102	102	2347	99	102	Gly61Leu	lppD	lppD	inframe_insertion
+2146065	16	C	Ins	G	102	102	2347	99	102	Gly61Leu	lppD	lppD	inframe_insertion
+2146065	17	C	Ins	G	102	102	2347	99	102	Gly61Leu	lppD	lppD	inframe_insertion
+2146065	18	C	Ins	C	102	102	2347	99	102	Gly61Leu	lppD	lppD	inframe_insertion
+2146065	19	C	Ins	G	102	102	2347	99	102	Gly61Leu	lppD	lppD	inframe_insertion
+2146065	20	C	Ins	G	102	102	2347	99	102	Gly61Leu	lppD	lppD	inframe_insertion
+2146065	21	C	Ins	G	102	102	2347	99	102	Gly61Leu	lppD	lppD	inframe_insertion
+2146065	22	C	Ins	C	102	102	2347	99	102	Gly61Leu	lppD	lppD	inframe_insertion
+2146065	23	C	Ins	G	102	102	2347	99	102	Gly61Leu	lppD	lppD	inframe_insertion
+2146065	24	C	Ins	G	102	102	2347	99	102	Gly61Leu	lppD	lppD	inframe_insertion
+2146065	25	C	Ins	T	102	102	2347	99	102	Gly61Leu	lppD	lppD	inframe_insertion
+2146065	26	C	Ins	A	102	102	2347	99	102	Gly61Leu	lppD	lppD	inframe_insertion
+2146065	27	C	Ins	G	102	102	2347	99	102	Gly61Leu	lppD	lppD	inframe_insertion
+2146065	28	C	Ins	A	102	102	2347	99	102	Gly61Leu	lppD	lppD	inframe_insertion
+2146065	29	C	Ins	G	102	102	2347	99	102	Gly61Leu	lppD	lppD	inframe_insertion
+2146065	30	C	Ins	G	102	102	2347	99	102	Gly61Leu	lppD	lppD	inframe_insertion
+2146065	31	C	Ins	C	102	102	2347	99	102	Gly61Leu	lppD	lppD	inframe_insertion
+2146065	32	C	Ins	G	102	102	2347	99	102	Gly61Leu	lppD	lppD	inframe_insertion
+2146065	33	C	Ins	G	102	102	2347	99	102	Gly61Leu	lppD	lppD	inframe_insertion
+2146065	34	C	Ins	C	102	102	2347	99	102	Gly61Leu	lppD	lppD	inframe_insertion
+2146065	35	C	Ins	G	102	102	2347	99	102	Gly61Leu	lppD	lppD	inframe_insertion
+2146065	36	C	Ins	A	102	102	2347	99	102	Gly61Leu	lppD	lppD	inframe_insertion
+2146065	37	C	Ins	C	102	102	2347	99	102	Gly61Leu	lppD	lppD	inframe_insertion
+2146065	38	C	Ins	G	102	102	2347	99	102	Gly61Leu	lppD	lppD	inframe_insertion
+2146065	39	C	Ins	G	102	102	2347	99	102	Gly61Leu	lppD	lppD	inframe_insertion
+2146065	40	C	Ins	C	102	102	2347	99	102	Gly61Leu	lppD	lppD	inframe_insertion
+2146065	41	C	Ins	G	102	102	2347	99	102	Gly61Leu	lppD	lppD	inframe_insertion
+2146065	42	C	Ins	G	102	102	2347	99	102	Gly61Leu	lppD	lppD	inframe_insertion
+2146065	43	C	Ins	G	102	102	2347	99	102	Gly61Leu	lppD	lppD	inframe_insertion
+2146065	44	C	Ins	C	102	102	2347	99	102	Gly61Leu	lppD	lppD	inframe_insertion
+2146065	45	C	Ins	A	102	102	2347	99	102	Gly61Leu	lppD	lppD	inframe_insertion
+2146065	46	C	Ins	A	102	102	2347	99	102	Gly61Leu	lppD	lppD	inframe_insertion
+2147022	0	A	SNP	C	119	119	4474	99	119	Ile204Met	lipJ	lipJ	missense_variant
+2155168	0	C	SNP	G	118	118	4493	99	118	Ser315Thr	katG	katG	missense_variant
+2160998	0	G	SNP	A	140	140	4937	99	140	Gly179Asp	aceAa	aceAa	missense_variant
+2161343	1	G	Ins	G	137	137	3925	99	137	Arg294Arg	aceAa	aceAa	frameshift_variant
+2161343	2	G	Ins	T	137	137	3925	99	137	Arg294Arg	aceAa	aceAa	frameshift_variant
+2165286	0	A	SNP	C	107	107	4052	99	107	Ser676Ala	PPE34	PPE34	missense_variant
+2165503	0	T	SNP	A	60	60	2082	99	60	Ala603Ala	PPE34	PPE34	synonymous_variant
+2172320	0	T	SNP	C	131	131	4924	99	131	Ile233Thr	Rv1920	Rv1920	missense_variant
+2180796	0	C	Del	GAP	172	172	6185	99	172		Rv1928c	Rv1928c	frameshift_variant
+2185277	0	G	SNP	A	131	131	4898	99	131	Thr304Thr	fadE17	fadE17	synonymous_variant
+2186282	0	G	SNP	C	137	137	5135	99	137	Ser293Cys	echA13	echA13	missense_variant
+2187376	0	G	SNP	A	172	172	6415	99	172		echA13	echA13	upstream_transcript_variant
+2192959	0	G	SNP	A	66	66	2463	99	66	Phe118Phe	ribA1	ribA1	synonymous_variant
+2202833	0	G	SNP	A	128	128	5022	99	128	Asp84Asn	Rv1957	Rv1957	missense_variant
+2207591	1	T	Ins	T	142	142	5485	99	142		mce3R	mce3R	upstream_transcript_variant
+2207591	2	T	Ins	C	142	142	5485	99	142		mce3R	mce3R	upstream_transcript_variant
+2211826	0	A	SNP	G	145	145	5516	99	145	Lys67Lys	mce3C	mce3C	synonymous_variant
+2219329	0	C	SNP	T	139	139	5065	99	139		Rv1976c	Rv1976c	upstream_transcript_variant
+2219342	0	T	SNP	G	150	150	5486	99	150		Rv1976c	Rv1976c	upstream_transcript_variant
+2220512	0	T	SNP	G	133	133	5317	99	133	Ser253Ser	Rv1977	Rv1977	synonymous_variant
+2223293	0	T	SNP	C	163	163	6204	99	163		Rv1979c	Rv1979c	upstream_transcript_variant
+2225456	0	A	SNP	T	131	131	5136	99	131	Leu126His	vapC36	vapC36	missense_variant
+2227356	0	C	SNP	G	144	144	5315	99	144	Ala371Ala	PE_PGRS35	PE_PGRS35	synonymous_variant
+2228967	0	A	SNP	G	126	126	4674	99	126		cfp21	cfp21	upstream_transcript_variant
+2238613	0	T	SNP	C	129	129	4825	99	129	Leu158Phe	Rv1995	Rv1995	missense_variant
+2241079	0	G	SNP	C	147	147	5605	99	147	Arg307Arg	ctpF	ctpF	synonymous_variant
+2244770	0	G	SNP	A	105	105	3909	99	105	Phe123Phe	Rv1999c	Rv1999c	synonymous_variant
+2247677	0	A	SNP	C	114	114	4460	99	114	Ile6Ile	fabG3	fabG3	synonymous_variant
+2248179	0	A	SNP	G	107	107	4225	99	107	Ser174Gly	fabG3	fabG3	missense_variant
+2251999	0	A	SNP	G	135	135	5108	99	135		Rv2005c	Rv2005c	upstream_transcript_variant
+2253453	0	T	SNP	C	126	126	4925	99	126	Arg484Arg	otsB1	otsB1	synonymous_variant
+2260525	0	C	SNP	T	145	145	5172	99	145				intergenic_variant
+2263760	0	C	SNP	T	141	141	5278	99	141	Phe112Leu	Rv2016	Rv2016	missense_variant
+2264782	0	C	SNP	A	124	124	4524	99	124	Ala262Glu	Rv2017	Rv2017	missense_variant
+2265059	0	T	SNP	G	117	117	4354	99	117		Rv2018	Rv2018	upstream_transcript_variant
+2269780	0	T	SNP	C	114	114	4367	99	114	Asp154Gly	Rv2024c	Rv2024c	missense_variant
+2270102	0	A	SNP	G	89	89	3321	99	89	Trp47Arg	Rv2024c	Rv2024c	missense_variant
+2282787	0	C	SNP	T	156	156	5824	99	156	Cys312Tyr	Rv2037c	Rv2037c	missense_variant
+2285251	0	C	SNP	A	115	115	4518	99	115	Val131Phe	Rv2039c	Rv2039c	missense_variant
+2287121	0	A	SNP	G	116	116	4695	99	116	Asp242Asp	Rv2041c	Rv2041c	synonymous_variant
+2289213	0	T	SNP	G	132	132	5071	99	132	Gln10Phe	pncA	pncA	missense_variant
+2296042	0	G	SNP	C	78	78	2921	99	78	Phe3649Ala	pks12	pks12	missense_variant
+2300237	0	A	SNP	G	97	97	3770	99	97	Ala2250Ala	pks12	pks12	synonymous_variant
+2300546	0	A	SNP	T	103	103	4338	99	103	His2147Gln	pks12	pks12	missense_variant
+2300552	0	T	SNP	G	100	100	4430	99	100	Phe2145Phe	pks12	pks12	synonymous_variant
+2300555	0	A	SNP	G	99	99	4340	99	99	Asp2144Asp	pks12	pks12	synonymous_variant
+2304068	0	C	SNP	A	115	115	4416	99	115	Glu973Asp	pks12	pks12	missense_variant
+2307701	0	G	SNP	A	129	129	4987	99	129		pks12	pks12	upstream_transcript_variant
+2311099	0	C	SNP	G	104	104	3667	99	104	Phe473Phe	Rv2052c	Rv2052c	synonymous_variant
+2325009	0	C	SNP	T	136	136	5182	99	136	Glu288Lys	Rv2067c	Rv2067c	missense_variant
+2329533	0	A	SNP	G	111	111	4234	99	111	Leu205Phe	cobL	cobL	missense_variant
+2334007	0	A	SNP	G	129	129	4860	99	129	Ala96Ala	Rv2077c	Rv2077c	synonymous_variant
+2335075	0	A	SNP	G	155	155	5810	99	155	Glu6Gly	Rv2078	Rv2078	missense_variant
+2335494	0	A	SNP	G	131	131	4570	99	131	Tyr47Cys	Rv2079	Rv2079	missense_variant
+2338990	0	G	SNP	C	162	162	7150	99	162	Ala94Ala	Rv2082	Rv2082	synonymous_variant
+2338994	0	G	SNP	A	167	167	7295	99	167	Ala96Thr	Rv2082	Rv2082	missense_variant
+2339605	0	A	SNP	G	97	97	4226	99	97	Phe299Phe	Rv2082	Rv2082	synonymous_variant
+2339608	0	A	Del	GAP	102	102	4227	99	102		Rv2082	Rv2082	inframe_deletion
+2339948	1	G	Ins	G	55	55	1472	99	55	Ala414Ala	Rv2082	Rv2082	frameshift_variant
+2339948	2	G	Ins	C	55	55	1472	99	55	Ala414Ala	Rv2082	Rv2082	frameshift_variant
+2340621	0	C	SNP	G	67	67	2462	99	67	Phe638Arg	Rv2082	Rv2082	missense_variant
+2341636	0	C	SNP	G	137	137	5189	99	137	Leu256Val	Rv2083	Rv2083	missense_variant
+2345037	0	C	SNP	A	122	122	4756	99	122	Leu209Leu	pknJ	pknJ	synonymous_variant
+2348446	0	C	SNP	G	96	96	3694	99	96	Phe358Leu	Rv2090	Rv2090	missense_variant
+2357268	0	T	Del	GAP	87	87	3219	99	87		pafA	pafA	upstream_transcript_variant
+2358029	1	T	Ins	T	115	115	3892	99	115		Rv2100	Rv2100	upstream_transcript_variant
+2358029	2	T	Ins	G	115	115	3892	99	115		Rv2100	Rv2100	upstream_transcript_variant
+2358306	0	G	SNP	A	126	126	4288	99	126		Rv2100	Rv2100	upstream_transcript_variant
+2361604	0	C	SNP	G	132	132	4854	99	132	Val455Val	helZ	helZ	synonymous_variant
+2361908	1	G	Ins	G	93	93	2927	99	93	Ala557Ala	helZ	helZ	inframe_insertion
+2361908	2	G	Ins	C	93	93	2927	99	93	Ala557Ala	helZ	helZ	inframe_insertion
+2361908	3	G	Ins	A	93	93	2927	99	93	Ala557Ala	helZ	helZ	inframe_insertion
+2361908	4	G	Ins	C	93	93	2927	99	93	Ala557Ala	helZ	helZ	inframe_insertion
+2361908	5	G	Ins	C	93	93	2927	99	93	Ala557Ala	helZ	helZ	inframe_insertion
+2361908	6	G	Ins	G	93	93	2927	99	93	Ala557Ala	helZ	helZ	inframe_insertion
+2361908	7	G	Ins	G	93	93	2927	99	93	Ala557Ala	helZ	helZ	inframe_insertion
+2361908	8	G	Ins	C	93	93	2927	99	93	Ala557Ala	helZ	helZ	inframe_insertion
+2361908	9	G	Ins	A	93	93	2927	99	93	Ala557Ala	helZ	helZ	inframe_insertion
+2361908	10	G	Ins	C	93	93	2927	99	93	Ala557Ala	helZ	helZ	inframe_insertion
+2361908	11	G	Ins	C	93	93	2927	99	93	Ala557Ala	helZ	helZ	inframe_insertion
+2361908	12	G	Ins	G	93	93	2927	99	93	Ala557Ala	helZ	helZ	inframe_insertion
+2361908	13	G	Ins	C	93	93	2927	99	93	Ala557Ala	helZ	helZ	inframe_insertion
+2361912	1	A	Ins	A	55	55	2465	99	55	Asp558Glu	helZ	helZ	frameshift_variant
+2361912	2	A	Ins	G	55	55	2465	99	55	Asp558Glu	helZ	helZ	frameshift_variant
+2361912	3	A	Ins	A	55	55	2465	99	55	Asp558Glu	helZ	helZ	frameshift_variant
+2361912	4	A	Ins	G	55	55	2465	99	55	Asp558Glu	helZ	helZ	frameshift_variant
+2361912	5	A	Ins	C	55	55	2465	99	55	Asp558Glu	helZ	helZ	frameshift_variant
+2361912	6	A	Ins	T	55	55	2465	99	55	Asp558Glu	helZ	helZ	frameshift_variant
+2361912	7	A	Ins	A	55	55	2465	99	55	Asp558Glu	helZ	helZ	frameshift_variant
+2361912	8	A	Ins	T	55	55	2465	99	55	Asp558Glu	helZ	helZ	frameshift_variant
+2361912	9	A	Ins	C	55	55	2465	99	55	Asp558Glu	helZ	helZ	frameshift_variant
+2361912	10	A	Ins	A	55	55	2465	99	55	Asp558Glu	helZ	helZ	frameshift_variant
+2361912	11	A	Ins	C	55	55	2465	99	55	Asp558Glu	helZ	helZ	frameshift_variant
+2361912	12	A	Ins	T	55	55	2465	99	55	Asp558Glu	helZ	helZ	frameshift_variant
+2361912	13	A	Ins	G	55	55	2465	99	55	Asp558Glu	helZ	helZ	frameshift_variant
+2361912	14	A	Ins	G	55	55	2465	99	55	Asp558Glu	helZ	helZ	frameshift_variant
+2361912	15	A	Ins	A	55	55	2465	99	55	Asp558Glu	helZ	helZ	frameshift_variant
+2361912	16	A	Ins	C	55	55	2465	99	55	Asp558Glu	helZ	helZ	frameshift_variant
+2361912	17	A	Ins	T	55	55	2465	99	55	Asp558Glu	helZ	helZ	frameshift_variant
+2361912	18	A	Ins	G	55	55	2465	99	55	Asp558Glu	helZ	helZ	frameshift_variant
+2361912	19	A	Ins	C	55	55	2465	99	55	Asp558Glu	helZ	helZ	frameshift_variant
+2361912	20	A	Ins	T	55	55	2465	99	55	Asp558Glu	helZ	helZ	frameshift_variant
+2361912	21	A	Ins	C	55	55	2465	99	55	Asp558Glu	helZ	helZ	frameshift_variant
+2361912	22	A	Ins	C	55	55	2465	99	55	Asp558Glu	helZ	helZ	frameshift_variant
+2361912	23	A	Ins	T	55	55	2465	99	55	Asp558Glu	helZ	helZ	frameshift_variant
+2361912	24	A	Ins	G	55	55	2465	99	55	Asp558Glu	helZ	helZ	frameshift_variant
+2361912	25	A	Ins	C	55	55	2465	99	55	Asp558Glu	helZ	helZ	frameshift_variant
+2361912	26	A	Ins	C	55	55	2465	99	55	Asp558Glu	helZ	helZ	frameshift_variant
+2361912	27	A	Ins	C	55	55	2465	99	55	Asp558Glu	helZ	helZ	frameshift_variant
+2361916	0	C	Del	GAP	17	17	755	99	17		helZ	helZ	frameshift_variant
+2361918	1	T	Ins	T	10	10	440	99	10	Met560Ile	helZ	helZ	frameshift_variant
+2361918	2	T	Ins	A	10	10	440	99	10	Met560Ile	helZ	helZ	frameshift_variant
+2361918	3	T	Ins	C	10	10	440	99	10	Met560Ile	helZ	helZ	frameshift_variant
+2361918	4	T	Ins	G	10	10	440	99	10	Met560Ile	helZ	helZ	frameshift_variant
+2361918	5	T	Ins	C	10	10	440	99	10	Met560Ile	helZ	helZ	frameshift_variant
+2363682	0	C	SNP	A	26	26	172	99	26	Phe98Thr	Rv2102	Rv2102	missense_variant
+2368564	0	T	Del	GAP	139	139	4851	99	139		PPE36	PPE36	downstream_transcript_variant
+2369326	0	C	SNP	G	96	96	3820	99	96	Arg135Phe	prcA	prcA	missense_variant
+2386389	0	G	SNP	A	123	123	4709	99	123	Gly33Ser	Rv2125	Rv2125	missense_variant
+2387733	0	T	SNP	C	76	76	2665	99	76	Glu80Glu	PE_PGRS37	PE_PGRS37	synonymous_variant
+2393845	0	G	SNP	T	114	114	4364	99	114		cysQ	cysQ	upstream_transcript_variant
+2402439	0	G	SNP	A	140	140	5542	99	140	Asp24Asp	parE2	parE2	synonymous_variant
+2403375	0	G	SNP	T	153	153	5575	99	153	Arg133Arg	Rv2143	Rv2143	synonymous_variant
+2406186	0	C	SNP	T	133	133	4971	99	133	Ala220Thr	Rv2147c	Rv2147c	missense_variant
+2415656	0	G	SNP	C	53	53	2032	99	53	Arg247Gly	murD	murD	missense_variant
+2416156	0	G	SNP	A	70	70	2484	99	70	Thr80Ile	murD	murD	missense_variant
+2423583	1	G	Ins	G	9	9	215	99	9	Ala419Gly	PE_PGRS38	PE_PGRS38	inframe_insertion
+2423583	2	G	Ins	C	9	9	215	99	9	Ala419Gly	PE_PGRS38	PE_PGRS38	inframe_insertion
+2423583	3	G	Ins	C	9	9	215	99	9	Ala419Gly	PE_PGRS38	PE_PGRS38	inframe_insertion
+2423583	4	G	Ins	C	9	9	215	99	9	Ala419Gly	PE_PGRS38	PE_PGRS38	inframe_insertion
+2423587	1	C	Ins	C	5	5	215	99	5	Gly418Arg	PE_PGRS38	PE_PGRS38	frameshift_variant
+2423587	2	C	Ins	G	5	5	215	99	5	Gly418Arg	PE_PGRS38	PE_PGRS38	frameshift_variant
+2423590	0	C	Del	GAP	3	3	125	99	3		PE_PGRS38	PE_PGRS38	frameshift_variant
+2423597	0	G	SNP	A	3	3	125	99	3	Gly414Gly	PE_PGRS38	PE_PGRS38	synonymous_variant
+2423601	0	T	SNP	G	2	2	80	90	2	Asp413Ala	PE_PGRS38	PE_PGRS38	missense_variant
+2423606	0	G	SNP	A	2	2	80	90	2	Gly411Gly	PE_PGRS38	PE_PGRS38	synonymous_variant
+2423608	0	C	Del	GAP	2	2	80	90	2		PE_PGRS38	PE_PGRS38	inframe_deletion
+2423614	0	T	SNP	C	2	2	80	90	2	Thr409Ala	PE_PGRS38	PE_PGRS38	missense_variant
+2423619	0	G	SNP	C	2	2	80	90	2	Ala407Gly	PE_PGRS38	PE_PGRS38	missense_variant
+2424008	0	G	SNP	T	42	42	1410	99	42	Ala277Ala	PE_PGRS38	PE_PGRS38	synonymous_variant
+2424925	0	A	SNP	G	149	149	5710	99	149		PE_PGRS38	PE_PGRS38	upstream_transcript_variant
+2440926	0	G	SNP	T	149	149	5230	99	149	Asp265Glu	aroG	aroG	missense_variant
+2462871	0	G	SNP	A	106	106	3853	99	106	Ala59Ala	mmpS3	mmpS3	synonymous_variant
+2468098	0	G	SNP	A	145	145	5196	99	145		adoK	adoK	upstream_transcript_variant
+2473699	0	C	SNP	T	114	114	4199	99	114	Asn100Asn	Rv2209	Rv2209	synonymous_variant
+2483497	0	G	SNP	T	139	139	5224	99	139	Val511Val	dlaT	dlaT	synonymous_variant
+2484215	0	G	SNP	C	118	118	4546	99	118	Trp197Ser	Rv2216	Rv2216	missense_variant
+2488724	0	C	SNP	G	137	137	4991	99	137	Phe370Phe	glnA1	glnA1	synonymous_variant
+2499726	0	G	SNP	A	123	123	4761	99	123	Asp299Asn	Rv2226	Rv2226	missense_variant
+2509140	0	G	SNP	C	97	97	3508	99	97	Ser79Cys	cobD	cobD	missense_variant
+2509722	0	A	SNP	G	97	97	3419	99	97	Phe78Phe	Rv2237	Rv2237	synonymous_variant
+2516567	0	G	SNP	C	115	115	4487	99	115		fabD	fabD	upstream_transcript_variant
+2516949	0	G	SNP	A	116	116	4331	99	116	Asp55Asn	fabD	fabD	missense_variant
+2518076	0	C	SNP	T	149	149	5750	99	149	Ala102Ala	acpM	acpM	synonymous_variant
+2521342	0	T	SNP	C	124	124	4558	99	124	Asp200Asp	accD6	accD6	synonymous_variant
+2523205	1	G	Ins	G	59	59	2356	99	59		Rv2248	Rv2248	downstream_transcript_variant
+2523205	2	G	Ins	C	59	59	2356	99	59		Rv2248	Rv2248	downstream_transcript_variant
+2523205	3	G	Ins	G	59	59	2356	99	59		Rv2248	Rv2248	downstream_transcript_variant
+2523205	4	G	Ins	C	59	59	2356	99	59		Rv2248	Rv2248	downstream_transcript_variant
+2524666	0	G	SNP	A	147	147	5613	99	147	Ala42Ala	glpD1	glpD1	synonymous_variant
+2525722	0	C	Del	GAP	105	105	3088	99	105		Rv2251	Rv2251	frameshift_variant
+2529680	0	A	SNP	G	130	130	4778	99	130	Thr65Thr	Rv2256c	Rv2256c	synonymous_variant
+2531742	0	A	SNP	G	157	157	6105	99	157	Ala52Ala	Rv2258c	Rv2258c	synonymous_variant
+2532123	0	G	SNP	C	17	17	469	99	17		Rv2258c	Rv2258c	upstream_transcript_variant
+2534562	0	G	Del	GAP	142	142	5838	99	142				intergenic_variant
+2542965	0	T	Del	GAP	133	133	4166	99	133		cyp128	cyp128	frameshift_variant
+2552982	1	G	Ins	G	146	146	4807	99	146		pitB	pitB	upstream_transcript_variant
+2552982	2	G	Ins	C	146	146	4807	99	146		pitB	pitB	upstream_transcript_variant
+2568273	0	A	SNP	G	81	81	3023	99	81	Asp257Gly	Rv2296	Rv2296	missense_variant
+2573756	0	C	SNP	A	125	125	4800	99	125		Rv2300c	Rv2300c	upstream_transcript_variant
+2574022	0	C	SNP	T	148	148	5433	99	148	Arg70Arg	Rv2302	Rv2302	synonymous_variant
+2586127	0	A	SNP	G	92	92	3381	99	92	Gly388Gly	Rv2314c	Rv2314c	synonymous_variant
+2589216	0	G	SNP	C	142	142	5115	99	142	Val127Leu	uspA	uspA	missense_variant
+2596354	0	C	SNP	T	145	145	5236	99	145	Thr7Thr	Rv2324	Rv2324	synonymous_variant
+2598400	0	A	SNP	G	127	127	4957	99	127	Asn516Asn	Rv2326c	Rv2326c	synonymous_variant
+2608117	0	C	SNP	A	127	127	4762	99	127	Asp69Tyr	stp	stp	missense_variant
+2610702	0	T	SNP	C	141	141	5497	99	141		Rv2336	Rv2336	upstream_transcript_variant
+2612632	0	C	SNP	A	133	133	4666	99	133	Gly119Val	Rv2337c	Rv2337c	missense_variant
+2614413	0	T	SNP	G	139	139	5392	99	139		moeW	moeW	upstream_transcript_variant
+2616403	0	T	Del	GAP	160	160	6820	99	160		mmpL9	mmpL9	inframe_deletion
+2617673	0	G	SNP	A	124	124	4686	99	124	His412His	PE_PGRS39	PE_PGRS39	synonymous_variant
+2637541	0	C	SNP	T	135	135	4856	99	135				intergenic_variant
+2642383	0	C	SNP	T	136	136	5164	99	136	Ala66Thr	Rv2360c	Rv2360c	missense_variant
+2656225	0	A	SNP	G	143	143	5485	99	143	Val69Ala	Rv2377c	Rv2377c	missense_variant
+2660319	0	C	SNP	G	128	128	4907	99	128	Glu589Asp	mbtF	mbtF	missense_variant
+2667578	0	A	SNP	G	134	134	4804	99	134	Leu898Leu	mbtD	mbtD	synonymous_variant
+2671061	0	C	SNP	A	137	137	5358	99	137	Ala181Ala	mbtC	mbtC	synonymous_variant
+2680155	0	G	SNP	A	152	152	5646	99	152		mbtI	mbtI	upstream_transcript_variant
+2680658	0	T	SNP	G	118	118	4307	99	118	Thr67Thr	Rv2386a	Rv2386a	synonymous_variant
+2689715	0	G	SNP	C	130	130	4909	99	130	Gly569Ala	ggtB	ggtB	missense_variant
+2695378	0	C	SNP	G	153	153	6116	99	153	Gly141Ala	cysW	cysW	missense_variant
+2700239	0	G	SNP	A	111	111	4236	99	111	Val571Met	Rv2402	Rv2402	missense_variant
+2704884	1	A	Ins	A	172	172	6965	99	172	His63His	Rv2407	Rv2407	inframe_insertion
+2704884	2	A	Ins	C	172	172	6965	99	172	His63His	Rv2407	Rv2407	inframe_insertion
+2704884	3	A	Ins	A	172	172	6965	99	172	His63His	Rv2407	Rv2407	inframe_insertion
+2704884	4	A	Ins	G	172	172	6965	99	172	His63His	Rv2407	Rv2407	inframe_insertion
+2704884	5	A	Ins	C	172	172	6965	99	172	His63His	Rv2407	Rv2407	inframe_insertion
+2704884	6	A	Ins	G	172	172	6965	99	172	His63His	Rv2407	Rv2407	inframe_insertion
+2704884	7	A	Ins	A	172	172	6965	99	172	His63His	Rv2407	Rv2407	inframe_insertion
+2704884	8	A	Ins	C	172	172	6965	99	172	His63His	Rv2407	Rv2407	inframe_insertion
+2704884	9	A	Ins	C	172	172	6965	99	172	His63His	Rv2407	Rv2407	inframe_insertion
+2704884	10	A	Ins	A	172	172	6965	99	172	His63His	Rv2407	Rv2407	inframe_insertion
+2704884	11	A	Ins	T	172	172	6965	99	172	His63His	Rv2407	Rv2407	inframe_insertion
+2704884	12	A	Ins	A	172	172	6965	99	172	His63His	Rv2407	Rv2407	inframe_insertion
+2704884	13	A	Ins	T	172	172	6965	99	172	His63His	Rv2407	Rv2407	inframe_insertion
+2704884	14	A	Ins	C	172	172	6965	99	172	His63His	Rv2407	Rv2407	inframe_insertion
+2704884	15	A	Ins	G	172	172	6965	99	172	His63His	Rv2407	Rv2407	inframe_insertion
+2704884	16	A	Ins	C	172	172	6965	99	172	His63His	Rv2407	Rv2407	inframe_insertion
+2704884	17	A	Ins	C	172	172	6965	99	172	His63His	Rv2407	Rv2407	inframe_insertion
+2704884	18	A	Ins	G	172	172	6965	99	172	His63His	Rv2407	Rv2407	inframe_insertion
+2704884	19	A	Ins	A	172	172	6965	99	172	His63His	Rv2407	Rv2407	inframe_insertion
+2704884	20	A	Ins	G	172	172	6965	99	172	His63His	Rv2407	Rv2407	inframe_insertion
+2704884	21	A	Ins	C	172	172	6965	99	172	His63His	Rv2407	Rv2407	inframe_insertion
+2704884	22	A	Ins	T	172	172	6965	99	172	His63His	Rv2407	Rv2407	inframe_insertion
+2713795	0	C	SNP	T	139	139	5154	99	139		Rv2414c	Rv2414c	upstream_transcript_variant
+2718852	0	T	SNP	G	145	145	5357	99	145		Rv2420c	Rv2420c	upstream_transcript_variant
+2721562	0	C	SNP	G	113	113	4265	99	113	Ala72Ala	Rv2424c	Rv2424c	synonymous_variant
+2724782	0	C	SNP	T	123	123	4573	99	123	Glu232Glu	proA	proA	synonymous_variant
+2734074	0	T	SNP	C	65	65	2359	99	65	Val282Ala	rbsK	rbsK	missense_variant
+2737572	0	C	SNP	A	91	91	3234	99	91	Ala226Ser	proB	proB	missense_variant
+2739174	0	T	SNP	G	127	127	4575	99	127	Gly171Gly	obg	obg	synonymous_variant
+2751804	0	C	SNP	T	127	127	4670	99	127	Arg126Gln	rpfE	rpfE	missense_variant
+2752698	0	C	SNP	A	142	142	5357	99	142		rpfE	rpfE	upstream_transcript_variant
+2759390	0	G	SNP	A	126	126	4956	99	126	Tyr33Tyr	clpX	clpX	synonymous_variant
+2760152	0	A	SNP	G	137	137	4826	99	137	Tyr125Cys	mmuM	mmuM	missense_variant
+2760241	0	G	SNP	A	148	148	5612	99	148	Glu155Lys	mmuM	mmuM	missense_variant
+2771693	0	C	SNP	G	100	100	3691	99	100	Gly152Ala	Rv2468c	Rv2468c	missense_variant
+2775592	0	G	SNP	A	155	155	5743	99	155	Ala9Thr	Rv2473	Rv2473	missense_variant
+2779136	0	T	SNP	C	128	128	4854	99	128	Ser1043Gly	gdh	gdh	missense_variant
+2786785	0	G	Del	GAP	157	157	6636	99	157		Rv2481c	Rv2481c	frameshift_variant
+2786952	0	A	SNP	G	141	141	5505	99	141	Cys778Arg	plsB2	plsB2	missense_variant
+2788298	0	T	SNP	C	159	159	6094	99	159	Asp329Gly	plsB2	plsB2	missense_variant
+2788745	0	C	SNP	T	138	138	5422	99	138	Arg180Gln	plsB2	plsB2	missense_variant
+2808506	0	G	SNP	C	118	118	4526	99	118	Arg66Phe	vapC38	vapC38	missense_variant
+2809621	0	T	SNP	C	129	129	4738	99	129	Thr107Ala	bkdC	bkdC	missense_variant
+2819009	0	G	SNP	A	131	131	5042	99	131	Phe40Leu	scoB	scoB	missense_variant
+2821342	0	C	SNP	T	116	116	4223	99	116	Ala85Ala	fadD35	fadD35	synonymous_variant
+2826532	0	C	SNP	T	127	127	4963	99	127	Ala186Ala	Rv2510c	Rv2510c	synonymous_variant
+2827984	0	G	SNP	T	101	101	3973	99	101		Rv2510c	Rv2510c	upstream_transcript_variant
+2830525	0	C	SNP	A	122	122	4602	99	122	Thr122Lys	Rv2513	Rv2513	missense_variant
+2855259	0	A	SNP	G	120	120	4418	99	120	Ala841Ala	adi	adi	synonymous_variant
+2861567	0	T	SNP	C	135	135	5089	99	135	Ile9Val	aroD	aroD	missense_variant
+2865760	0	A	SNP	G	139	139	5283	99	139	Thr211Ala	Rv2542	Rv2542	missense_variant
+2865882	0	T	SNP	C	156	156	5963	99	156	Val251Val	Rv2542	Rv2542	synonymous_variant
+2867612	0	A	SNP	G	69	69	2626	99	69	Lys163Lys	lppB	lppB	synonymous_variant
+2867648	1	C	Ins	C	27	27	1025	99	27	Phe175Phe	lppB	lppB	frameshift_variant
+2867648	2	C	Ins	C	27	27	1025	99	27	Phe175Phe	lppB	lppB	frameshift_variant
+2867648	3	C	Ins	G	27	27	1025	99	27	Phe175Phe	lppB	lppB	frameshift_variant
+2867649	1	A	Ins	A	30	30	1205	99	30	Asn176Thr	lppB	lppB	frameshift_variant
+2867649	2	A	Ins	C	30	30	1205	99	30	Asn176Thr	lppB	lppB	frameshift_variant
+2867650	0	A	SNP	T	33	33	1385	99	33	Asn176Ile	lppB	lppB	missense_variant
+2867693	0	C	SNP	T	57	57	2130	99	57	Asp190Asp	lppB	lppB	synonymous_variant
+2871251	0	G	SNP	A	105	105	3957	99	105	Phe255Phe	aroE	aroE	synonymous_variant
+2872922	0	T	SNP	C	117	117	4653	99	117	Asp115Gly	Rv2553c	Rv2553c	missense_variant
+2880702	0	G	SNP	C	143	143	5541	99	143	Val210Leu	Rv2560	Rv2560	missense_variant
+2881582	0	G	Del	GAP	171	171	4829	99	171		Rv2563	Rv2563	upstream_transcript_variant
+2881597	0	A	Del	GAP	169	169	4543	99	169		Rv2563	Rv2563	upstream_transcript_variant
+2885170	0	C	SNP	A	110	110	4055	99	110	Ala187Glu	Rv2565	Rv2565	missense_variant
+2888201	0	T	SNP	C	79	79	2969	99	79	Leu610Phe	Rv2566	Rv2566	missense_variant
+2889633	0	T	SNP	C	60	60	2309	99	60	Ala1087Ala	Rv2566	Rv2566	synonymous_variant
+2891267	0	C	SNP	T	134	134	4811	99	134	Gly491Gly	Rv2567	Rv2567	synonymous_variant
+2891728	0	A	SNP	G	146	146	5475	99	146	Gln645Arg	Rv2567	Rv2567	missense_variant
+2894208	0	G	SNP	A	127	127	4961	99	127	Ser67Ser	Rv2569c	Rv2569c	synonymous_variant
+2898337	0	C	SNP	T	128	128	4642	99	128	Phe99Ser	Rv2573	Rv2573	missense_variant
+2906978	0	C	SNP	T	131	131	4987	99	131	Leu55Leu	ppiB	ppiB	synonymous_variant
+2910461	0	G	SNP	T	148	148	5429	99	148	Ala147Glu	apt	apt	missense_variant
+2911293	0	C	SNP	G	144	144	5461	99	144	Cys462Ser	Rv2585c	Rv2585c	missense_variant
+2911823	0	G	SNP	A	167	167	5897	99	167	Ser285Ser	Rv2585c	Rv2585c	synonymous_variant
+2912294	0	T	SNP	G	128	128	4756	99	128	Ala128Ala	Rv2585c	Rv2585c	synonymous_variant
+2927015	0	G	SNP	A	151	151	5633	99	151	Phe10Phe	Rv2598	Rv2598	synonymous_variant
+2927939	0	T	SNP	C	152	152	5778	99	152		Rv2600	Rv2600	upstream_transcript_variant
+2929452	0	C	SNP	T	134	134	4858	99	134	Asp355Asp	speE	speE	synonymous_variant
+2939373	0	G	SNP	C	111	111	4310	99	111	Ser197Cys	Rv2611c	Rv2611c	missense_variant
+2939657	0	T	SNP	C	142	142	5172	99	142	Ile102Met	Rv2611c	Rv2611c	missense_variant
+2952466	0	A	SNP	T	140	140	5134	99	140	Phe13Tyr	Rv2625c	Rv2625c	missense_variant
+2953367	0	T	SNP	C	137	137	4806	99	137		Rv2625c	Rv2625c	upstream_transcript_variant
+2954439	0	T	SNP	C	151	151	5661	99	151	Arg104Gly	Rv2627c	Rv2627c	missense_variant
+2958749	0	G	SNP	A	129	129	4846	99	129	Gly393Asp	Rv2631	Rv2631	missense_variant
+2969494	0	T	SNP	C	169	169	6497	99	169		Rv2644c	Rv2644c	upstream_transcript_variant
+2972108	1	G	Ins	G	91	91	2597	99	91		Rv2647	Rv2647	downstream_transcript_variant
+2972108	2	G	Ins	G	91	91	2597	99	91		Rv2647	Rv2647	downstream_transcript_variant
+2972108	3	G	Ins	C	91	91	2597	99	91		Rv2647	Rv2647	downstream_transcript_variant
+2972108	4	G	Ins	G	91	91	2597	99	91		Rv2647	Rv2647	downstream_transcript_variant
+2972108	5	G	Ins	G	91	91	2597	99	91		Rv2647	Rv2647	downstream_transcript_variant
+2972108	6	G	Ins	C	91	91	2597	99	91		Rv2647	Rv2647	downstream_transcript_variant
+2972108	7	G	Ins	C	91	91	2597	99	91		Rv2647	Rv2647	downstream_transcript_variant
+2972109	1	T	Ins	T	90	90	2598	99	90		Rv2647	Rv2647	downstream_transcript_variant
+2972109	2	T	Ins	T	90	90	2598	99	90		Rv2647	Rv2647	downstream_transcript_variant
+2972109	3	T	Ins	G	90	90	2598	99	90		Rv2647	Rv2647	downstream_transcript_variant
+2972109	4	T	Ins	C	90	90	2598	99	90		Rv2647	Rv2647	downstream_transcript_variant
+2972109	5	T	Ins	G	90	90	2598	99	90		Rv2647	Rv2647	downstream_transcript_variant
+2972109	6	T	Ins	T	90	90	2598	99	90		Rv2647	Rv2647	downstream_transcript_variant
+2972109	7	T	Ins	G	90	90	2598	99	90		Rv2647	Rv2647	downstream_transcript_variant
+2972109	8	T	Ins	C	90	90	2598	99	90		Rv2647	Rv2647	downstream_transcript_variant
+2972109	9	T	Ins	C	90	90	2598	99	90		Rv2647	Rv2647	downstream_transcript_variant
+2972109	10	T	Ins	T	90	90	2598	99	90		Rv2647	Rv2647	downstream_transcript_variant
+2972109	11	T	Ins	G	90	90	2598	99	90		Rv2647	Rv2647	downstream_transcript_variant
+2972109	12	T	Ins	C	90	90	2598	99	90		Rv2647	Rv2647	downstream_transcript_variant
+2972109	13	T	Ins	T	90	90	2598	99	90		Rv2647	Rv2647	downstream_transcript_variant
+2972109	14	T	Ins	C	90	90	2598	99	90		Rv2647	Rv2647	downstream_transcript_variant
+2972109	15	T	Ins	A	90	90	2598	99	90		Rv2647	Rv2647	downstream_transcript_variant
+2972109	16	T	Ins	G	90	90	2598	99	90		Rv2647	Rv2647	downstream_transcript_variant
+2972109	17	T	Ins	C	90	90	2598	99	90		Rv2647	Rv2647	downstream_transcript_variant
+2972109	18	T	Ins	C	90	90	2598	99	90		Rv2647	Rv2647	downstream_transcript_variant
+2972109	19	T	Ins	T	90	90	2598	99	90		Rv2647	Rv2647	downstream_transcript_variant
+2972109	20	T	Ins	G	90	90	2598	99	90		Rv2647	Rv2647	downstream_transcript_variant
+2972109	21	T	Ins	G	90	90	2598	99	90		Rv2647	Rv2647	downstream_transcript_variant
+2972109	22	T	Ins	C	90	90	2598	99	90		Rv2647	Rv2647	downstream_transcript_variant
+2972109	23	T	Ins	G	90	90	2598	99	90		Rv2647	Rv2647	downstream_transcript_variant
+2972109	24	T	Ins	G	90	90	2598	99	90		Rv2647	Rv2647	downstream_transcript_variant
+2972109	25	T	Ins	C	90	90	2598	99	90		Rv2647	Rv2647	downstream_transcript_variant
+2972109	26	T	Ins	G	90	90	2598	99	90		Rv2647	Rv2647	downstream_transcript_variant
+2972109	27	T	Ins	C	90	90	2598	99	90		Rv2647	Rv2647	downstream_transcript_variant
+2972109	28	T	Ins	C	90	90	2598	99	90		Rv2647	Rv2647	downstream_transcript_variant
+2972109	29	T	Ins	A	90	90	2598	99	90		Rv2647	Rv2647	downstream_transcript_variant
+2972109	30	T	Ins	A	90	90	2598	99	90		Rv2647	Rv2647	downstream_transcript_variant
+2972109	31	T	Ins	G	90	90	2598	99	90		Rv2647	Rv2647	downstream_transcript_variant
+2972109	32	T	Ins	C	90	90	2598	99	90		Rv2647	Rv2647	downstream_transcript_variant
+2972109	33	T	Ins	C	90	90	2598	99	90		Rv2647	Rv2647	downstream_transcript_variant
+2972109	34	T	Ins	T	90	90	2598	99	90		Rv2647	Rv2647	downstream_transcript_variant
+2972109	35	T	Ins	C	90	90	2598	99	90		Rv2647	Rv2647	downstream_transcript_variant
+2972109	36	T	Ins	A	90	90	2598	99	90		Rv2647	Rv2647	downstream_transcript_variant
+2972109	37	T	Ins	T	90	90	2598	99	90		Rv2647	Rv2647	downstream_transcript_variant
+2972109	38	T	Ins	A	90	90	2598	99	90		Rv2647	Rv2647	downstream_transcript_variant
+2972109	39	T	Ins	G	90	90	2598	99	90		Rv2647	Rv2647	downstream_transcript_variant
+2972109	40	T	Ins	C	90	90	2598	99	90		Rv2647	Rv2647	downstream_transcript_variant
+2973658	0	T	SNP	G	118	118	4491	99	118		Rv2650c	Rv2650c	downstream_transcript_variant
+2974933	0	A	SNP	G	127	127	4779	99	127	Ile101Thr	Rv2650c	Rv2650c	missense_variant
+2982953	1	T	Ins	T	105	105	4507	99	105	Arg85Arg	Rv2665	Rv2665	frameshift_variant
+2982953	2	T	Ins	C	105	105	4507	99	105	Arg85Arg	Rv2665	Rv2665	frameshift_variant
+2982956	0	A	SNP	G	107	107	4539	99	107	Phe86Phe	Rv2665	Rv2665	synonymous_variant
+2984740	0	A	SNP	G	115	115	4423	99	115	His3Arg	Rv2668	Rv2668	missense_variant
+3004140	0	C	SNP	T	146	146	5549	99	146	Gln203Gln	Rv2687c	Rv2687c	synonymous_variant
+3005185	0	G	SNP	T	128	128	4793	99	128	Phe156Thr	Rv2688c	Rv2688c	missense_variant
+3005618	0	C	SNP	T	138	138	5087	99	138	Ala11Ala	Rv2688c	Rv2688c	synonymous_variant
+3009692	0	A	SNP	G	112	112	4243	99	112	Thr117Ala	ceoB	ceoB	missense_variant
+3011692	0	A	SNP	C	181	181	6844	99	181	Leu26Val	Rv2694c	Rv2694c	missense_variant
+3013784	0	C	SNP	G	126	126	4794	99	126	Val122Leu	dut	dut	missense_variant
+3017465	0	T	SNP	C	146	146	5782	99	146	Ile203Thr	ppgK	ppgK	missense_variant
+3022094	0	T	SNP	C	109	109	4336	99	109	Ser86Phe	Rv2709	Rv2709	missense_variant
+3023036	0	G	SNP	A	156	156	5879	99	156	Glu192Glu	sigB	sigB	synonymous_variant
+3024577	0	G	SNP	C	109	109	4209	99	109	Ala251Gly	Rv2712c	Rv2712c	missense_variant
+3037377	0	T	SNP	C	56	56	1763	99	56		fadE20	fadE20	upstream_transcript_variant
+3041871	0	G	SNP	T	130	130	4548	99	130	Ala202Glu	Rv2729c	Rv2729c	missense_variant
+3042227	0	C	SNP	T	129	129	5002	99	129	Gln83Gln	Rv2729c	Rv2729c	synonymous_variant
+3054081	0	A	SNP	G	134	134	5107	99	134	Gly56Gly	PE_PGRS47	PE_PGRS47	synonymous_variant
+3054321	0	A	SNP	G	103	103	3763	99	103	Gly136Gly	PE_PGRS47	PE_PGRS47	synonymous_variant
+3054724	0	A	SNP	G	21	21	717	99	21	Ser271Gly	PE_PGRS47	PE_PGRS47	missense_variant
+3072567	0	C	SNP	A	118	118	4533	99	118	Gly25Val	hsdS	hsdS	missense_variant
+3078178	0	C	SNP	T	131	131	4989	99	131	Val270Met	PE27	PE27	missense_variant
+3080795	0	A	SNP	G	139	139	5094	99	139	Leu80Phe	Rv2771c	Rv2771c	missense_variant
+3086208	0	G	SNP	T	159	159	5968	99	159		Rv2777c	Rv2777c	upstream_transcript_variant
+3086788	0	T	SNP	C	161	161	5996	99	161		Rv2778c	Rv2778c	upstream_transcript_variant
+3091595	0	G	SNP	A	118	118	4575	99	118	Leu335Leu	gpsI	gpsI	synonymous_variant
+3096807	0	G	SNP	T	169	169	6350	99	169	Ser566Ile	Rv2787	Rv2787	missense_variant
+3103682	0	T	SNP	C	135	135	5077	99	135	Met87Val	pptT	pptT	missense_variant
+3109457	0	G	SNP	A	78	78	2903	99	78	Gly348Ser	Rv2800	Rv2800	missense_variant
+3113872	0	A	SNP	T	94	94	3448	99	94	Glu72Val	Rv2807	Rv2807	missense_variant
+3118000	0	A	SNP	G	83	83	2950	99	83	Arg395Gly	Rv2812	Rv2812	missense_variant
+3120432	0	G	SNP	A	15	15	367	99	15				intergenic_variant
+3120523	1	G	Ins	G	118	118	5131	99	118				intergenic_variant
+3120523	2	G	Ins	T	118	118	5131	99	118				intergenic_variant
+3120523	3	G	Ins	T	118	118	5131	99	118				intergenic_variant
+3120523	4	G	Ins	T	118	118	5131	99	118				intergenic_variant
+3120523	5	G	Ins	T	118	118	5131	99	118				intergenic_variant
+3120523	6	G	Ins	G	118	118	5131	99	118				intergenic_variant
+3120523	7	G	Ins	G	118	118	5131	99	118				intergenic_variant
+3120523	8	G	Ins	G	118	118	5131	99	118				intergenic_variant
+3120523	9	G	Ins	T	118	118	5131	99	118				intergenic_variant
+3120523	10	G	Ins	C	118	118	5131	99	118				intergenic_variant
+3120523	11	G	Ins	T	118	118	5131	99	118				intergenic_variant
+3120523	12	G	Ins	G	118	118	5131	99	118				intergenic_variant
+3120523	13	G	Ins	A	118	118	5131	99	118				intergenic_variant
+3120523	14	G	Ins	C	118	118	5131	99	118				intergenic_variant
+3131469	1	T	Ins	T	127	127	4967	99	127	Asn102Ile	Rv2823c	Rv2823c	inframe_insertion
+3131469	2	T	Ins	T	127	127	4967	99	127	Asn102Ile	Rv2823c	Rv2823c	inframe_insertion
+3131469	3	T	Ins	G	127	127	4967	99	127	Asn102Ile	Rv2823c	Rv2823c	inframe_insertion
+3131469	4	T	Ins	T	127	127	4967	99	127	Asn102Ile	Rv2823c	Rv2823c	inframe_insertion
+3131469	5	T	Ins	C	127	127	4967	99	127	Asn102Ile	Rv2823c	Rv2823c	inframe_insertion
+3131469	6	T	Ins	G	127	127	4967	99	127	Asn102Ile	Rv2823c	Rv2823c	inframe_insertion
+3131469	7	T	Ins	G	127	127	4967	99	127	Asn102Ile	Rv2823c	Rv2823c	inframe_insertion
+3131469	8	T	Ins	C	127	127	4967	99	127	Asn102Ile	Rv2823c	Rv2823c	inframe_insertion
+3131469	9	T	Ins	G	127	127	4967	99	127	Asn102Ile	Rv2823c	Rv2823c	inframe_insertion
+3131469	10	T	Ins	A	127	127	4967	99	127	Asn102Ile	Rv2823c	Rv2823c	inframe_insertion
+3133536	0	T	SNP	C	174	174	6665	99	174	Lys2Glu	Rv2825c	Rv2825c	missense_variant
+3136335	0	G	SNP	A	79	79	2946	99	79	Arg89Trp	Rv2828A	Rv2828A	missense_variant
+3136576	0	C	SNP	T	108	108	3823	99	108	Leu8Leu	Rv2828A	Rv2828A	synonymous_variant
+3137058	0	G	SNP	A	145	145	5084	99	145	Ala56Val	vapB22	vapB22	missense_variant
+3147742	0	A	SNP	G	133	133	4770	99	133	Val44Val	infB	infB	synonymous_variant
+3159998	0	C	Del	GAP	103	103	4450	99	103		Rv2850c	Rv2850c	frameshift_variant
+3177884	0	C	SNP	A	125	125	4864	99	125	Arg21Arg	relG	relG	synonymous_variant
+3186860	0	T	SNP	G	70	70	2840	99	70	Tyr672Asp	dipZ	dipZ	missense_variant
+3187090	0	G	SNP	A	89	89	3085	99	89	Ala21Thr	mpt70	mpt70	missense_variant
+3190145	0	T	Del	GAP	124	124	3524	99	124		mpt53	mpt53	upstream_transcript_variant
+3194705	0	A	Del	GAP	155	155	4316	99	155		Rv2885c	Rv2885c	frameshift_variant
+3207532	0	G	SNP	A	138	138	5076	99	138	Val137Val	Rv2897c	Rv2897c	synonymous_variant
+3226181	0	A	SNP	C	141	141	4972	99	141	Arg35Arg	ffh	ffh	synonymous_variant
+3228143	0	G	SNP	T	95	95	3043	99	95	Arg594Leu	Rv2917	Rv2917	missense_variant
+3238090	0	G	SNP	A	98	98	3814	99	98	Phe4Ser	acyP	acyP	missense_variant
+3247316	0	C	SNP	G	130	130	4919	99	130	Asp624Glu	ppsA	ppsA	missense_variant
+3247851	0	G	SNP	A	120	120	5259	99	120	Ala803Thr	ppsA	ppsA	missense_variant
+3247853	0	C	SNP	T	121	121	5394	99	121	Ala803Ala	ppsA	ppsA	synonymous_variant
+3247856	0	G	SNP	C	122	122	5439	99	122	Arg804Arg	ppsA	ppsA	synonymous_variant
+3247864	1	C	Ins	C	123	123	5525	99	123	Ala807Ala	ppsA	ppsA	frameshift_variant
+3247864	2	C	Ins	T	123	123	5525	99	123	Ala807Ala	ppsA	ppsA	frameshift_variant
+3247864	3	C	Ins	A	123	123	5525	99	123	Ala807Ala	ppsA	ppsA	frameshift_variant
+3247864	4	C	Ins	G	123	123	5525	99	123	Ala807Ala	ppsA	ppsA	frameshift_variant
+3247864	5	C	Ins	G	123	123	5525	99	123	Ala807Ala	ppsA	ppsA	frameshift_variant
+3247865	0	G	Del	GAP	124	124	5570	99	124		ppsA	ppsA	frameshift_variant
+3247874	0	G	SNP	A	117	117	5255	99	117	Arg810Arg	ppsA	ppsA	synonymous_variant
+3247877	0	T	SNP	C	118	118	5279	99	118	Phe811Phe	ppsA	ppsA	synonymous_variant
+3247883	0	T	SNP	C	117	117	5081	99	117	Ser813Ser	ppsA	ppsA	synonymous_variant
+3248074	0	G	SNP	A	101	101	4355	99	101	Arg877His	ppsA	ppsA	missense_variant
+3248075	0	C	SNP	T	101	101	4355	99	101	Arg877Arg	ppsA	ppsA	synonymous_variant
+3255647	0	T	SNP	C	130	130	5005	99	130	Leu1526Leu	ppsB	ppsB	synonymous_variant
+3256494	0	A	SNP	G	133	133	4986	99	133	Gly270Gly	ppsC	ppsC	synonymous_variant
+3258274	0	A	SNP	C	90	90	3368	99	90	Ser864Arg	ppsC	ppsC	missense_variant
+3269581	0	A	SNP	G	106	106	4017	99	106	Ala615Ala	ppsE	ppsE	synonymous_variant
+3270784	0	A	SNP	G	152	152	5609	99	152	Gln1016Gln	ppsE	ppsE	synonymous_variant
+3289923	0	C	SNP	A	137	137	5302	99	137	Phe45His	Rv2944	Rv2944	missense_variant
+3296843	0	A	SNP	G	116	116	4187	99	116	Val333Ala	pks15	pks15	missense_variant
+3308606	0	G	SNP	A	148	148	5606	99	148		Rv2955c	Rv2955c	upstream_transcript_variant
+3332254	0	C	SNP	T	128	128	4994	99	128	Leu167Leu	ung	ung	synonymous_variant
+3333080	0	C	SNP	T	127	127	4800	99	127	Ala237Thr	thiL	thiL	missense_variant
+3336825	0	T	SNP	C	56	56	2020	99	56	Thr365Ala	ddlA	ddlA	missense_variant
+3338603	0	G	SNP	C	123	123	4881	99	123	Phe133Ala	gpdA2	gpdA2	missense_variant
+3340328	0	G	SNP	T	127	127	4855	99	127	Val159Phe	ppk1	ppk1	missense_variant
+3346060	0	C	SNP	T	193	193	7439	99	193	Gly6Ser	leuC	leuC	missense_variant
+3346224	0	A	SNP	C	143	143	5403	99	143	Gly26Gly	Rv2989	Rv2989	synonymous_variant
+3352932	0	C	SNP	G	129	129	4909	99	129	Thr179Thr	leuB	leuB	synonymous_variant
+3355161	0	C	SNP	T	133	133	4731	99	133	Arg21Arg	Rv2997	Rv2997	synonymous_variant
+3358235	0	A	SNP	T	164	164	6200	99	164	Met212Leu	lppY	lppY	missense_variant
+3363338	0	A	SNP	G	169	169	6263	99	169		ilvB1	ilvB1	upstream_transcript_variant
+3367765	0	G	SNP	A	132	132	4266	99	132	Gly343Gly	gatB	gatB	synonymous_variant
+3373029	0	G	SNP	A	55	55	1921	99	55	Ala531Val	ligA	ligA	missense_variant
+3381641	0	G	SNP	T	5	5	149	99	5	Gln328Lys	Rv3023c	Rv3023c	missense_variant
+3390059	0	G	SNP	A	137	137	5198	99	137	Phe46Phe	Rv3031	Rv3031	synonymous_variant
+3396059	0	C	SNP	T	128	128	5011	99	128	Asp227Asp	Rv3035	Rv3035	synonymous_variant
+3398223	0	G	SNP	A	138	138	5215	99	138	Ala23Val	Rv3037c	Rv3037c	missense_variant
+3398228	0	G	SNP	C	135	135	5306	99	135	Arg21Arg	Rv3037c	Rv3037c	synonymous_variant
+3401871	0	A	SNP	G	85	85	3306	99	85	Ala16Ala	Rv3041c	Rv3041c	synonymous_variant
+3402816	0	C	SNP	T	138	138	5050	99	138	Gly116Glu	serB2	serB2	missense_variant
+3404376	0	C	SNP	G	151	151	5603	99	151	Thr182Thr	ctaD	ctaD	synonymous_variant
+3408000	0	C	SNP	A	132	132	5021	99	132		Rv3046c	Rv3046c	upstream_transcript_variant
+3415180	0	A	Del	GAP	140	140	4500	99	140		nrdI	nrdI	upstream_transcript_variant
+3417839	0	A	SNP	G	112	112	4203	99	112	Val275Ala	Rv3057c	Rv3057c	missense_variant
+3425854	0	C	SNP	T	159	159	6082	99	159	Phe91Ser	ligB	ligB	missense_variant
+3428374	0	C	SNP	G	105	105	3907	99	105	His378Asp	cstA	cstA	missense_variant
+3428917	0	C	SNP	A	146	146	5408	99	146	Arg559Ser	cstA	cstA	missense_variant
+3440464	0	T	SNP	G	124	124	5151	99	124	Arg308Arg	atsF	atsF	synonymous_variant
+3440468	0	G	SNP	C	118	118	5189	99	118	Gly310Arg	atsF	atsF	missense_variant
+3440895	0	G	SNP	A	146	146	5521	99	146	Arg452His	atsF	atsF	missense_variant
+3450463	0	C	SNP	T	126	126	4699	99	126	Ala156Val	lipR	lipR	missense_variant
+3455686	0	G	SNP	C	122	122	4296	99	122	Leu449Leu	tgs4	tgs4	synonymous_variant
+3456666	0	A	SNP	G	100	100	3750	99	100	Ala302Ala	fadD13	fadD13	synonymous_variant
+3462135	0	G	SNP	C	117	117	4291	99	117	Cys210Trp	Rv3093c	Rv3093c	missense_variant
+3465812	0	G	SNP	A	112	112	4340	99	112	Phe427Leu	lipY	lipY	missense_variant
+3473996	1	G	Ins	G	138	138	4886	99	138		prfB	prfB	upstream_transcript_variant
+3473996	2	G	Ins	A	138	138	4886	99	138		prfB	prfB	upstream_transcript_variant
+3480474	0	G	SNP	A	159	159	5879	99	159	Gly134Glu	Rv3113	Rv3113	missense_variant
+3486401	0	G	SNP	A	129	129	4918	99	129		cyp141	cyp141	upstream_transcript_variant
+3486977	0	A	SNP	G	141	141	5276	99	141	Lys157Glu	cyp141	cyp141	missense_variant
+3491105	0	G	SNP	A	118	118	4427	99	118		PPE49	PPE49	stop_gained
+3503895	0	C	SNP	T	145	145	5459	99	145	Phe168Leu	Rv3137	Rv3137	missense_variant
+3518167	0	A	SNP	G	100	100	3696	99	100	Ile474Met	nuoG	nuoG	missense_variant
+3518371	0	T	SNP	C	125	125	4525	99	125	His542His	nuoG	nuoG	synonymous_variant
+3518555	0	A	SNP	G	101	101	3887	99	101	Thr604Ala	nuoG	nuoG	missense_variant
+3529067	0	G	SNP	C	241	241	8960	99	241	Arg33Gly	PPE53	PPE53	missense_variant
+3544552	0	G	SNP	C	128	128	4860	99	128	Ala250Gly	mesT	mesT	missense_variant
+3544710	0	T	SNP	C	107	107	4119	99	107	Phe197Phe	mesT	mesT	synonymous_variant
+3552712	1	T	Ins	T	104	104	3084	99	104				intergenic_variant
+3552712	2	T	Ins	C	104	104	3084	99	104				intergenic_variant
+3552712	3	T	Ins	G	104	104	3084	99	104				intergenic_variant
+3552712	4	T	Ins	T	104	104	3084	99	104				intergenic_variant
+3552712	5	T	Ins	T	104	104	3084	99	104				intergenic_variant
+3552712	6	T	Ins	T	104	104	3084	99	104				intergenic_variant
+3552712	7	T	Ins	C	104	104	3084	99	104				intergenic_variant
+3552712	8	T	Ins	G	104	104	3084	99	104				intergenic_variant
+3552712	9	T	Ins	G	104	104	3084	99	104				intergenic_variant
+3552712	10	T	Ins	C	104	104	3084	99	104				intergenic_variant
+3552712	11	T	Ins	C	104	104	3084	99	104				intergenic_variant
+3552712	12	T	Ins	T	104	104	3084	99	104				intergenic_variant
+3552712	13	T	Ins	G	104	104	3084	99	104				intergenic_variant
+3552712	14	T	Ins	T	104	104	3084	99	104				intergenic_variant
+3552712	15	T	Ins	T	104	104	3084	99	104				intergenic_variant
+3552712	16	T	Ins	C	104	104	3084	99	104				intergenic_variant
+3552712	17	T	Ins	T	104	104	3084	99	104				intergenic_variant
+3552712	18	T	Ins	G	104	104	3084	99	104				intergenic_variant
+3552712	19	T	Ins	T	104	104	3084	99	104				intergenic_variant
+3552712	20	T	Ins	T	104	104	3084	99	104				intergenic_variant
+3552712	21	T	Ins	C	104	104	3084	99	104				intergenic_variant
+3552712	22	T	Ins	C	104	104	3084	99	104				intergenic_variant
+3552712	23	T	Ins	C	104	104	3084	99	104				intergenic_variant
+3552712	24	T	Ins	A	104	104	3084	99	104				intergenic_variant
+3552712	25	T	Ins	A	104	104	3084	99	104				intergenic_variant
+3552712	26	T	Ins	A	104	104	3084	99	104				intergenic_variant
+3552712	27	T	Ins	T	104	104	3084	99	104				intergenic_variant
+3552712	28	T	Ins	C	104	104	3084	99	104				intergenic_variant
+3552712	29	T	Ins	C	104	104	3084	99	104				intergenic_variant
+3552712	30	T	Ins	G	104	104	3084	99	104				intergenic_variant
+3552712	31	T	Ins	T	104	104	3084	99	104				intergenic_variant
+3552712	32	T	Ins	T	104	104	3084	99	104				intergenic_variant
+3552712	33	T	Ins	C	104	104	3084	99	104				intergenic_variant
+3552712	34	T	Ins	C	104	104	3084	99	104				intergenic_variant
+3552712	35	T	Ins	C	104	104	3084	99	104				intergenic_variant
+3552712	36	T	Ins	A	104	104	3084	99	104				intergenic_variant
+3552712	37	T	Ins	A	104	104	3084	99	104				intergenic_variant
+3552712	38	T	Ins	C	104	104	3084	99	104				intergenic_variant
+3552712	39	T	Ins	A	104	104	3084	99	104				intergenic_variant
+3552712	40	T	Ins	C	104	104	3084	99	104				intergenic_variant
+3552712	41	T	Ins	A	104	104	3084	99	104				intergenic_variant
+3552712	42	T	Ins	G	104	104	3084	99	104				intergenic_variant
+3552712	43	T	Ins	C	104	104	3084	99	104				intergenic_variant
+3552712	44	T	Ins	A	104	104	3084	99	104				intergenic_variant
+3552712	45	T	Ins	A	104	104	3084	99	104				intergenic_variant
+3556607	0	G	SNP	T	143	143	5095	99	143	Ser27Arg	Rv3190c	Rv3190c	missense_variant
+3573090	0	C	SNP	A	126	126	4933	99	126	Val194Phe	Rv3200c	Rv3200c	missense_variant
+3580636	0	C	Del	GAP	105	105	3516	99	105		Rv3202c	Rv3202c	upstream_transcript_variant
+3581414	0	A	SNP	G	132	132	5095	99	132	Thr34Ala	Rv3204	Rv3204	missense_variant
+3587072	0	T	SNP	C	146	146	5302	99	146	Glu156Glu	Rv3210c	Rv3210c	synonymous_variant
+3590686	1	G	Ins	G	32	32	1152	99	32		gpm2	gpm2	upstream_transcript_variant
+3590686	2	G	Ins	C	32	32	1152	99	32		gpm2	gpm2	upstream_transcript_variant
+3591063	0	T	SNP	C	134	134	4789	99	134	Lys144Glu	Rv3213c	Rv3213c	missense_variant
+3603355	0	G	SNP	A	117	117	4004	99	117		Rv3225c	Rv3225c	upstream_transcript_variant
+3614982	0	T	SNP	C	159	159	5988	99	159	Leu874Leu	Rv3239c	Rv3239c	synonymous_variant
+3621423	0	A	SNP	G	156	156	5626	99	156		secA1	secA1	upstream_transcript_variant
+3622441	0	A	SNP	C	135	135	4953	99	135	Val217Val	Rv3243c	Rv3243c	synonymous_variant
+3625065	0	T	SNP	G	128	128	4830	99	128	Met517Leu	mtrB	mtrB	missense_variant
+3659451	0	T	SNP	G	138	138	5345	99	138	Ala158Ala	purK	purK	synonymous_variant
+3661340	0	C	SNP	T	122	122	4372	99	122	Val225Ile	birA	birA	missense_variant
+3665314	0	G	SNP	A	147	147	5460	99	147		sseA	sseA	stop_gained
+3689523	0	G	SNP	T	149	149	5549	99	149		lpdA	lpdA	stop_gained
+3693875	0	G	SNP	A	117	117	4021	99	117	His39Tyr	amiB1	amiB1	missense_variant
+3704596	0	G	SNP	C	152	152	5587	99	152	Val54Leu	sdhD	sdhD	missense_variant
+3714211	0	G	SNP	T	134	134	5233	99	134	Phe41Gln	sigJ	sigJ	missense_variant
+3714757	0	A	SNP	C	137	137	5141	99	137	Gln122His	Rv3329	Rv3329	missense_variant
+3718357	0	C	SNP	T	139	139	5046	99	139	Phe423Leu	sugI	sugI	missense_variant
+3721806	0	G	SNP	C	136	136	5358	99	136	Gly265Gly	Rv3335c	Rv3335c	synonymous_variant
+3730466	0	A	SNP	G	101	101	3642	99	101	Ile2157Thr	PPE54	PPE54	missense_variant
+3732658	0	C	SNP	G	2	2	80	90	2	Leu1426Phe	PPE54	PPE54	missense_variant
+3732660	0	A	SNP	G	2	2	80	90	2	Leu1426Leu	PPE54	PPE54	synonymous_variant
+3736628	0	T	SNP	G	80	80	2862	99	80	Glu103Ala	PPE54	PPE54	missense_variant
+3738212	0	G	Del	GAP	88	88	2342	99	88		PE_PGRS50	PE_PGRS50	inframe_deletion
+3738516	1	C	Ins	C	29	29	1045	99	29	Ser1420Asn	PE_PGRS50	PE_PGRS50	inframe_insertion
+3738516	2	C	Ins	T	29	29	1045	99	29	Ser1420Asn	PE_PGRS50	PE_PGRS50	inframe_insertion
+3738516	3	C	Ins	G	29	29	1045	99	29	Ser1420Asn	PE_PGRS50	PE_PGRS50	inframe_insertion
+3738516	4	C	Ins	C	29	29	1045	99	29	Ser1420Asn	PE_PGRS50	PE_PGRS50	inframe_insertion
+3738516	5	C	Ins	C	29	29	1045	99	29	Ser1420Asn	PE_PGRS50	PE_PGRS50	inframe_insertion
+3738516	6	C	Ins	G	29	29	1045	99	29	Ser1420Asn	PE_PGRS50	PE_PGRS50	inframe_insertion
+3738516	7	C	Ins	C	29	29	1045	99	29	Ser1420Asn	PE_PGRS50	PE_PGRS50	inframe_insertion
+3738516	8	C	Ins	C	29	29	1045	99	29	Ser1420Asn	PE_PGRS50	PE_PGRS50	inframe_insertion
+3738516	9	C	Ins	G	29	29	1045	99	29	Ser1420Asn	PE_PGRS50	PE_PGRS50	inframe_insertion
+3738516	10	C	Ins	C	29	29	1045	99	29	Ser1420Asn	PE_PGRS50	PE_PGRS50	inframe_insertion
+3738516	11	C	Ins	T	29	29	1045	99	29	Ser1420Asn	PE_PGRS50	PE_PGRS50	inframe_insertion
+3738516	12	C	Ins	G	29	29	1045	99	29	Ser1420Asn	PE_PGRS50	PE_PGRS50	inframe_insertion
+3738516	13	C	Ins	C	29	29	1045	99	29	Ser1420Asn	PE_PGRS50	PE_PGRS50	inframe_insertion
+3738516	14	C	Ins	C	29	29	1045	99	29	Ser1420Asn	PE_PGRS50	PE_PGRS50	inframe_insertion
+3738516	15	C	Ins	G	29	29	1045	99	29	Ser1420Asn	PE_PGRS50	PE_PGRS50	inframe_insertion
+3738516	16	C	Ins	C	29	29	1045	99	29	Ser1420Asn	PE_PGRS50	PE_PGRS50	inframe_insertion
+3738516	17	C	Ins	C	29	29	1045	99	29	Ser1420Asn	PE_PGRS50	PE_PGRS50	inframe_insertion
+3738516	18	C	Ins	G	29	29	1045	99	29	Ser1420Asn	PE_PGRS50	PE_PGRS50	inframe_insertion
+3738516	19	C	Ins	T	29	29	1045	99	29	Ser1420Asn	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	1	G	Ins	G	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	2	G	Ins	C	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	3	G	Ins	C	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	4	G	Ins	G	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	5	G	Ins	C	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	6	G	Ins	C	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	7	G	Ins	G	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	8	G	Ins	T	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	9	G	Ins	C	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	10	G	Ins	A	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	11	G	Ins	C	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	12	G	Ins	C	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	13	G	Ins	G	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	14	G	Ins	C	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	15	G	Ins	C	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	16	G	Ins	G	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	17	G	Ins	G	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	18	G	Ins	C	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	19	G	Ins	G	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	20	G	Ins	C	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	21	G	Ins	C	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	22	G	Ins	G	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	23	G	Ins	C	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	24	G	Ins	C	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	25	G	Ins	G	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	26	G	Ins	T	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	27	G	Ins	C	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	28	G	Ins	C	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	29	G	Ins	C	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	30	G	Ins	C	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	31	G	Ins	G	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	32	G	Ins	G	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	33	G	Ins	C	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	34	G	Ins	C	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	35	G	Ins	T	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	36	G	Ins	T	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	37	G	Ins	G	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	38	G	Ins	C	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	39	G	Ins	C	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	40	G	Ins	G	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	41	G	Ins	G	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	42	G	Ins	C	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	43	G	Ins	G	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	44	G	Ins	G	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	45	G	Ins	T	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	46	G	Ins	G	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	47	G	Ins	C	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	48	G	Ins	C	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	49	G	Ins	G	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	50	G	Ins	G	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	51	G	Ins	C	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	52	G	Ins	G	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	53	G	Ins	A	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	54	G	Ins	C	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	55	G	Ins	C	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	56	G	Ins	G	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	57	G	Ins	C	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	58	G	Ins	G	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	59	G	Ins	G	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	60	G	Ins	T	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	61	G	Ins	G	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	62	G	Ins	C	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	63	G	Ins	C	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	64	G	Ins	G	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	65	G	Ins	C	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	66	G	Ins	C	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	67	G	Ins	G	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	68	G	Ins	G	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	69	G	Ins	C	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	70	G	Ins	G	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	71	G	Ins	C	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	72	G	Ins	C	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	73	G	Ins	G	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	74	G	Ins	C	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	75	G	Ins	C	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	76	G	Ins	A	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	77	G	Ins	C	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	78	G	Ins	C	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3741272	79	G	Ins	A	139	139	4006	99	139	Gly501Gly	PE_PGRS50	PE_PGRS50	inframe_insertion
+3744786	0	G	SNP	A	144	144	5337	99	144	Ala2800Val	PPE55	PPE55	missense_variant
+3746409	0	A	SNP	G	128	128	4886	99	128	Leu2259Phe	PPE55	PPE55	missense_variant
+3746726	0	A	SNP	G	99	99	4350	99	99	Thr2153Thr	PPE55	PPE55	synonymous_variant
+3746727	0	G	SNP	T	99	99	4350	99	99	Thr2153Asn	PPE55	PPE55	missense_variant
+3746734	0	C	SNP	T	88	88	3950	99	88	Gly2151Ser	PPE55	PPE55	missense_variant
+3746735	0	A	SNP	C	89	89	3995	99	89	Gly2150Gly	PPE55	PPE55	synonymous_variant
+3746753	0	A	SNP	G	60	60	2690	99	60	Thr2144Thr	PPE55	PPE55	synonymous_variant
+3746771	0	A	SNP	G	41	41	1835	99	41	Asn2138Asn	PPE55	PPE55	synonymous_variant
+3746790	0	A	SNP	T	29	29	1088	99	29	Phe2132Tyr	PPE55	PPE55	missense_variant
+3746830	0	A	SNP	T	79	79	2889	99	79	Ser2119Thr	PPE55	PPE55	missense_variant
+3746896	0	A	SNP	G	145	145	5492	99	145	Leu2097Leu	PPE55	PPE55	synonymous_variant
+3746933	0	A	SNP	G	143	143	5207	99	143	Ile2084Ile	PPE55	PPE55	synonymous_variant
+3751257	0	A	SNP	C	106	106	4107	99	106	Leu643Arg	PPE55	PPE55	missense_variant
+3752207	0	A	SNP	G	152	152	5916	99	152	Ile326Ile	PPE55	PPE55	synonymous_variant
+3753116	0	C	SNP	T	136	136	4815	99	136	Phe23Phe	PPE55	PPE55	synonymous_variant
+3753164	0	T	SNP	G	107	107	4030	99	107	Phe7Phe	PPE55	PPE55	synonymous_variant
+3760840	1	A	Ins	A	107	107	224	99	107	Phe2088Cys	PPE56	PPE56	frameshift_variant
+3760840	2	A	Ins	A	107	107	224	99	107	Phe2088Cys	PPE56	PPE56	frameshift_variant
+3760840	3	A	Ins	T	107	107	224	99	107	Phe2088Cys	PPE56	PPE56	frameshift_variant
+3760840	4	A	Ins	G	107	107	224	99	107	Phe2088Cys	PPE56	PPE56	frameshift_variant
+3760840	5	A	Ins	C	107	107	224	99	107	Phe2088Cys	PPE56	PPE56	frameshift_variant
+3760840	6	A	Ins	G	107	107	224	99	107	Phe2088Cys	PPE56	PPE56	frameshift_variant
+3760840	7	A	Ins	G	107	107	224	99	107	Phe2088Cys	PPE56	PPE56	frameshift_variant
+3760840	8	A	Ins	G	107	107	224	99	107	Phe2088Cys	PPE56	PPE56	frameshift_variant
+3760840	9	A	Ins	C	107	107	224	99	107	Phe2088Cys	PPE56	PPE56	frameshift_variant
+3760840	10	A	Ins	A	107	107	224	99	107	Phe2088Cys	PPE56	PPE56	frameshift_variant
+3760840	11	A	Ins	C	107	107	224	99	107	Phe2088Cys	PPE56	PPE56	frameshift_variant
+3760840	12	A	Ins	G	107	107	224	99	107	Phe2088Cys	PPE56	PPE56	frameshift_variant
+3760840	13	A	Ins	G	107	107	224	99	107	Phe2088Cys	PPE56	PPE56	frameshift_variant
+3760840	14	A	Ins	C	107	107	224	99	107	Phe2088Cys	PPE56	PPE56	frameshift_variant
+3760840	15	A	Ins	C	107	107	224	99	107	Phe2088Cys	PPE56	PPE56	frameshift_variant
+3760840	16	A	Ins	A	107	107	224	99	107	Phe2088Cys	PPE56	PPE56	frameshift_variant
+3760840	17	A	Ins	G	107	107	224	99	107	Phe2088Cys	PPE56	PPE56	frameshift_variant
+3760840	18	A	Ins	C	107	107	224	99	107	Phe2088Cys	PPE56	PPE56	frameshift_variant
+3777612	0	C	SNP	T	108	108	3821	99	108		Rv3365c	Rv3365c	upstream_transcript_variant
+3783058	0	G	SNP	A	147	147	5599	99	147	Ser561Ser	dnaE2	dnaE2	synonymous_variant
+3783141	0	T	SNP	G	123	123	4555	99	123	Ile534Leu	dnaE2	dnaE2	missense_variant
+3794299	0	C	SNP	T	140	140	5440	99	140	Arg190Lys	dxs2	dxs2	missense_variant
+3795057	1	T	Ins	T	102	102	2940	99	102		dxs2	dxs2	upstream_transcript_variant
+3795057	2	T	Ins	C	102	102	2940	99	102		dxs2	dxs2	upstream_transcript_variant
+3795057	3	T	Ins	A	102	102	2940	99	102		dxs2	dxs2	upstream_transcript_variant
+3795057	4	T	Ins	A	102	102	2940	99	102		dxs2	dxs2	upstream_transcript_variant
+3795057	5	T	Ins	G	102	102	2940	99	102		dxs2	dxs2	upstream_transcript_variant
+3795058	1	T	Ins	T	101	101	2941	99	101		dxs2	dxs2	upstream_transcript_variant
+3795058	2	T	Ins	C	101	101	2941	99	101		dxs2	dxs2	upstream_transcript_variant
+3795058	3	T	Ins	C	101	101	2941	99	101		dxs2	dxs2	upstream_transcript_variant
+3795058	4	T	Ins	C	101	101	2941	99	101		dxs2	dxs2	upstream_transcript_variant
+3795058	5	T	Ins	C	101	101	2941	99	101		dxs2	dxs2	upstream_transcript_variant
+3795058	6	T	Ins	G	101	101	2941	99	101		dxs2	dxs2	upstream_transcript_variant
+3795058	7	T	Ins	C	101	101	2941	99	101		dxs2	dxs2	upstream_transcript_variant
+3795058	8	T	Ins	G	101	101	2941	99	101		dxs2	dxs2	upstream_transcript_variant
+3795058	9	T	Ins	T	101	101	2941	99	101		dxs2	dxs2	upstream_transcript_variant
+3795058	10	T	Ins	C	101	101	2941	99	101		dxs2	dxs2	upstream_transcript_variant
+3795058	11	T	Ins	C	101	101	2941	99	101		dxs2	dxs2	upstream_transcript_variant
+3795058	12	T	Ins	G	101	101	2941	99	101		dxs2	dxs2	upstream_transcript_variant
+3795058	13	T	Ins	T	101	101	2941	99	101		dxs2	dxs2	upstream_transcript_variant
+3795058	14	T	Ins	T	101	101	2941	99	101		dxs2	dxs2	upstream_transcript_variant
+3795058	15	T	Ins	G	101	101	2941	99	101		dxs2	dxs2	upstream_transcript_variant
+3795058	16	T	Ins	C	101	101	2941	99	101		dxs2	dxs2	upstream_transcript_variant
+3795058	17	T	Ins	G	101	101	2941	99	101		dxs2	dxs2	upstream_transcript_variant
+3795058	18	T	Ins	A	101	101	2941	99	101		dxs2	dxs2	upstream_transcript_variant
+3795058	19	T	Ins	A	101	101	2941	99	101		dxs2	dxs2	upstream_transcript_variant
+3795058	20	T	Ins	T	101	101	2941	99	101		dxs2	dxs2	upstream_transcript_variant
+3795058	21	T	Ins	C	101	101	2941	99	101		dxs2	dxs2	upstream_transcript_variant
+3795058	22	T	Ins	G	101	101	2941	99	101		dxs2	dxs2	upstream_transcript_variant
+3795058	23	T	Ins	T	101	101	2941	99	101		dxs2	dxs2	upstream_transcript_variant
+3795058	24	T	Ins	G	101	101	2941	99	101		dxs2	dxs2	upstream_transcript_variant
+3795058	25	T	Ins	G	101	101	2941	99	101		dxs2	dxs2	upstream_transcript_variant
+3795058	26	T	Ins	T	101	101	2941	99	101		dxs2	dxs2	upstream_transcript_variant
+3795058	27	T	Ins	T	101	101	2941	99	101		dxs2	dxs2	upstream_transcript_variant
+3795058	28	T	Ins	G	101	101	2941	99	101		dxs2	dxs2	upstream_transcript_variant
+3795058	29	T	Ins	T	101	101	2941	99	101		dxs2	dxs2	upstream_transcript_variant
+3795058	30	T	Ins	C	101	101	2941	99	101		dxs2	dxs2	upstream_transcript_variant
+3795058	31	T	Ins	A	101	101	2941	99	101		dxs2	dxs2	upstream_transcript_variant
+3795058	32	T	Ins	T	101	101	2941	99	101		dxs2	dxs2	upstream_transcript_variant
+3795058	33	T	Ins	T	101	101	2941	99	101		dxs2	dxs2	upstream_transcript_variant
+3795058	34	T	Ins	G	101	101	2941	99	101		dxs2	dxs2	upstream_transcript_variant
+3795058	35	T	Ins	C	101	101	2941	99	101		dxs2	dxs2	upstream_transcript_variant
+3795058	36	T	Ins	G	101	101	2941	99	101		dxs2	dxs2	upstream_transcript_variant
+3795058	37	T	Ins	C	101	101	2941	99	101		dxs2	dxs2	upstream_transcript_variant
+3795058	38	T	Ins	G	101	101	2941	99	101		dxs2	dxs2	upstream_transcript_variant
+3795058	39	T	Ins	C	101	101	2941	99	101		dxs2	dxs2	upstream_transcript_variant
+3798095	0	A	SNP	C	122	122	4531	99	122	Val132Gly	idsB	idsB	missense_variant
+3812821	0	A	SNP	C	115	115	4150	99	115	Leu420Val	guaA	guaA	missense_variant
+3815477	0	G	SNP	T	127	127	4817	99	127	Ala210Ala	idsA1	idsA1	synonymous_variant
+3817117	0	C	SNP	A	133	133	4900	99	133	Ala330Glu	Rv3399	Rv3399	missense_variant
+3819949	0	C	SNP	A	139	139	5312	99	139		Rv3401	Rv3401	stop_gained
+3820545	0	A	SNP	G	65	65	2378	99	65		Rv3401	Rv3401	downstream_transcript_variant
+3823159	0	A	SNP	T	141	141	5055	99	141	Val235Val	Rv3403c	Rv3403c	synonymous_variant
+3826684	0	C	SNP	T	122	122	4492	99	122	Ser46Leu	vapC47	vapC47	missense_variant
+3829770	0	T	SNP	C	121	121	4366	99	121	Phe47Phe	guaB3	guaB3	synonymous_variant
+3833279	0	G	SNP	A	134	134	5258	99	134	Ser133Leu	sigD	sigD	missense_variant
+3838871	0	A	SNP	G	121	121	4593	99	121	Ala64Ala	rimI	rimI	synonymous_variant
+3842620	0	A	SNP	G	162	162	7035	99	162	Thr128Ala	PPE57	PPE57	missense_variant
+3842625	0	A	SNP	G	158	158	7030	99	158	Phe129Phe	PPE57	PPE57	synonymous_variant
+3842976	0	A	SNP	G	130	130	4749	99	130		Rv3424c	Rv3424c	upstream_transcript_variant
+3843407	0	C	Del	GAP	157	157	4611	99	157		PPE58	PPE58	frameshift_variant
+3844756	0	G	Del	GAP	110	110	3381	99	110		Rv3428c	Rv3428c	frameshift_variant
+3844992	0	T	SNP	A	129	129	4983	99	129	Ser327Cys	Rv3428c	Rv3428c	missense_variant
+3854174	0	G	SNP	A	139	139	5127	99	139	Ala207Val	Rv3435c	Rv3435c	missense_variant
+3859893	0	C	SNP	T	127	127	4734	99	127	Glu28Glu	Rv3440c	Rv3440c	synonymous_variant
+3862472	0	G	Del	GAP	86	86	3089	99	86		rpsI	rpsI	upstream_transcript_variant
+3864995	0	T	SNP	C	136	136	5140	99	136	Ser1082Gly	eccC4	eccC4	missense_variant
+3866350	0	C	SNP	T	122	122	4628	99	122	Gly630Glu	eccC4	eccC4	missense_variant
+3873242	0	G	SNP	A	114	114	4194	99	114	Gly209Asp	cut3	cut3	missense_variant
+3874722	0	A	Del	GAP	95	95	3105	99	95				intergenic_variant
+3877066	0	A	SNP	C	130	130	4850	99	130	Ser123Ala	rplQ	rplQ	missense_variant
+3877421	0	A	SNP	G	174	174	6305	99	174	Phe4Phe	rplQ	rplQ	synonymous_variant
+3884906	0	A	SNP	G	105	105	3708	99	105	Lys315Glu	Rv3467	Rv3467	missense_variant
+3885886	0	T	SNP	C	148	148	5635	99	148	Ile62Val	rmlB3	rmlB3	missense_variant
+3887921	0	A	SNP	G	122	122	4304	99	122	Phe294Phe	ilvB2	ilvB2	synonymous_variant
+3892671	0	A	SNP	G	153	153	6019	99	153				intergenic_variant
+3896340	0	T	SNP	G	129	129	4889	99	129	Leu174Arg	Rv3479	Rv3479	missense_variant
+3898408	0	A	SNP	G	153	153	5831	99	153	Ala863Ala	Rv3479	Rv3479	synonymous_variant
+3922380	0	G	SNP	A	150	150	5720	99	150		hsd4A	hsd4A	upstream_transcript_variant
+3925733	0	T	SNP	G	129	129	4872	99	129	Phe282Val	fadD17	fadD17	missense_variant
+3928281	0	T	Del	GAP	14	14	194	99	14		PE_PGRS53	PE_PGRS53	inframe_deletion
+3928784	1	C	Ins	C	33	33	459	99	33	Ala739Ala	PE_PGRS53	PE_PGRS53	inframe_insertion
+3928784	2	C	Ins	C	33	33	459	99	33	Ala739Ala	PE_PGRS53	PE_PGRS53	inframe_insertion
+3928784	3	C	Ins	G	33	33	459	99	33	Ala739Ala	PE_PGRS53	PE_PGRS53	inframe_insertion
+3928784	4	C	Ins	G	33	33	459	99	33	Ala739Ala	PE_PGRS53	PE_PGRS53	inframe_insertion
+3928784	5	C	Ins	C	33	33	459	99	33	Ala739Ala	PE_PGRS53	PE_PGRS53	inframe_insertion
+3928784	6	C	Ins	G	33	33	459	99	33	Ala739Ala	PE_PGRS53	PE_PGRS53	inframe_insertion
+3928784	7	C	Ins	G	33	33	459	99	33	Ala739Ala	PE_PGRS53	PE_PGRS53	inframe_insertion
+3928784	8	C	Ins	G	33	33	459	99	33	Ala739Ala	PE_PGRS53	PE_PGRS53	inframe_insertion
+3928784	9	C	Ins	G	33	33	459	99	33	Ala739Ala	PE_PGRS53	PE_PGRS53	inframe_insertion
+3928784	10	C	Ins	C	33	33	459	99	33	Ala739Ala	PE_PGRS53	PE_PGRS53	inframe_insertion
+3928784	11	C	Ins	C	33	33	459	99	33	Ala739Ala	PE_PGRS53	PE_PGRS53	inframe_insertion
+3928784	12	C	Ins	G	33	33	459	99	33	Ala739Ala	PE_PGRS53	PE_PGRS53	inframe_insertion
+3928784	13	C	Ins	G	33	33	459	99	33	Ala739Ala	PE_PGRS53	PE_PGRS53	inframe_insertion
+3928784	14	C	Ins	C	33	33	459	99	33	Ala739Ala	PE_PGRS53	PE_PGRS53	inframe_insertion
+3928784	15	C	Ins	G	33	33	459	99	33	Ala739Ala	PE_PGRS53	PE_PGRS53	inframe_insertion
+3928784	16	C	Ins	G	33	33	459	99	33	Ala739Ala	PE_PGRS53	PE_PGRS53	inframe_insertion
+3928784	17	C	Ins	T	33	33	459	99	33	Ala739Ala	PE_PGRS53	PE_PGRS53	inframe_insertion
+3928784	18	C	Ins	A	33	33	459	99	33	Ala739Ala	PE_PGRS53	PE_PGRS53	inframe_insertion
+3928784	19	C	Ins	A	33	33	459	99	33	Ala739Ala	PE_PGRS53	PE_PGRS53	inframe_insertion
+3929089	0	G	Del	GAP	76	76	2333	99	76		PE_PGRS53	PE_PGRS53	inframe_deletion
+3930438	0	G	SNP	C	18	18	780	99	18	Gly1290Gly	PE_PGRS53	PE_PGRS53	synonymous_variant
+3930441	1	C	Ins	C	18	18	780	99	18	Ala1291Ala	PE_PGRS53	PE_PGRS53	inframe_insertion
+3930441	2	C	Ins	A	18	18	780	99	18	Ala1291Ala	PE_PGRS53	PE_PGRS53	inframe_insertion
+3930441	3	C	Ins	A	18	18	780	99	18	Ala1291Ala	PE_PGRS53	PE_PGRS53	inframe_insertion
+3930441	4	C	Ins	T	18	18	780	99	18	Ala1291Ala	PE_PGRS53	PE_PGRS53	inframe_insertion
+3930476	1	A	Ins	A	5	5	159	99	5	Asn1303Asn	PE_PGRS53	PE_PGRS53	inframe_insertion
+3930476	2	A	Ins	C	5	5	159	99	5	Asn1303Asn	PE_PGRS53	PE_PGRS53	inframe_insertion
+3930476	3	A	Ins	G	5	5	159	99	5	Asn1303Asn	PE_PGRS53	PE_PGRS53	inframe_insertion
+3930476	4	A	Ins	G	5	5	159	99	5	Asn1303Asn	PE_PGRS53	PE_PGRS53	inframe_insertion
+3930476	5	A	Ins	C	5	5	159	99	5	Asn1303Asn	PE_PGRS53	PE_PGRS53	inframe_insertion
+3930476	6	A	Ins	G	5	5	159	99	5	Asn1303Asn	PE_PGRS53	PE_PGRS53	inframe_insertion
+3930476	7	A	Ins	G	5	5	159	99	5	Asn1303Asn	PE_PGRS53	PE_PGRS53	inframe_insertion
+3930476	8	A	Ins	C	5	5	159	99	5	Asn1303Asn	PE_PGRS53	PE_PGRS53	inframe_insertion
+3930476	9	A	Ins	A	5	5	159	99	5	Asn1303Asn	PE_PGRS53	PE_PGRS53	inframe_insertion
+3930476	10	A	Ins	C	5	5	159	99	5	Asn1303Asn	PE_PGRS53	PE_PGRS53	inframe_insertion
+3932774	1	C	Ins	C	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	2	C	Ins	G	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	3	C	Ins	G	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	4	C	Ins	C	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	5	C	Ins	G	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	6	C	Ins	C	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	7	C	Ins	C	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	8	C	Ins	G	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	9	C	Ins	G	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	10	C	Ins	C	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	11	C	Ins	G	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	12	C	Ins	G	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	13	C	Ins	C	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	14	C	Ins	G	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	15	C	Ins	C	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	16	C	Ins	G	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	17	C	Ins	G	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	18	C	Ins	G	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	19	C	Ins	T	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	20	C	Ins	G	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	21	C	Ins	G	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	22	C	Ins	C	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	23	C	Ins	G	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	24	C	Ins	C	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	25	C	Ins	C	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	26	C	Ins	G	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	27	C	Ins	G	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	28	C	Ins	C	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	29	C	Ins	G	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	30	C	Ins	C	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	31	C	Ins	G	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	32	C	Ins	G	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	33	C	Ins	A	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	34	C	Ins	C	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	35	C	Ins	G	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	36	C	Ins	C	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	37	C	Ins	G	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	38	C	Ins	A	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	39	C	Ins	C	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	40	C	Ins	C	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	41	C	Ins	G	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	42	C	Ins	C	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	43	C	Ins	T	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	44	C	Ins	A	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	45	C	Ins	C	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	46	C	Ins	C	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	47	C	Ins	G	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	48	C	Ins	G	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	49	C	Ins	C	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	50	C	Ins	G	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	51	C	Ins	C	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	52	C	Ins	C	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	53	C	Ins	A	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	54	C	Ins	C	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	55	C	Ins	C	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	56	C	Ins	G	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	57	C	Ins	G	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	58	C	Ins	C	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	59	C	Ins	G	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	60	C	Ins	G	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	61	C	Ins	C	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	62	C	Ins	A	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	63	C	Ins	C	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	64	C	Ins	C	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	65	C	Ins	G	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	66	C	Ins	G	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	67	C	Ins	G	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	68	C	Ins	T	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	69	C	Ins	T	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	70	C	Ins	C	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	71	C	Ins	G	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	72	C	Ins	C	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	73	C	Ins	C	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	74	C	Ins	G	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	75	C	Ins	G	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3932774	76	C	Ins	T	12	12	335	99	12	Gly590Gly	PE_PGRS54	PE_PGRS54	inframe_insertion
+3934542	0	T	SNP	G	8	8	262	99	8	Ser1180Ala	PE_PGRS54	PE_PGRS54	missense_variant
+3935471	0	C	SNP	T	3	3	125	99	3	Gly1489Gly	PE_PGRS54	PE_PGRS54	synonymous_variant
+3935473	0	G	Del	GAP	3	3	125	99	3		PE_PGRS54	PE_PGRS54	frameshift_variant
+3935479	1	G	Ins	G	3	3	125	99	3	Gly1492Gly	PE_PGRS54	PE_PGRS54	frameshift_variant
+3935479	2	G	Ins	A	3	3	125	99	3	Gly1492Gly	PE_PGRS54	PE_PGRS54	frameshift_variant
+3935482	0	G	Del	GAP	3	3	125	99	3		PE_PGRS54	PE_PGRS54	inframe_deletion
+3935490	1	G	Ins	G	3	3	125	99	3	Gly1496Glu	PE_PGRS54	PE_PGRS54	frameshift_variant
+3935490	2	G	Ins	A	3	3	125	99	3	Gly1496Glu	PE_PGRS54	PE_PGRS54	frameshift_variant
+3935490	3	G	Ins	A	3	3	125	99	3	Gly1496Glu	PE_PGRS54	PE_PGRS54	frameshift_variant
+3935492	0	G	Del	GAP	3	3	125	99	3		PE_PGRS54	PE_PGRS54	frameshift_variant
+3935500	0	G	Del	GAP	3	3	125	99	3		PE_PGRS54	PE_PGRS54	inframe_deletion
+3935507	0	C	SNP	G	2	2	80	90	2	Ala1501Ala	PE_PGRS54	PE_PGRS54	synonymous_variant
+3935517	0	G	SNP	A	2	2	80	90	2	Ala1505Thr	PE_PGRS54	PE_PGRS54	missense_variant
+3935518	0	C	SNP	G	2	2	80	90	2	Ala1505Gly	PE_PGRS54	PE_PGRS54	missense_variant
+3935950	0	T	SNP	C	4	4	141	99	4	Val1649Ala	PE_PGRS54	PE_PGRS54	missense_variant
+3940802	0	A	SNP	G	19	19	626	99	19	Asn396Asp	PE_PGRS55	PE_PGRS55	missense_variant
+3942481	0	C	SNP	G	40	40	1565	99	40				intergenic_variant
+3942640	0	T	SNP	C	48	48	1706	99	48				intergenic_variant
+3943019	0	C	SNP	G	50	50	1767	99	50		PE_PGRS56	PE_PGRS56	upstream_transcript_variant
+3945519	0	C	SNP	T	75	75	2684	99	75	Gly77Asp	fadD18	fadD18	missense_variant
+3946804	0	G	SNP	T	6	6	260	99	6	Gly337Gly	PE_PGRS57	PE_PGRS57	synonymous_variant
+3946807	0	C	SNP	T	3	3	125	99	3	Ala338Ala	PE_PGRS57	PE_PGRS57	synonymous_variant
+3946813	0	A	SNP	G	2	2	80	90	2	Gly340Gly	PE_PGRS57	PE_PGRS57	synonymous_variant
+3948404	0	T	SNP	G	3	3	125	99	3	Cys871Gly	PE_PGRS57	PE_PGRS57	missense_variant
+3948414	0	T	SNP	G	4	4	170	99	4	Val874Gly	PE_PGRS57	PE_PGRS57	missense_variant
+3948417	0	T	SNP	G	5	5	207	99	5	Val875Gly	PE_PGRS57	PE_PGRS57	missense_variant
+3949000	0	G	SNP	C	12	12	479	99	12	Gly1069Gly	PE_PGRS57	PE_PGRS57	synonymous_variant
+3949001	0	G	SNP	A	12	12	479	99	12	Ala1070Thr	PE_PGRS57	PE_PGRS57	missense_variant
+3950177	0	A	SNP	G	34	34	1290	99	34	Thr1462Ala	PE_PGRS57	PE_PGRS57	missense_variant
+3951429	0	C	SNP	G	110	110	4017	99	110	Ala348Phe	fadD19	fadD19	missense_variant
+3952800	0	G	SNP	A	140	140	5022	99	140	Gly86Asp	echA19	echA19	missense_variant
+3958403	0	A	SNP	G	138	138	5368	99	138	Asn295Asp	Rv3521	Rv3521	missense_variant
+3959418	0	C	SNP	T	131	131	4821	99	131	Thr324Ile	ltp4	ltp4	missense_variant
+3966813	0	G	SNP	A	126	126	4866	99	126		Rv3529c	Rv3529c	stop_gained
+3969137	0	G	SNP	C	137	137	5220	99	137		Rv3531c	Rv3531c	upstream_transcript_variant
+3971428	0	G	SNP	T	102	102	3748	99	102	Ser342Arg	PPE62	PPE62	missense_variant
+3973152	0	C	SNP	G	116	116	4188	99	116	Glu147Asp	hsaF	hsaF	missense_variant
+3989135	0	C	SNP	T	124	124	4929	99	124		Rv3548c	Rv3548c	upstream_transcript_variant
+3992863	0	C	SNP	T	161	161	6306	99	161	Ser60Phe	fdxB	fdxB	missense_variant
+4004650	0	C	SNP	T	127	127	4807	99	127	Thr120Thr	fadE32	fadE32	synonymous_variant
+4005555	0	T	SNP	C	161	161	6241	99	161	Asp103Asp	fadE33	fadE33	synonymous_variant
+4005607	0	T	SNP	C	156	156	5797	99	156	Leu121Leu	fadE33	fadE33	synonymous_variant
+4007194	0	A	SNP	C	116	116	4471	99	116	Asp332Ala	aspB	aspB	missense_variant
+4024273	0	T	SNP	C	106	106	3871	99	106	Val25Val	ispF	ispF	synonymous_variant
+4026899	0	G	SNP	A	131	131	4808	99	131	Gln152Gln	radA	radA	synonymous_variant
+4027247	0	G	SNP	A	124	124	4537	99	124	Leu268Leu	radA	radA	synonymous_variant
+4031626	0	G	SNP	A	126	126	4107	99	126	Gly511Gly	PE_PGRS58	PE_PGRS58	synonymous_variant
+4034827	0	C	SNP	T	147	147	4893	99	147	Ala159Val	lpqF	lpqF	missense_variant
+4037283	0	T	SNP	G	83	83	3303	99	83	Gly256Gly	PE_PGRS59	PE_PGRS59	synonymous_variant
+4053050	0	A	SNP	G	10	10	202	99	10		ftsH	ftsH	upstream_transcript_variant
+4055801	0	G	SNP	A	117	117	4442	99	117	Thr192Ile	espA	espA	missense_variant
+4059904	0	A	SNP	G	133	133	5180	99	133		Rv3618	Rv3618	downstream_transcript_variant
+4063682	0	G	SNP	T	148	148	5692	99	148	Leu75Met	hpt	hpt	missense_variant
+4069292	0	G	SNP	A	116	116	4148	99	116	Ala40Thr	Rv3630	Rv3630	missense_variant
+4075825	0	C	SNP	A	126	126	4752	99	126				intergenic_variant
+4086802	0	G	SNP	A	137	137	4827	99	137	His152His	topA	topA	synonymous_variant
+4095001	0	C	Del	GAP	109	109	4118	99	109		Rv3655c	Rv3655c	frameshift_variant
+4095728	0	C	SNP	G	109	109	4048	99	109	Gly130Arg	Rv3657c	Rv3657c	missense_variant
+4100975	0	T	SNP	C	92	92	3186	99	92		Rv3662c	Rv3662c	downstream_transcript_variant
+4111303	0	G	SNP	C	142	142	5270	99	142	Val159Val	Rv3669	Rv3669	synonymous_variant
+4117167	0	G	Del	GAP	154	154	6465	99	154		crp	crp	downstream_transcript_variant
+4121727	0	A	SNP	C	128	128	4890	99	128		whiB4	whiB4	upstream_transcript_variant
+4145770	0	C	SNP	A	121	121	4580	99	121	Glu374Asp	etgB	etgB	missense_variant
+4146314	0	G	SNP	T	114	114	4307	99	114	Phe193Gln	etgB	etgB	missense_variant
+4151855	0	A	SNP	G	121	121	4659	99	121	Phe121Phe	asd	asd	synonymous_variant
+4156099	0	C	SNP	A	116	116	4224	99	116	Val211Leu	dnaQ	dnaQ	missense_variant
+4159195	0	T	SNP	C	108	108	3928	99	108	Phe209Phe	Rv3714c	Rv3714c	synonymous_variant
+4162339	0	A	SNP	G	152	152	5565	99	152	Thr12Ala	Rv3719	Rv3719	missense_variant
+4182695	0	G	SNP	A	110	110	3876	99	110	Arg313His	ligC	ligC	missense_variant
+4187485	0	T	SNP	C	161	161	5985	99	161	Ala284Ala	Rv3736	Rv3736	synonymous_variant
+4187817	0	A	SNP	G	91	91	3523	99	91	Asp40Gly	Rv3737	Rv3737	missense_variant
+4190332	0	A	SNP	G	144	144	5149	99	144	Gly62Gly	PPE67	PPE67	synonymous_variant
+4197138	1	C	Ins	C	125	125	4299	99	125		PE34	PE34	upstream_transcript_variant
+4197138	2	C	Ins	T	125	125	4299	99	125		PE34	PE34	upstream_transcript_variant
+4198611	0	C	Del	GAP	146	146	4522	99	146		Rv3749c	Rv3749c	upstream_transcript_variant
+4204441	0	A	SNP	G	150	150	5600	99	150	His311His	proX	proX	synonymous_variant
+4205120	0	A	SNP	G	127	127	5102	99	127	Leu85Phe	proX	proX	missense_variant
+4210274	0	A	SNP	G	141	141	5180	99	141	Cys246Arg	tcrY	tcrY	missense_variant
+4216779	0	G	SNP	C	125	125	4658	99	125		Rv3771c	Rv3771c	upstream_transcript_variant
+4221490	0	C	SNP	G	89	89	3326	99	89	Leu134Leu	Rv3776	Rv3776	synonymous_variant
+4222882	0	A	SNP	G	114	114	4348	99	114	Leu63Leu	Rv3777	Rv3777	synonymous_variant
+4223172	0	T	SNP	C	67	67	2673	99	67	Val160Ala	Rv3777	Rv3777	missense_variant
+4233665	0	G	SNP	A	128	128	4995	99	128	Ala291Val	Rv3787c	Rv3787c	missense_variant
+4237887	0	G	SNP	A	132	132	4963	99	132	Leu241Leu	dprE2	dprE2	synonymous_variant
+4239298	0	C	SNP	T	131	131	4872	99	131	Ala456Val	aftA	aftA	missense_variant
+4242643	0	C	SNP	T	140	140	5009	99	140	Arg927Arg	embC	embC	synonymous_variant
+4242803	0	G	SNP	C	131	131	5003	99	131	Val981Leu	embC	embC	missense_variant
+4247730	0	G	SNP	C	152	152	5523	99	152	Gly406Ala	embB	embB	missense_variant
+4255922	0	A	SNP	G	140	140	5365	99	140	His9His	accD4	accD4	synonymous_variant
+4256758	0	G	SNP	C	73	73	2772	99	73	Phe1463Phe	pks13	pks13	synonymous_variant
+4279126	0	G	SNP	T	115	115	4444	99	115	Asp30Glu	Rv3813c	Rv3813c	missense_variant
+4284347	0	C	SNP	T	128	128	4654	99	128		Rv3819	Rv3819	downstream_transcript_variant
+4296015	0	G	SNP	A	153	153	5630	99	153	Asp1197Asp	pks2	pks2	synonymous_variant
+4299724	0	G	SNP	T	135	135	5069	99	135		pks2	pks2	upstream_transcript_variant
+4302036	0	T	SNP	C	131	131	4812	99	131	Thr252Ala	Rv3827c	Rv3827c	missense_variant
+4306155	0	C	SNP	T	124	124	4612	99	124	Ser133Ser	Rv3831	Rv3831	synonymous_variant
+4306929	0	G	SNP	T	137	137	5054	99	137	Arg21Arg	Rv3833	Rv3833	synonymous_variant
+4307179	0	G	SNP	A	127	127	4930	99	127	Val105Ile	Rv3833	Rv3833	missense_variant
+4314645	0	A	SNP	G	159	159	5855	99	159	Leu156Leu	bfrB	bfrB	synonymous_variant
+4315859	0	C	SNP	T	140	140	5158	99	140	Phe246Phe	Rv3843c	Rv3843c	synonymous_variant
+4323348	0	C	SNP	T	132	132	5710	99	132		espR	espR	upstream_transcript_variant
+4323355	0	G	SNP	C	129	129	5463	99	129		espR	espR	upstream_transcript_variant
+4324627	0	G	SNP	A	126	126	4932	99	126	Asp205Asn	Rv3850	Rv3850	missense_variant
+4331585	0	G	SNP	A	127	127	5028	99	127	Asp1499Asp	gltB	gltB	synonymous_variant
+4337622	0	G	SNP	A	104	104	4074	99	104	Ala282Ala	Rv3860	Rv3860	synonymous_variant
+4337736	0	G	SNP	A	108	108	4210	99	108	Lys320Lys	Rv3860	Rv3860	synonymous_variant
+4338595	0	G	Del	GAP	156	156	6021	99	156		whiB6	whiB6	upstream_transcript_variant
+4338732	0	G	SNP	A	124	124	4883	99	124		whiB6	whiB6	upstream_transcript_variant
+4340006	0	A	SNP	C	139	139	5277	99	139	Ala386Ala	Rv3863	Rv3863	synonymous_variant
+4346164	0	A	SNP	G	145	145	5518	99	145	Met376Val	eccB1	eccB1	missense_variant
+4351039	0	G	SNP	T	121	121	4623	99	121		PE35	PE35	stop_gained
+4351160	0	C	SNP	T	127	127	4183	99	127	Ala29Val	PPE68	PPE68	missense_variant
+4352475	0	G	SNP	A	130	130	4891	99	130	Glu68Lys	esxB	esxB	missense_variant
+4356110	0	G	SNP	C	128	128	4933	99	128	Leu368Leu	eccD1	eccD1	synonymous_variant
+4357123	0	C	SNP	A	122	122	4736	99	122	Thr144Lys	espJ	espJ	missense_variant
+4357597	0	C	SNP	G	145	145	5405	99	145	Cys729Ser	espK	espK	missense_variant
+4359667	0	A	SNP	C	165	165	6232	99	165	Leu39Trp	espK	espK	missense_variant
+4362807	0	A	SNP	G	125	125	4660	99	125	Val205Ala	eccE1	eccE1	missense_variant
+4365461	0	G	SNP	A	155	155	5928	99	155		eccA2	eccA2	stop_gained
+4366195	0	T	SNP	C	158	158	5895	99	158	Glu215Gly	eccA2	eccA2	missense_variant
+4366272	0	G	SNP	C	134	134	4967	99	134	Ala189Ala	eccA2	eccA2	synonymous_variant
+4369613	0	C	Del	GAP	74	74	2244	99	74		mycP2	mycP2	frameshift_variant
+4373007	0	C	Del	GAP	138	138	4391	99	138		espG2	espG2	frameshift_variant
+4375625	0	G	Del	GAP	134	134	4032	99	134		PPE69	PPE69	splice_region_variant
+4379680	0	C	SNP	G	116	116	4316	99	116	Arg258Phe	eccC2	eccC2	missense_variant
+4382054	0	T	SNP	C	116	116	4251	99	116	Ala266Ala	Rv3896c	Rv3896c	synonymous_variant
+4382275	0	G	SNP	T	135	135	5270	99	135	Gln193Lys	Rv3896c	Rv3896c	missense_variant
+4383144	1	C	Ins	C	128	128	5262	99	128	Gly166Ala	Rv3897c	Rv3897c	frameshift_variant
+4383144	2	C	Ins	C	128	128	5262	99	128	Gly166Ala	Rv3897c	Rv3897c	frameshift_variant
+4383144	3	C	Ins	G	128	128	5262	99	128	Gly166Ala	Rv3897c	Rv3897c	frameshift_variant
+4383144	4	C	Ins	G	128	128	5262	99	128	Gly166Ala	Rv3897c	Rv3897c	frameshift_variant
+4383144	5	C	Ins	G	128	128	5262	99	128	Gly166Ala	Rv3897c	Rv3897c	frameshift_variant
+4383144	6	C	Ins	G	128	128	5262	99	128	Gly166Ala	Rv3897c	Rv3897c	frameshift_variant
+4384112	0	C	SNP	T	120	120	4439	99	120		Rv3897c	Rv3897c	upstream_transcript_variant
+4384417	0	C	SNP	T	109	109	3876	99	109	Leu321Leu	Rv3899c	Rv3899c	synonymous_variant
+4386228	0	T	SNP	C	96	96	3344	99	96	Leu27Leu	Rv3900c	Rv3900c	synonymous_variant
+4386709	0	C	SNP	T	109	109	4204	99	109	Ala36Thr	Rv3901c	Rv3901c	missense_variant
+4392074	0	G	SNP	T	149	149	5687	99	149	Leu334Met	pcnA	pcnA	missense_variant
+4393178	0	A	SNP	G	89	89	3288	99	89		pcnA	pcnA	upstream_transcript_variant
+4399185	0	C	SNP	T	97	97	3683	99	97	Arg863Arg	Rv3910	Rv3910	synonymous_variant
+4400660	0	A	Del	GAP	73	73	2469	99	73		sigM	sigM	frameshift_variant
+4402247	0	C	SNP	T	139	139	5153	99	139	Leu174Leu	trxB2	trxB2	synonymous_variant
+4404034	0	C	SNP	G	141	141	5422	99	141	Gly281Gly	cwlM	cwlM	synonymous_variant
+4404313	0	G	SNP	A	122	122	4857	99	122	Leu374Leu	cwlM	cwlM	synonymous_variant
+4404832	0	G	SNP	T	142	142	5061	99	142	Gly112Gly	Rv3916c	Rv3916c	synonymous_variant
+4407872	0	C	Del	GAP	117	117	4983	99	117		gid	gid	frameshift_variant

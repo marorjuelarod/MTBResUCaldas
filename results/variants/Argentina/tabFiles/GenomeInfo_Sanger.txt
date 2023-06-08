@@ -1,0 +1,6 @@
+Sample name	RIF Resistance	Codon number	Codon	RR mutation
+tabFiles\ERR757160.tab	DETECTED	450	TTG	Ser450Leu
+tabFiles\ERR757165.tab	DETECTED	450	TTG	Ser450Leu
+tabFiles\ERR757173.tab	DETECTED	450	TTG	Ser450Leu
+tabFiles\ERR757189.tab	DETECTED	450	TTG	Ser450Leu
+tabFiles\ERR760600.tab	DETECTED	450	TTG	Ser450Leu

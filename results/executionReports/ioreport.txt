@@ -1,0 +1,15 @@
+REPORTE DE EJECUCIÓN: Reporte de valores ingresados
+
+Creando carpeta de resultados ...
+	Se creó la carpeta exitosamente
+Creando carpeta de reportes de ejecución ...
+	Se creó la carpeta exitosamente
+
+Validando argumentos de entrada ...
+	Carpeta válida: variants
+	Archivo de relación de resistencia gen-antibiótico válido: Mutaciones_resistencia_programa.xlsx
+	Archivo de relación de codon-genoma válido: default_mapfile.txt
+	Realiza todos los tests
+	Realiza resumen de archivos .tab
+
+FINAL DEL REPORTE
